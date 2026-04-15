@@ -35,7 +35,7 @@
       "equipment_code": "QA1",
       "signal_name": "REM.CMD",
       "name_is": "STÝRING",
-      "name_en": "CB/DISCONNECTOR COMMAND OPEN/CLOSE FROM DISPATCH",
+      "name_en": "f",
       "state_id": "OpenCloseDC",
       "iec61850_ied": null,
       "iec61850_ld": null,
