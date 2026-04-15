@@ -30,7 +30,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "AcSys.Fail",
     "name_is": "AC KERFI",
     "description_is": "AC bilun",
     "name_en": "AC GROUP ALARM",
@@ -90,7 +90,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "AcVlt.Alm",
     "name_is": "AC SPENNA",
     "description_is": "AC spenna viðvörun",
     "name_en": "AC POWER SUPPLY ALARM",
@@ -150,7 +150,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "AcDc.Batt.Alm",
     "name_is": "AC/DC SJÁLFVÖR",
     "description_is": "AC/DC SJÁLVÖR ALMENNT",
     "name_en": "AC/DC MCB OPEN GENERAL ALARM",
@@ -180,7 +180,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "AcDc.Vlt.Alm",
     "name_is": "AC/DC SPENNA",
     "description_is": "AC/DC spenna bundin merki fyrir fæðingu á búnaði",
     "name_en": "AC/DC POWER SUPPLY ALARM",
@@ -240,7 +240,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "AccessSys.Fail",
     "name_is": "AÐGANGSSTÝRING",
     "description_is": "Aðgangsstýring bilun",
     "name_en": "ACCESS SYSTEM ALARM",
@@ -270,7 +270,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "HydroGas.Meas",
     "name_is": "KOLVETNISGAS",
     "description_is": "Mæling á kolvetnisgasi",
     "name_en": "ACETYLENE C2H2",
@@ -300,7 +300,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ActPwr.Meas",
     "name_is": "RAUNORKA",
     "description_is": "Mæling á raunorku",
     "name_en": "ACTIVE ENERGY (kWh)",
@@ -360,7 +360,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "WtrTnk.1",
     "name_is": "VATNSTANKUR",
     "description_is": "Tankur fyrir neysluvatn",
     "name_en": "ALARM FOR LOW LEVEL IN WATER TANK",
@@ -390,7 +390,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "LCC.Tmp.Low",
     "name_is": "LCC HITASTIG LÁGT",
     "description_is": "Hitastigs mæling í LCC skáp",
     "name_en": "ALARM FOR LOW TEMPERATURE IN LCC",
@@ -420,7 +420,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "OilFlow.Alm",
     "name_is": "OLÍUFLÆÐI",
     "description_is": "Viðvörun vegna olíuflæðis",
     "name_en": "ALARM FOR OIL FLOW",
@@ -930,7 +930,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Ctrl.Alm",
     "name_is": "REITARSTÝRING",
     "description_is": "Reitarstýring viðvörun",
     "name_en": "BAY CONTROL ALARM",
@@ -960,7 +960,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "BayIED.Comm.Alm",
     "name_is": "REITARTÖLVA SAMSKIPTI",
     "description_is": "Reitartölva samskipti viðvörun",
     "name_en": "BAY CONTROL COMMUNICATION",
@@ -1020,7 +1020,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "BayIED.Alm",
     "name_is": "REITARTÖLVA",
     "description_is": "Reitartölva viðvörun",
     "name_en": "BAY CONTROL GENERAL STATE",
@@ -1050,7 +1050,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GS100.In",
     "name_is": "GS100 HNAPPUR INN",
     "description_is": "GS100 hnappur á panel inn",
     "name_en": "BAY CONTROL PUSH BUTTON CLOSE",
@@ -1080,7 +1080,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GS100.Out",
     "name_is": "GS100 HNAPPUR ÚT",
     "description_is": "GS100 hnappur á panel út",
     "name_en": "BAY CONTROL PUSH BUTTON OPEN",
@@ -1290,7 +1290,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CBLock.On",
     "name_is": "LÆSIKÓLFUR AFLROFA Á",
     "description_is": "Stýring aflrofalæsing sett á - læsikólfur gerður virkur fyrir DCB rofa - ekki leyft",
     "name_en": "BLOCK INTERLOCKED FOR DCB SWITCH",
@@ -1320,7 +1320,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.BotOilTmp.Meas",
     "name_is": "BOTN OLÍUHITI",
     "description_is": "Mæling á botn olíuhita spennis",
     "name_en": "BOTTOM OIL TEMPERATURE",
@@ -1380,7 +1380,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "IntrSys.Alm",
     "name_is": "INNBROTSKERFI",
     "description_is": "Innbrotskerfi viðvörun",
     "name_en": "BREAK-IN-ALARM",
@@ -1410,7 +1410,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "IntrSys.Fail",
     "name_is": "INNBROTSKERFI",
     "description_is": "Innbrotskerfi bilun",
     "name_en": "BREAK-IN-ALARM SYSTEM FAILURE",
@@ -1740,7 +1740,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CO2.Meas",
     "name_is": "KOLTVÍOXÍÐ",
     "description_is": "Mæling á koltvíoxíð",
     "name_en": "CARBON DIOXIDE CO2",
@@ -1770,7 +1770,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CO.Meas",
     "name_is": "KOLMÓNOXÍÐ",
     "description_is": "Mæling á kolmónoxíð",
     "name_en": "CARBON MONOXIDE CO",
@@ -1920,7 +1920,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Gen.Alm",
     "name_is": "ROFI ALMENNT",
     "description_is": "Rofi viðvörun",
     "name_en": "CB/DISCONNECT/EARTH SWITCH - ALARM",
@@ -2010,7 +2010,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CCTV.Alm",
     "name_is": "MYNDAVÉLAKERFI",
     "description_is": "Myndavélakerfi viðvörun",
     "name_en": "CCTV SURVEILLANCE SYSTEM",
@@ -2220,7 +2220,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Fail",
     "name_is": "AFLROFI",
     "description_is": "aflrofi bilun",
     "name_en": "CIRCUIT BREAKER  WARNING/FAILURE",
@@ -2430,7 +2430,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Telecom.Tr",
     "name_is": "FJARSKIPTI HÚSKERFI",
     "description_is": "Fjarskiptikerfi útleysing",
     "name_en": "COMMUNICATION ALARM HOUSE",
@@ -2460,7 +2460,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Comm.Fail",
     "name_is": "SAMSKIPTI",
     "description_is": "Samskiptabilun",
     "name_en": "COMMUNICATION ERROR",
@@ -2580,7 +2580,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CtrlSys.Off",
     "name_is": "STJÓRNKERFI ÓVIRKT",
     "description_is": "Stjórnkerfi óvirkt",
     "name_en": "CONTROL SYSTEM OFF",
@@ -2670,7 +2670,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.Cool.Fail",
     "name_is": "KÆLIVIFTUR AFLSP",
     "description_is": "Kælikerfi/kæling spennis bilun (útlur – dælur)",
     "name_en": "COOLING EQUIPMENT FANS ALARM",
@@ -3060,7 +3060,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DC.Fdr.Tr",
     "name_is": "DC VEITA",
     "description_is": "Útsleginn aflrofi í DC veitu",
     "name_en": "DC BREAKER",
@@ -3090,7 +3090,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DC.Earth",
     "name_is": "DC JÖRÐ",
     "description_is": "DC jörð",
     "name_en": "DC EARTH FAULT",
@@ -3120,7 +3120,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DC.Sys.Fail",
     "name_is": "DC KERFI",
     "description_is": "DC bilun",
     "name_en": "DC GROUP ALARM",
@@ -3150,7 +3150,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DC.Batt.Alm",
     "name_is": "DC SJÁLFVÖR",
     "description_is": "DC SJÁLVÖR ALMENNT",
     "name_en": "DC MCB OPEN",
@@ -3270,7 +3270,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DC.DischargeTest",
     "name_is": "DC PRÓFUN AFHLEÐSLA",
     "description_is": "DC Var inn vegna afhleðsluprófana",
     "name_en": "DC TEST DISCHARGE",
@@ -3420,7 +3420,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CBLock.Off",
     "name_is": "LÆSIKÓLFUR AFLROFA AF",
     "description_is": "Stýring aflrofalæsing tekin af - læsikólfur tekin af fyrir DCB rofa - ekki leyfð",
     "name_en": "DEBLOCK INTERLOCKED FOR DCB SWITCH",
@@ -3510,7 +3510,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DECT.TapSel",
     "name_is": "DECT ÞREPSK",
     "description_is": "XM60",
     "name_en": "DETC TAPCh",
@@ -3750,7 +3750,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DisEarth.Fail",
     "name_is": "SKIL/JARÐROFI",
     "description_is": "Rofabúnaður BILUN",
     "name_en": "DISCONNECT/EARTH SWITCH FAULT",
@@ -3810,7 +3810,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Mech.Fail",
     "name_is": "VÉLRÆNN BÚNAÐUR",
     "description_is": "Mekanísk bilun skilrofa/jarðrofa",
     "name_en": "DISCONNECT/EARTH SWITCH MECHANICAL FAULT",
@@ -4260,7 +4260,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.VolSpt.2",
     "name_is": "ÓSKGILDI 2",
     "description_is": "Óskgildi 2 í AVR",
     "name_en": "EDIT SETPOINT 2 (KV)",
@@ -4290,7 +4290,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.VolSpt.3",
     "name_is": "ÓSKGILDI 3",
     "description_is": "Óskgildi 3 í AVR",
     "name_en": "EDIT SETPOINT 3 (KV)",
@@ -4320,7 +4320,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.VolSpt.4",
     "name_is": "ÓSKGILDI 4",
     "description_is": "Óskgildi 4 í í AVR",
     "name_en": "EDIT SETPOINT 4 (KV)",
@@ -4530,7 +4530,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Ethane.Meas",
     "name_is": "ETAN",
     "description_is": "Mæling á etan",
     "name_en": "ETHANE C2H6",
@@ -4560,7 +4560,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Ethylene.Meas",
     "name_is": "ETÝLEN",
     "description_is": "Mæling á etýlen",
     "name_en": "ETHYLENE CH2",
@@ -4590,7 +4590,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Fire.Alm",
     "name_is": "BRUNAKERFI",
     "description_is": "Brunakerfi viðvörun/eldur",
     "name_en": "FIRE SYSTEM ALARM",
@@ -4620,7 +4620,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Fire.Fail",
     "name_is": "BRUNAKERFI",
     "description_is": "Brunakerfi bilun",
     "name_en": "FIRE SYSTEM FAILURE",
@@ -4650,7 +4650,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Fire.Smoke",
     "name_is": "BRUNAKERFI",
     "description_is": "Viðvörun þegar skynjarar eru 80% mettaðir af reyk eða skít.",
     "name_en": "FIRE SYSTEM PRE-ALARM",
@@ -4800,7 +4800,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.Gas.H2",
     "name_is": "GAS Í SPENNI",
     "description_is": "GAS í spenni, mörk 2",
     "name_en": "GAS ALARM",
@@ -4860,7 +4860,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Gas.InsAlm2",
     "name_is": "GAS ÞRÝSTINGUR",
     "description_is": "Gas alvarleg viðvörun (stage 2)",
     "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
@@ -4920,7 +4920,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GasMon.Alm",
     "name_is": "GASVÖKTUNARKERFI",
     "description_is": "Gasvöktunarkerfi viðvörun",
     "name_en": "GAS MONITORING SYSTEM ALARM",
@@ -5010,7 +5010,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.Gas.H1",
     "name_is": "GAS Í SPENNI",
     "description_is": "GAS í spenni, mörk 1",
     "name_en": "GAS WARNING",
@@ -5130,7 +5130,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GPS.Fail",
     "name_is": "GPS KLUKKA",
     "description_is": "GPS klukka bilun",
     "name_en": "GPS CLOCK FAILURE",
@@ -5160,7 +5160,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Gen.Alm",
     "name_is": "SAFNVIÐVÖRUN",
     "description_is": "Safnviðvörun",
     "name_en": "GROUP ALARM",
@@ -5220,7 +5220,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Heat.Alm",
     "name_is": "HITAKERFI",
     "description_is": "Hitakerfi viðvörun",
     "name_en": "HEATING SYSTEM ALARM",
@@ -5250,7 +5250,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "H2.Meas",
     "name_is": "VETNI",
     "description_is": "Mæling á vetni",
     "name_en": "HYDROGEN (H2)",
@@ -5310,7 +5310,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GIS.Ins.Alm",
     "name_is": "EINANGRUNARBILUN GIS",
     "description_is": "EINANGRUN GIS VIÐVÖRUN",
     "name_en": "INSULATION ALARM",
@@ -5340,7 +5340,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GIS.Ins.Blk",
     "name_is": "EINANGRUNARBILUN GIS",
     "description_is": "EINANGRUN GIS LÆSING",
     "name_en": "INSULATION BLOCK",
@@ -5700,7 +5700,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DS.MotDrv.Alm",
     "name_is": "SJÁLFVAR DRIF SKILROFA",
     "description_is": "Rofi sjálfvar viðvörun",
     "name_en": "MCB DISCONNECTOR SWITCH SUPPLY",
@@ -5880,7 +5880,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Meter.Alm",
     "name_is": "MÆLASTÖÐ",
     "description_is": "Mælastöð viðvörun",
     "name_en": "MEASURING DEVICE",
@@ -5910,7 +5910,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Meter.Comm.Alm",
     "name_is": "MÆLASTÖÐ SAMSKIPTI",
     "description_is": "Mælastöð samskipti viðvörun",
     "name_en": "MEASURING DEVICE COMM",
@@ -5970,7 +5970,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.AiSpt.2",
     "name_is": "ÓSKGILDI 2",
     "description_is": "Óskgildi 2 í AVR",
     "name_en": "MEASURMENT SETPOINT 2 (KV)",
@@ -6000,7 +6000,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.AiSpt.3",
     "name_is": "ÓSKGILDI 3",
     "description_is": "Óskgildi 3 í AVR",
     "name_en": "MEASURMENT SETPOINT 3 (KV)",
@@ -6030,7 +6030,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.AiSpt.4",
     "name_is": "ÓSKGILDI 4",
     "description_is": "Óskgildi 4 í í AVR",
     "name_en": "MEASURMENT SETPOINT 4 (KV)",
@@ -6150,7 +6150,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CH4.Meas",
     "name_is": "METAN",
     "description_is": "Mæling á metan",
     "name_en": "METAN CH4",
@@ -6180,7 +6180,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.Hum.H2",
     "name_is": "RAKI Í SPENNI",
     "description_is": "Raki í spenni, mörk 2",
     "name_en": "MOISTURE ALARM",
@@ -6210,7 +6210,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.Hum.H1",
     "name_is": "RAKI Í SPENNI",
     "description_is": "Raki í spenni, mörk 1",
     "name_en": "MOISTURE WARNING",
@@ -6240,7 +6240,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "N2.Blk",
     "name_is": "KÖFNUNAREFNI - N2",
     "description_is": "Læsing á rofadrifi vegna N2",
     "name_en": "N2 LOCKOUT",
@@ -6270,7 +6270,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "N2.Alm",
     "name_is": "KÖFNUNAREFNI - N2",
     "description_is": "Köfnunarefni (N2) viðvörun",
     "name_en": "N2 PRESSURE ALARM",
@@ -6300,7 +6300,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "NetSw.Alm",
     "name_is": "NETSKIPTIR",
     "description_is": "Viðvörun frá netskipti",
     "name_en": "NETWORK SWITCH ALARM",
@@ -6330,7 +6330,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "NetSw.Fail",
     "name_is": "NETSKIPTIR",
     "description_is": "Bilun í netskipti",
     "name_en": "NETWORK SWITCH FAILURE",
@@ -6360,7 +6360,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "OilLock.Blk",
     "name_is": "OLÍU LOKUNARLÆSING",
     "description_is": "Læsing á rofadrifi vegna Olíulokunar",
     "name_en": "OIL CLOSE LOCKOUT",
@@ -6480,7 +6480,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Oil.Blk",
     "name_is": "OLÍU LÆSING",
     "description_is": "Læsing á rofadrifi vegna Olíu",
     "name_en": "OIL LOCKOUT",
@@ -6510,7 +6510,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "OilHum.Meas",
     "name_is": "RAKASTIG OLÍU",
     "description_is": "Mæling á rakastigi olíu",
     "name_en": "OIL MOISTURE",
@@ -6630,7 +6630,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.OilTmp.Meas",
     "name_is": "OLÍUHITI",
     "description_is": "Mæling á olíuhita spennis",
     "name_en": "OIL TEMPERATURE",
@@ -7230,7 +7230,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "OV1.Alm",
     "name_is": "YFIRSPENNA",
     "description_is": "Yfirspenna viðvörun þrep 1",
     "name_en": "OVERVOLTAGE U> ALARM",
@@ -7290,7 +7290,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "OV2.Alm",
     "name_is": "YFIRSPENNA",
     "description_is": "Yfirspenna viðvörun þrep 2",
     "name_en": "OVERVOLTAGE U>> ALARM",
@@ -7320,7 +7320,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "O2.Meas",
     "name_is": "SÚREFNI",
     "description_is": "Mæling á súrefni",
     "name_en": "OXYGEN O2",
@@ -7350,7 +7350,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "PhAngle.Meas",
     "name_is": "FASVIKSTAÐA",
     "description_is": "Fasvik staða - gildi",
     "name_en": "PHASESHIFT TAP POSITION ANALOG MEASUREMENT",
@@ -7380,7 +7380,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "GasMon.Status",
     "name_is": "ÁSTAND GASVÖKTUNAR",
     "description_is": "GASVÖKTUN",
     "name_en": "PHYSICAL HEALTH",
@@ -7410,7 +7410,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "PMU.Comm.Fail",
     "name_is": "SAMSKIPTI PMU BUS",
     "description_is": "Samskiptabilun við PMU net",
     "name_en": "PMU NETWORK COMMUNICATION ERROR",
@@ -7500,7 +7500,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Prs.Meas",
     "name_is": "ÞRÝSTINGUR ROFA",
     "description_is": "Mæling á þrýsingi fyrir rofa",
     "name_en": "PRESSURE BREAKER",
@@ -7530,7 +7530,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Prs.L1.Meas",
     "name_is": "ÞRÝSTINGUR L1",
     "description_is": "Mæling á þrýsingi í rofa fyrir fasa 1",
     "name_en": "PRESSURE L1",
@@ -7560,7 +7560,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Prs.L2.Meas",
     "name_is": "ÞRÝSTINGUR L2",
     "description_is": "Mæling á þrýsingi í rofa fyrir fasa 2",
     "name_en": "PRESSURE L2",
@@ -7590,7 +7590,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Prs.L3.Meas",
     "name_is": "ÞRÝSTINGUR L3",
     "description_is": "Mæling á þrýsingi í rofa fyrir fasa 3",
     "name_en": "PRESSURE L3",
@@ -8130,7 +8130,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Pump.Alm",
     "name_is": "DÆLA",
     "description_is": "Viðvörun frá dælubúnaði t.d. hydrolic pump aflrofa",
     "name_en": "PUMP ALARM",
@@ -8160,7 +8160,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ReactPwr.Meas",
     "name_is": "LAUNORKA",
     "description_is": "Mæling á launorku",
     "name_en": "REACTIVE ENERGY (kWh)",
@@ -8400,7 +8400,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Rmt.Tr",
     "name_is": "ÚTLEYSING FJARENDA",
     "description_is": "Útleysing frá fjarenda",
     "name_en": "REMOTE TRIP",
@@ -8580,7 +8580,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "RTU.Fail",
     "name_is": "RTU EINING",
     "description_is": "RTU stafr.inngangur bilun",
     "name_en": "RTU UNIT FAILURE",
@@ -8610,7 +8610,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.ScCmd.1",
     "name_is": "ÓSKGILDI 1",
     "description_is": "Óskgildi 1 í AVR",
     "name_en": "SELECT SETPOINT 1",
@@ -8640,7 +8640,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.ScCmd.2",
     "name_is": "ÓSKGILDI 2",
     "description_is": "Óskgildi 2 í AVR",
     "name_en": "SELECT SETPOINT 2",
@@ -8670,7 +8670,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.ScCmd.3",
     "name_is": "ÓSKGILDI 3",
     "description_is": "Óskgildi 3 í AVR",
     "name_en": "SELECT SETPOINT 3",
@@ -8700,7 +8700,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "ATCC.ScCmd.4",
     "name_is": "ÓSKGILDI 4",
     "description_is": "Óskgildi 4 í í AVR",
     "name_en": "SELECT SETPOINT 4",
@@ -8760,7 +8760,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "SF6.OvPrs.Alm",
     "name_is": "SF6 GAS YFIRÞRÝST",
     "description_is": "SF6 gas viðvörun f. Yfirþrýsting",
     "name_en": "SF6 HIGH PRESSURE ALARM",
@@ -8790,7 +8790,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "SF6.Bldg.1",
     "name_is": "SF6 MÆLING Í HÚSI",
     "description_is": "Mæling frá SF6 mælibúnaði í húsrými",
     "name_en": "SF6 MEASUREMENT IN BUILDING",
@@ -8820,7 +8820,7 @@
     "comments": "Merki bætt við fyrir RAN SP4 spenni - power supply merki fyrir bæði AC og DC bundin saman í eitt"
   },
   {
-    "code": null,
+    "code": "SF6.Bldg.2",
     "name_is": "SF6 MÆLING Í HÚSI",
     "description_is": "Mæling frá SF6 mælibúnaði í húsrými",
     "name_en": "SF6 MEASUREMENT IN BUILDING",
@@ -8940,7 +8940,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "SmartGrid.Tr",
     "name_is": "SNJALLNET",
     "description_is": "Snjallnets útleysing",
     "name_en": "SMARTGRID",
@@ -8970,7 +8970,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "SmartGrid.Alm",
     "name_is": "SNJALLNET",
     "description_is": "Snjallnets Almenn Viðvörun",
     "name_en": "SMARTGRID",
@@ -9060,7 +9060,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "EmrgGen.Alm",
     "name_is": "NEYÐARRAFSTÖÐ",
     "description_is": "Neyðarrafstöð",
     "name_en": "STATION AUXILIARY GENERATOR",
@@ -9090,7 +9090,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CtrlSys.Mon",
     "name_is": "STJÓRNKERFI VÖKTUN",
     "description_is": "Stjórnkerfi vöktun",
     "name_en": "STATION CONTROL SYSTEM SUPERVISON ALARM",
@@ -9300,7 +9300,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.ManMode",
     "name_is": "ROFI HANDVIRKT",
     "description_is": "ROFI Í HANDSTÝRINGU",
     "name_en": "SWITCH IN HANDMODE",
@@ -9660,7 +9660,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TapChng.Alm",
     "name_is": "ÞREPASKIPTIR",
     "description_is": "Þrepaskiptir viðvörun",
     "name_en": "TAP CHANGER ALARM",
@@ -9780,7 +9780,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TapChng.Cnt",
     "name_is": "ÞREPAHREYFINGAR",
     "description_is": "Þrepahreyfingar fyrir eignaskráningu",
     "name_en": "TAP CHANGER OPERATION COUNTER",
@@ -10080,7 +10080,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "CB.Ctct.Time",
     "name_is": "TÍMAMÆLING SNERTA",
     "description_is": "Tímamæling snerta í rofa",
     "name_en": "TIME MEASUREMENT OF AUXILIARY RELAYS",
@@ -10200,7 +10200,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.TopOilTmp.Meas",
     "name_is": "TOPP OLÍUHITI",
     "description_is": "Mæling á topp olíuhita spennis",
     "name_en": "TOP OIL TEMPERATURE",
@@ -10260,7 +10260,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.Load.Meas",
     "name_is": "ÁLAG",
     "description_is": "Mæling á álagi spennis",
     "name_en": "TRANSFORMER LOAD",
@@ -10410,7 +10410,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Cust.Tr.In",
     "name_is": "ÚTLEYSING NOTENDA",
     "description_is": "Útleysing send frá Viðskiptavin",
     "name_en": "TRIP SENT FROM CUSTOMER",
@@ -10530,7 +10530,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Tr.33kV",
     "name_is": "ÚTLEYSING 33kV",
     "description_is": "Útleysing á 33 kV",
     "name_en": "TRIP SENT TO 33 kV SITE",
@@ -10590,7 +10590,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Cust.Tr.Out",
     "name_is": "ÚTL TIL NOTENDA",
     "description_is": "Útleysing send til Viðskiptavin",
     "name_en": "TRIP SENT TO CUSTOMER",
@@ -10620,7 +10620,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Rmt.Tr.Out",
     "name_is": "ÚTL. TIL FJARENDA",
     "description_is": "Útleysing send til fjarenda",
     "name_en": "TRIP SENT TO REMOTE",
@@ -10710,7 +10710,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "HVAC.UndrPrs",
     "name_is": "UNDIRÞRÝSINGUR",
     "description_is": "Undirþrýstingur frá loftræstikerfi",
     "name_en": "UNDER PRESSURE",
@@ -10800,7 +10800,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "HVAC.Alm",
     "name_is": "LOFTRÆSTIKERFI",
     "description_is": "Loftræsikerfi viðvörun",
     "name_en": "VENTILATION SYSTEM ALARM",
@@ -11010,7 +11010,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "WtrTnk.2",
     "name_is": "VATNSTANKUR",
     "description_is": "Tankur fyrir neysluvatn",
     "name_en": "WARNING FOR LOW LEVEL IN WATER TANK",
@@ -11040,7 +11040,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "Water.Meas",
     "name_is": "VATN",
     "description_is": "Mæling á vatni",
     "name_en": "WATER H2O",
@@ -11070,7 +11070,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "WaterLeak.Alm",
     "name_is": "VATN Í HÚSI",
     "description_is": "Vatnsskynjara sem er staðsettur við gólf",
     "name_en": "WATER IN BUILDING",
@@ -11220,7 +11220,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.WindTmp.L1",
     "name_is": "VAFHITI L1",
     "description_is": "Mæling á vafhita spennis á fasa 1",
     "name_en": "WINDING TEMPERATURE PHASE 1",
@@ -11250,7 +11250,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.WindTmp.L2",
     "name_is": "VAFHITI L2",
     "description_is": "Mæling á vafhita spennis á fasa 2",
     "name_en": "WINDING TEMPERATURE PHASE 2",
@@ -11280,7 +11280,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "TR.WindTmp.L3",
     "name_is": "VAFHITI L3",
     "description_is": "Mæling á vafhita spennis á fasa 3",
     "name_en": "WINDING TEMPERATURE PHASE 3",
@@ -11370,7 +11370,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DEF.Alm",
     "name_is": "(Heiti ekki ákveðið - háð leyfi LN)",
     "description_is": "Skynjun beins jarðar viðvörun",
     "name_en": null,
@@ -11400,7 +11400,7 @@
     "comments": null
   },
   {
-    "code": null,
+    "code": "DEF.Tr",
     "name_is": "(Heiti ekki ákveðið - háð leyfi LN)",
     "description_is": "Skynjun beins jarðar útleysing",
     "name_en": null,
