@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "NorCancelDC",
+    "type": "DC",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_CANCELLED",
+        "is": "HÆTT VIÐ",
+        "en": "CANCELLED"
+      }
+    }
+  },
+  {
+    "id": "Activated",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_ACTIVATED",
+        "is": "VIRKJUÐ",
+        "en": "ACTIVATED"
+      }
+    }
+  },
+  {
+    "id": "NormOPEN",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_OPEN",
+        "is": "OPIÐ",
+        "en": "OPEN"
+      }
+    }
+  },
+  {
+    "id": "NorActivedSC",
+    "type": "SC",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_ACTIVATED",
+        "is": "VIRKJUÐ",
+        "en": "ACTIVATED"
+      }
+    }
+  },
+  {
+    "id": "NormClose",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_CLOSE_VIR",
+        "is": "VIRKJAÐ",
+        "en": "CLOSE"
+      }
+    }
+  },
+  {
+    "id": "InActive",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_INACTIVE",
+        "is": "ÓVIRK",
+        "en": "INACTIVE"
+      },
+      "01": {
+        "key": "X_ACTIVE",
+        "is": "VIRK",
+        "en": "ACTIVE"
+      }
+    }
+  },
+  {
+    "id": "Alarm",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_ALARM",
+        "is": "VIÐVÖRUN",
+        "en": "ALARM"
+      }
+    }
+  },
+  {
+    "id": "Zone3Trip",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ZONE 3 NORMAL",
+        "is": "ÞREP 3 ÚTLEYSING EÐLILEG",
+        "en": "ZONE 3 NORMAL"
+      },
+      "01": {
+        "key": "X_ZONE 3 TRIP",
+        "is": "ÚTLEYSING ÞREP 3",
+        "en": "ZONE 3 TRIP"
+      }
+    }
+  },
+  {
+    "id": "Zone2Trip",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ZONE 2 NORMAL",
+        "is": "ÞREP2 ÚTLEYSING EÐLILEG",
+        "en": "ZONE 2 NORMAL"
+      },
+      "01": {
+        "key": "X_ZONE 2 TRIP",
+        "is": "ÚTLEYSING ÞREP 2",
+        "en": "ZONE 2 TRIP"
+      }
+    }
+  },
+  {
+    "id": "Step2trip",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_TRIP NORMAL",
+        "is": "ÚTLEYSING EÐLILEG",
+        "en": "TRIP NORMAL"
+      },
+      "01": {
+        "key": "X_TRIP STEP 2",
+        "is": "ÚTLEYSING ÞREP 2",
+        "en": "TRIP STEP 2"
+      }
+    }
+  },
+  {
+    "id": "Zone1Trip",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ZONE 1 NORMAL",
+        "is": "ÞREP 1 ÚTLEYSING EÐLILEG",
+        "en": "ZONE 1 NORMAL"
+      },
+      "01": {
+        "key": "X_ZONE 1 TRIP",
+        "is": "ÚTLEYSING ÞREP 1",
+        "en": "ZONE 1 TRIP"
+      }
+    }
+  },
+  {
+    "id": "TripL3",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_L3 TRIP NORMAL",
+        "is": "L3 ÚTLEYSING EÐLILEG",
+        "en": "L3 TRIP NORMAL"
+      },
+      "01": {
+        "key": "X_L3 TRIP",
+        "is": "ÚTLEYSING L3",
+        "en": "L3 TRIP"
+      }
+    }
+  },
+  {
+    "id": "TripL2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_L2 TRIP NORMAL",
+        "is": "L2 ÚTLEYSING EÐLILEG",
+        "en": "L2 TRIP NORMAL"
+      },
+      "01": {
+        "key": "X_L2 TRIP",
+        "is": "ÚTLEYSING L2",
+        "en": "L2 TRIP"
+      }
+    }
+  },
+  {
+    "id": "TripL1",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_L1 TRIP NORMAL",
+        "is": "L1 ÚTLEYSING EÐLILEG",
+        "en": "L1 TRIP NORMAL"
+      },
+      "01": {
+        "key": "X_L1 TRIP",
+        "is": "ÚTLEYSING L1",
+        "en": "L1 TRIP"
+      }
+    }
+  },
+  {
+    "id": "Trip3Ph",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_TRIP 3PH NORMAL",
+        "is": "ÚTLEYSING EÐLILEG",
+        "en": "TRIP 3PH NORMAL"
+      },
+      "01": {
+        "key": "X_TRIP 3PH",
+        "is": "ÚTLEYSING 3.FASA",
+        "en": "TRIP 3PH"
+      }
+    }
+  },
+  {
+    "id": "Tripnormal",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_TRIP",
+        "is": "ÚTLEYSING",
+        "en": "TRIP"
+      }
+    }
+  },
+  {
+    "id": "Trip",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_TRIP NORMAL",
+        "is": "ÚTLEYSING EÐLILEG",
+        "en": "TRIP NORMAL"
+      },
+      "01": {
+        "key": "X_TRIP",
+        "is": "ÚTLEYSING",
+        "en": "TRIP"
+      }
+    }
+  },
+  {
+    "id": "norTripSent",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_TRIP SENT",
+        "is": "ÚTLEYSING SEND",
+        "en": "TRIP SENT"
+      }
+    }
+  },
+  {
+    "id": "NorTripRecv",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_TRIP RECV",
+        "is": "ÚTLEYSING MÓTTEKIN",
+        "en": "TRIP RECV"
+      }
+    }
+  },
+  {
+    "id": "FreqDiff",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_FREQ OK",
+        "is": "TÍÐNI Í LAGI",
+        "en": "FREQ OK"
+      },
+      "01": {
+        "key": "X_FREQ DIFF",
+        "is": "TÍÐNIMUNUR",
+        "en": "FREQ DIFF"
+      }
+    }
+  },
+  {
+    "id": "Step4AL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP4 ALARM NORM",
+        "is": "ÞREP 4 VIÐVÖRUN EÐLILEG",
+        "en": "STEP4 ALARM NORM"
+      },
+      "01": {
+        "key": "X_STEP 4 ALARM",
+        "is": "ÞREP 4 VIÐVÖRUN",
+        "en": "STEP 4 ALARM"
+      }
+    }
+  },
+  {
+    "id": "Step3AL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP3 ALARM NORM",
+        "is": "ÞREP 3 VIÐVÖRUN EÐLILEG",
+        "en": "STEP3 ALARM NORM"
+      },
+      "01": {
+        "key": "X_STEP 3 ALARM",
+        "is": "ÞREP 3 VIÐVÖRUN",
+        "en": "STEP 3 ALARM"
+      }
+    }
+  },
+  {
+    "id": "StepTrip3",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP 3 TRIP NORM",
+        "is": "ÞREP 3 ÚTLEYSING EÐLILEG",
+        "en": "STEP 3 TRIP NORM"
+      },
+      "01": {
+        "key": "X_STEP 3 TRIP",
+        "is": "ÞREP 3 ÚTLEYSING",
+        "en": "STEP 3 TRIP"
+      }
+    }
+  },
+  {
+    "id": "StepSta3",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ÞREP 3 START",
+        "is": "ÞREP 3 START",
+        "en": "ÞREP 3 START"
+      },
+      "01": {
+        "key": "X_STEP 3 START",
+        "is": "ÞREP 3 START",
+        "en": "STEP 3 START"
+      }
+    }
+  },
+  {
+    "id": "Step2AL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP2 ALARM NORM",
+        "is": "ÞREP2 VIÐVÖRUN EÐLILEG",
+        "en": "STEP2 ALARM NORM"
+      },
+      "01": {
+        "key": "X_STEP 2 ALARM",
+        "is": "ÞREP 2 VIÐVÖRUN",
+        "en": "STEP 2 ALARM"
+      }
+    }
+  },
+  {
+    "id": "NorStep2AL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_STEP 2 ALARM",
+        "is": "ÞREP 2 VIÐVÖRUN",
+        "en": "STEP 2 ALARM"
+      }
+    }
+  },
+  {
+    "id": "StepTrip2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP 2 TRIP NORM",
+        "is": "ÞREP2 ÚTLEYSING EÐLILEG",
+        "en": "STEP 2 TRIP NORM"
+      },
+      "01": {
+        "key": "X_STEP 2 TRIP",
+        "is": "ÞREP 2 ÚTLEYSING",
+        "en": "STEP 2 TRIP"
+      }
+    }
+  },
+  {
+    "id": "StepSta2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ÞREP 2 START",
+        "is": "ÞREP 2 START EÐLILEG",
+        "en": "ÞREP 2 START"
+      },
+      "01": {
+        "key": "X_STEP 2 START",
+        "is": "ÞREP 2 START",
+        "en": "STEP 2 START"
+      }
+    }
+  },
+  {
+    "id": "Step1AL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP1 ALARM NORM",
+        "is": "ÞREP 1 VIÐVÖRUN EÐLILEG",
+        "en": "STEP1 ALARM NORM"
+      },
+      "01": {
+        "key": "X_STEP 1 ALARM",
+        "is": "ÞREP 1 VIÐVÖRUN",
+        "en": "STEP 1 ALARM"
+      }
+    }
+  },
+  {
+    "id": "NorStep1AL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_STEP 1 ALARM",
+        "is": "ÞREP 1 VIÐVÖRUN",
+        "en": "STEP 1 ALARM"
+      }
+    }
+  },
+  {
+    "id": "StepTrip1",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STEP 1 TRIP NORM",
+        "is": "ÞREP 1 ÚTLEYSING EÐLILEG",
+        "en": "STEP 1 TRIP NORM"
+      },
+      "01": {
+        "key": "X_STEP 1 TRIP",
+        "is": "ÞREP 1 ÚTLEYSING",
+        "en": "STEP 1 TRIP"
+      }
+    }
+  },
+  {
+    "id": "StepSta1",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ÞREP 1 START",
+        "is": "ÞREP1 START EÐLILEG",
+        "en": "ÞREP 1 START"
+      },
+      "01": {
+        "key": "X_STEP 1 START",
+        "is": "ÞREP 1 START",
+        "en": "STEP 1 START"
+      }
+    }
+  },
+  {
+    "id": "ControlerAL",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_CONTROLLER ALARM",
+        "is": "STÝRING VIÐVÖRUN",
+        "en": "CONTROLLER ALARM"
+      }
+    }
+  },
+  {
+    "id": "NorInterlock",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_INTERLOCKED",
+        "is": "STÝRING HINDRUÐ",
+        "en": "INTERLOCKED"
+      }
+    }
+  },
+  {
+    "id": "startN",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_START N NORMAL",
+        "is": "START N EÐLILEG",
+        "en": "START N NORMAL"
+      },
+      "01": {
+        "key": "X_START N",
+        "is": "START N",
+        "en": "START N"
+      }
+    }
+  },
+  {
+    "id": "startL3",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_START L3 NORMAL",
+        "is": "START L3 EÐLILEG",
+        "en": "START L3 NORMAL"
+      },
+      "01": {
+        "key": "X_START L3",
+        "is": "START L3",
+        "en": "START L3"
+      }
+    }
+  },
+  {
+    "id": "startL2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_START L2 NORMAL",
+        "is": "START L2 EÐLILEG",
+        "en": "START L2 NORMAL"
+      },
+      "01": {
+        "key": "X_START L2",
+        "is": "START L2",
+        "en": "START L2"
+      }
+    }
+  },
+  {
+    "id": "startL1",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_START L1 NORMAL",
+        "is": "START L1 EÐLILEG",
+        "en": "START L1 NORMAL"
+      },
+      "01": {
+        "key": "X_START L1",
+        "is": "START L1",
+        "en": "START L1"
+      }
+    }
+  },
+  {
+    "id": "Start",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_START NORMAL",
+        "is": "START EÐLILEG",
+        "en": "START NORMAL"
+      },
+      "01": {
+        "key": "X_START",
+        "is": "START",
+        "en": "START"
+      }
+    }
+  },
+  {
+    "id": "RemlocSC",
+    "type": "SC",
+    "states": {
+      "00": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      },
+      "01": {
+        "key": "X_LOCAL",
+        "is": "STAÐSTÝRT",
+        "en": "LOCAL"
+      }
+    }
+  },
+  {
+    "id": "RemLoc",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      },
+      "01": {
+        "key": "X_LOCAL",
+        "is": "STAÐSTÝRT",
+        "en": "LOCAL"
+      }
+    }
+  },
+  {
+    "id": "VoltDiff",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_VOLTAGE OK",
+        "is": "SPENNA Í LAGI",
+        "en": "VOLTAGE OK"
+      },
+      "01": {
+        "key": "X_VOLTAGE DIFF",
+        "is": "SPENNUMUNUR",
+        "en": "VOLTAGE DIFF"
+      }
+    }
+  },
+  {
+    "id": "SentDC",
+    "type": "DC",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_SENT",
+        "is": "SKIPUN SEND",
+        "en": "SENT"
+      }
+    }
+  },
+  {
+    "id": "ManAuto",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_MANUAL1",
+        "is": "HANDVIRKT",
+        "en": "MANUAL"
+      },
+      "01": {
+        "key": "X_AUTO",
+        "is": "SJÁLFVIRKT",
+        "en": "AUTO"
+      }
+    }
+  },
+  {
+    "id": "OffBockedDC",
+    "type": "DC",
+    "states": {
+      "00": {
+        "key": "X_OFF",
+        "is": "AF",
+        "en": "OFF"
+      },
+      "01": {
+        "key": "X_BLOCKED_SETT",
+        "is": "SETT Á",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "OutOfSocket",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_OUT OF SOCKET",
+        "is": "ROFIÐ",
+        "en": "OUT OF SOCKET"
+      }
+    }
+  },
+  {
+    "id": "Disable",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_DISABLED",
+        "is": "ÓVIRKUR",
+        "en": "DISABLED"
+      }
+    }
+  },
+  {
+    "id": "ActInac",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ACTIVE",
+        "is": "VIRK",
+        "en": "ACTIVE"
+      },
+      "01": {
+        "key": "X_INACTIVE",
+        "is": "ÓVIRK",
+        "en": "INACTIVE"
+      }
+    }
+  },
+  {
+    "id": "Enableopen",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_INHIBIT OPEN",
+        "is": "OPNUN EKKI LEYFÐ",
+        "en": "INHIBIT OPEN"
+      },
+      "01": {
+        "key": "X_ENABLE OPEN",
+        "is": "OPNUN LEYFÐ",
+        "en": "ENABLE OPEN"
+      }
+    }
+  },
+  {
+    "id": "Opeen",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_OPEN_INN",
+        "is": "OPINN",
+        "en": "OPEN"
+      }
+    }
+  },
+  {
+    "id": "LocOpen",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_LOCKED",
+        "is": "LÆSTUR",
+        "en": "LOCKED"
+      },
+      "01": {
+        "key": "X_OPEN_IN",
+        "is": "OPIN",
+        "en": "OPEN"
+      }
+    }
+  },
+  {
+    "id": "Incompletet",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_INCOMPLETE",
+        "is": "ÓKLÁRUÐ",
+        "en": "INCOMPLETE"
+      }
+    }
+  },
+  {
+    "id": "RecStart",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NEUTRAL ST OK",
+        "is": "N START EÐLILEG",
+        "en": "NEUTRAL ST OK"
+      },
+      "01": {
+        "key": "X_NEUTRAL START",
+        "is": "N START",
+        "en": "NEUTRAL START"
+      }
+    }
+  },
+  {
+    "id": "SyncFail",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_SYNC FAIL",
+        "is": "MISTÓKST",
+        "en": "SYNC FAIL"
+      }
+    }
+  },
+  {
+    "id": "ConnectIntermed",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_CONNECTED",
+        "is": "TENGT",
+        "en": "CONNECTED"
+      },
+      "01": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      }
+    }
+  },
+  {
+    "id": "EnableClose",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_INHIBIT CLOSE",
+        "is": "LOKUN EKKI LEYFÐ",
+        "en": "INHIBIT CLOSE"
+      },
+      "01": {
+        "key": "X_ENABLE CLOSE",
+        "is": "LOKUN LEYFÐ",
+        "en": "ENABLE CLOSE"
+      }
+    }
+  },
+  {
+    "id": "OpenCloseSP",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_OPEN_INN",
+        "is": "OPINN",
+        "en": "OPEN"
+      },
+      "01": {
+        "key": "X_CLOSED",
+        "is": "LOKAÐUR",
+        "en": "CLOSED"
+      }
+    }
+  },
+  {
+    "id": "Lockout",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE_LAGI",
+        "is": "Í LAGI",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_LOCKOUT",
+        "is": "LÆSTUR",
+        "en": "LOCKOUT"
+      }
+    }
+  },
+  {
+    "id": "UnlockLock",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_UNLOCKED",
+        "is": "ÓLÆSTUR",
+        "en": "UNLOCKED"
+      },
+      "01": {
+        "key": "X_LOCKED",
+        "is": "LÆSTUR",
+        "en": "LOCKED"
+      }
+    }
+  },
+  {
+    "id": "NotLocked",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NOT LOCKED",
+        "is": "EKKI LÆSTUR",
+        "en": "NOT LOCKED"
+      },
+      "01": {
+        "key": "X_LOCKED",
+        "is": "LÆSTUR",
+        "en": "LOCKED"
+      }
+    }
+  },
+  {
+    "id": "OffLockout",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_LOCKOUT OFF",
+        "is": "LÆSING AF",
+        "en": "LOCKOUT OFF"
+      },
+      "01": {
+        "key": "X_LOCKOUT_ING",
+        "is": "LÆSING",
+        "en": "LOCKOUT"
+      }
+    }
+  },
+  {
+    "id": "Testmode",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_TESTMODE",
+        "is": "Í PRÓFUN",
+        "en": "TESTMODE"
+      }
+    }
+  },
+  {
+    "id": "StopInPro",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STOPPED",
+        "is": "STOPP",
+        "en": "STOPPED"
+      },
+      "01": {
+        "key": "X_IN PROGRESS",
+        "is": "Í GANGI",
+        "en": "IN PROGRESS"
+      }
+    }
+  },
+  {
+    "id": "StopInOper",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STOP",
+        "is": "STOPP",
+        "en": "STOP"
+      },
+      "01": {
+        "key": "X_IN OPERATION",
+        "is": "Í GANGI",
+        "en": "IN OPERATION"
+      }
+    }
+  },
+  {
+    "id": "IN",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NOT IN",
+        "is": "EKKI Í",
+        "en": "NOT IN"
+      },
+      "01": {
+        "key": "X_IN",
+        "is": "Í",
+        "en": "IN"
+      }
+    }
+  },
+  {
+    "id": "FastCharge",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL CHARGE",
+        "is": "EÐLILEG HLEÐSLA",
+        "en": "NORMAL CHARGE"
+      },
+      "01": {
+        "key": "X_FAST CHARGE",
+        "is": "HRAÐHLEÐSA",
+        "en": "FAST CHARGE"
+      }
+    }
+  },
+  {
+    "id": "AngleDiff",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ANGLE OK",
+        "is": "HORN Í LAGI",
+        "en": "ANGLE OK"
+      },
+      "01": {
+        "key": "X_ANGLE DIFF",
+        "is": "HORNAMUNUR",
+        "en": "ANGLE DIFF"
+      }
+    }
+  },
+  {
+    "id": "Block",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "Block2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_AVAILABLE",
+        "is": "TILTÆK",
+        "en": "AVAILABLE"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "UnblocBloc2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_UNBLOCKED_AF",
+        "is": "LÆSING AF",
+        "en": "UNBLOCKED"
+      },
+      "01": {
+        "key": "X_BLOCKED_LAES",
+        "is": "LÆSING",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "UnblocBloc",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_UNBLOCKED",
+        "is": "ÓHINDRAÐUR",
+        "en": "UNBLOCKED"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "AllowBloc",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ALLOWED",
+        "is": "LEYFÐ",
+        "en": "ALLOWED"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "STBlock",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STATUS OK",
+        "is": "Í LAGI",
+        "en": "STATUS OK"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
+      }
+    }
+  },
+  {
+    "id": "AutoManSC",
+    "type": "SC",
+    "states": {
+      "00": {
+        "key": "X_AUTO",
+        "is": "SJÁLFVIRKT",
+        "en": "AUTO"
+      },
+      "01": {
+        "key": "X_MANUAL1",
+        "is": "HANDVIRKT",
+        "en": "MANUAL"
+      }
+    }
+  },
+  {
+    "id": "AutoMan",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_AUTO",
+        "is": "SJÁLFVIRKT",
+        "en": "AUTO"
+      },
+      "01": {
+        "key": "X_MANUAL",
+        "is": "HANDSTÝRING",
+        "en": "MANUAL"
+      }
+    }
+  },
+  {
+    "id": "Pre-Alarm",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_PRE-ALARM",
+        "is": "FORVIÐVÖRUN",
+        "en": "PRE-ALARM"
+      }
+    }
+  },
+  {
+    "id": "RemSent",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_REM.TR.SENT OK",
+        "is": "FJARÚTLEYSING SEND EÐLILEG",
+        "en": "REM.TR.SENT OK"
+      },
+      "01": {
+        "key": "X_REM.TR. SENT",
+        "is": "FJARÚTLEYSING SEND",
+        "en": "REM.TR. SENT"
+      }
+    }
+  },
+  {
+    "id": "RemRec",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_REM.TR.RECV OK",
+        "is": "FJARÚTLSING MÓTTEKIN EÐLILEG",
+        "en": "REM.TR.RECV OK"
+      },
+      "01": {
+        "key": "X_REM.TR.RECEIVED",
+        "is": "FJARÚTLEYSING MÓTTEKIN",
+        "en": "REM.TR.RECEIVED"
+      }
+    }
+  },
+  {
+    "id": "CarSend",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_CARR SEND NORMAL",
+        "is": "FJARÚTLEYSING SEND EÐLILEG",
+        "en": "CARR SEND NORMAL"
+      },
+      "01": {
+        "key": "X_CARRIER SEND",
+        "is": "FJARMERKI SENT",
+        "en": "CARRIER SEND"
+      }
+    }
+  },
+  {
+    "id": "CarRecV",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_CARR RECV NORMAL",
+        "is": "FJARÚTLEYSING EÐLILLEG",
+        "en": "CARR RECV NORMAL"
+      },
+      "01": {
+        "key": "X_CARRIER RECV",
+        "is": "FJARMERKI MÓTTEKIÐ",
+        "en": "CARRIER RECV"
+      }
+    }
+  },
+  {
+    "id": "NoVOLTAGE",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_VOLTAGE",
+        "is": "SPENNA",
+        "en": "VOLTAGE"
+      },
+      "01": {
+        "key": "X_NO VOLTAGE",
+        "is": "ENGIN SPENNA",
+        "en": "NO VOLTAGE"
+      }
+    }
+  },
+  {
+    "id": "RecSent",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_RECLOSE NORMAL",
+        "is": "ENDURLOKUN EÐLILEG",
+        "en": "RECLOSE NORMAL"
+      },
+      "01": {
+        "key": "X_RECLOSE SENT",
+        "is": "ENDURLOKUN SEND",
+        "en": "RECLOSE SENT"
+      }
+    }
+  },
+  {
+    "id": "Fire",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_FIRE",
+        "is": "ELDUR",
+        "en": "FIRE"
+      }
+    }
+  },
+  {
+    "id": "NotCharge",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_CHARGED",
+        "is": "FULLSPENNTUR",
+        "en": "CHARGED"
+      },
+      "01": {
+        "key": "X_NOT CHARGED",
+        "is": "EKKI SPENNTUR",
+        "en": "NOT CHARGED"
+      }
+    }
+  },
+  {
+    "id": "NotAvail",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_AVAILABLE_M",
+        "is": "MÖGULEG",
+        "en": "AVAILABLE"
+      },
+      "01": {
+        "key": "X_NOT AVAILABLE",
+        "is": "EKKI TILTÆK",
+        "en": "NOT AVAILABLE"
+      }
+    }
+  },
+  {
+    "id": "Fail",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_FAILURE",
+        "is": "BILUN",
+        "en": "FAILURE"
+      }
+    }
+  },
+  {
+    "id": "Fail2",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_FAILURE NORMAL",
+        "is": "Í LAGI",
+        "en": "FAILURE NORMAL"
+      },
+      "01": {
+        "key": "X_FAILURE",
+        "is": "BILUN",
+        "en": "FAILURE"
+      }
+    }
+  },
+  {
+    "id": "OkFailure",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_STATUS OK",
+        "is": "Í LAGI",
+        "en": "STATUS OK"
+      },
+      "01": {
+        "key": "X_FAILURE",
+        "is": "BILUN",
+        "en": "FAILURE"
+      }
+    }
+  },
+  {
+    "id": "Error",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_ERROR_BIL",
+        "is": "BILUN",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "RevStart",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_REVERSE ST OK",
+        "is": "BAKÞREP ST.OK",
+        "en": "REVERSE ST OK"
+      },
+      "01": {
+        "key": "X_REVERSE START",
+        "is": "BAKÞREP START",
+        "en": "REVERSE START"
+      }
+    }
+  },
+  {
+    "id": "PwrSwing",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_PWR SWING OK",
+        "is": "AFLSVEIFLA EÐLIL",
+        "en": "PWR SWING OK"
+      },
+      "01": {
+        "key": "X_PWR SWING",
+        "is": "AFLSVEIFLA",
+        "en": "PWR SWING"
+      }
+    }
+  },
+  {
+    "id": "OnOFF",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_ON",
+        "is": "Á",
+        "en": "ON"
+      },
+      "01": {
+        "key": "X_OFF",
+        "is": "AF",
+        "en": "OFF"
+      }
+    }
+  },
+  {
+    "id": "OffOn",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_OFF",
+        "is": "AF",
+        "en": "OFF"
+      },
+      "01": {
+        "key": "X_ON",
+        "is": "Á",
+        "en": "ON"
+      }
+    }
+  },
+  {
+    "id": "TruckDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_TRUCK OUT",
+        "is": "ÚTDREGINN",
+        "en": "TRUCK OUT"
+      },
+      "10": {
+        "key": "X_TRUCK IN",
+        "is": "Í HÚSI",
+        "en": "TRUCK IN"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "OnDeblcokedDC",
+    "type": "DC",
+    "states": {
+      "00": {
+        "key": "X_ON",
+        "is": "Á",
+        "en": "ON"
+      },
+      "01": {
+        "key": "X_DEBLOCKED",
+        "is": "TEKIN AF",
+        "en": "DEBLOCKED"
+      }
+    }
+  },
+  {
+    "id": "OpenCloseDC",
+    "type": "DC",
+    "states": {
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_OPEN_NA",
+        "is": "OPNA",
+        "en": "OPEN"
+      },
+      "10": {
+        "key": "X_CLOSE",
+        "is": "LOKA",
+        "en": "CLOSE"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "OpenCloseDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_OPEN_INN",
+        "is": "OPINN",
+        "en": "OPEN"
+      },
+      "10": {
+        "key": "X_CLOSED",
+        "is": "LOKAÐUR",
+        "en": "CLOSED"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "OpenClose",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_OPEN_INN",
+        "is": "OPINN",
+        "en": "OPEN"
+      },
+      "10": {
+        "key": "X_CLOSED",
+        "is": "LOKAÐUR",
+        "en": "CLOSED"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "RemInterLocDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      },
+      "01": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "10": {
+        "key": "X_LOCAL",
+        "is": "STAÐSTÝRT",
+        "en": "LOCAL"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "AutoManDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_AUTO",
+        "is": "SJÁLFVIRKT",
+        "en": "AUTO"
+      },
+      "01": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "10": {
+        "key": "X_MANUAL1",
+        "is": "HANDVIRKT",
+        "en": "MANUAL"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "RemBlocLocDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
+      },
+      "10": {
+        "key": "X_LOCAL",
+        "is": "STAÐSTÝRT",
+        "en": "LOCAL"
+      },
+      "11": {
+        "key": "X_ERROR",
+        "is": "VILLA",
+        "en": "ERROR"
+      }
+    }
+  },
+  {
+    "id": "WarnAlarmDP",
+    "type": "DP",
+    "states": {
+      "01": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "10": {
+        "key": "X_WARNING",
+        "is": "VIÐVÖRUN",
+        "en": "WARNING"
+      },
+      "11": {
+        "key": "X_ALARM_B",
+        "is": "BILUN",
+        "en": "ALARM"
+      }
+    }
+  },
+  {
+    "id": "DirectioDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_UNKNOWN",
+        "is": "ÓÞEKKT",
+        "en": "UNKNOWN"
+      },
+      "01": {
+        "key": "X_FORWARD",
+        "is": "ÁFRAM",
+        "en": "FORWARD"
+      },
+      "10": {
+        "key": "X_REVERSE",
+        "is": "BAKÞREP",
+        "en": "REVERSE"
+      },
+      "11": {
+        "key": "X_BOTH",
+        "is": "BÁÐAR",
+        "en": "BOTH"
+      }
+    }
+  },
+  {
+    "id": "TestBlockDP",
+    "type": "DP",
+    "states": {
+      "00": {
+        "key": "X_TEST/BLOCKED",
+        "is": "PRÓFUN/HINDAÐUR",
+        "en": "TEST/BLOCKED"
+      },
+      "01": {
+        "key": "X_ON",
+        "is": "Á",
+        "en": "ON"
+      },
+      "10": {
+        "key": "X_ON-BLOCKED",
+        "is": "Á-HINDRAÐUR",
+        "en": "ON-BLOCKED"
+      },
+      "11": {
+        "key": "X_TEST",
+        "is": "PRÓFUN",
+        "en": "TEST"
+      }
+    }
+  },
+  {
+    "id": "LowRaiseDC",
+    "type": "DC",
+    "states": {
+      "00": {
+        "key": "X_LOWER",
+        "is": "LÆKKA",
+        "en": "LOWER"
+      },
+      "01": {
+        "key": "X_RAISE",
+        "is": "HÆKKA",
+        "en": "RAISE"
+      }
+    }
+  },
+  {
+    "id": "MEAS",
+    "type": "AI",
+    "states": {}
+  },
+  {
+    "id": "SETPONT",
+    "type": "AO",
+    "states": {}
+  }
+]
