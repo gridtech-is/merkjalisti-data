@@ -1,0 +1,130 @@
+[
+  {
+    "id": "siemens-7sa87",
+    "name": "Siemens 7SA87",
+    "category": "ied",
+    "manufacturer": "Siemens",
+    "model": "7SA87",
+    "description": "Siemens 7SA87 Distance protection relay"
+  },
+  {
+    "id": "siemens-7sd87",
+    "name": "Siemens 7SD87",
+    "category": "ied",
+    "manufacturer": "Siemens",
+    "model": "7SD87",
+    "description": "Siemens 7SD87 Line differential protection relay"
+  },
+  {
+    "id": "siemens-7ut87",
+    "name": "Siemens 7UT87",
+    "category": "ied",
+    "manufacturer": "Siemens",
+    "model": "7UT87",
+    "description": "Siemens 7UT87 Transformer differential protection relay"
+  },
+  {
+    "id": "siemens-7sj86",
+    "name": "Siemens 7SJ86",
+    "category": "ied",
+    "manufacturer": "Siemens",
+    "model": "7SJ86",
+    "description": "Siemens 7SJ86 Overcurrent protection relay"
+  },
+  {
+    "id": "siemens-7vk87",
+    "name": "Siemens 7VK87",
+    "category": "ied",
+    "manufacturer": "Siemens",
+    "model": "7VK87",
+    "description": "Siemens 7VK87 Bay controller"
+  },
+  {
+    "id": "abb-rel670",
+    "name": "ABB REL670",
+    "category": "ied",
+    "manufacturer": "ABB",
+    "model": "REL670",
+    "description": "ABB REL670 Distance protection relay"
+  },
+  {
+    "id": "abb-ret670",
+    "name": "ABB RET670",
+    "category": "ied",
+    "manufacturer": "ABB",
+    "model": "RET670",
+    "description": "ABB RET670 Transformer differential protection relay"
+  },
+  {
+    "id": "abb-red670",
+    "name": "ABB RED670",
+    "category": "ied",
+    "manufacturer": "ABB",
+    "model": "RED670",
+    "description": "ABB RED670 Line differential protection relay"
+  },
+  {
+    "id": "abb-rex640",
+    "name": "ABB REX640",
+    "category": "ied",
+    "manufacturer": "ABB",
+    "model": "REX640",
+    "description": "ABB REX640 Feeder protection relay"
+  },
+  {
+    "id": "abb-rtu560",
+    "name": "ABB RTU560",
+    "category": "ied",
+    "manufacturer": "ABB",
+    "model": "RTU560",
+    "description": "ABB RTU560 Remote Terminal Unit"
+  },
+  {
+    "id": "ge-p643",
+    "name": "GE P643",
+    "category": "ied",
+    "manufacturer": "GE",
+    "model": "P643",
+    "description": "GE P643 Transformer differential protection relay"
+  },
+  {
+    "id": "ge-p545",
+    "name": "GE P545",
+    "category": "ied",
+    "manufacturer": "GE",
+    "model": "P545",
+    "description": "GE P545 Line differential protection relay"
+  },
+  {
+    "id": "ge-p441",
+    "name": "GE P441",
+    "category": "ied",
+    "manufacturer": "GE",
+    "model": "P441",
+    "description": "GE P441 Distance protection relay"
+  },
+  {
+    "id": "sel-421",
+    "name": "SEL-421",
+    "category": "ied",
+    "manufacturer": "SEL",
+    "model": "421",
+    "description": "SEL-421 Distance and directional protection relay"
+  },
+  {
+    "id": "sel-311",
+    "name": "SEL-311",
+    "category": "ied",
+    "manufacturer": "SEL",
+    "model": "311",
+    "description": "SEL-311 Distance protection relay"
+  },
+  {
+    "id": "sel-487e",
+    "name": "SEL-487E",
+    "category": "ied",
+    "manufacturer": "SEL",
+    "model": "487E",
+    "description": "SEL-487E Transformer differential protection relay"
+  }
+]
