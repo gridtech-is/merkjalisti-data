@@ -9,5 +9,16 @@
     "model": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "3b384535-48e2-4bfd-bb38-69ce0feb23e3",
+    "category": "ied",
+    "code": "55E01F2",
+    "type": null,
+    "ied_name": "55E01F2",
+    "manufacturer": null,
+    "model": null,
+    "template_id": null,
+    "description": ""
   }
 ]
