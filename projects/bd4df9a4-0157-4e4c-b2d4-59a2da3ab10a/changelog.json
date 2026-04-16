@@ -1,0 +1,15 @@
+[
+  {
+    "id": "8b5ba40d-8974-444f-b93e-188c4e7f86e7",
+    "timestamp": "2026-04-16T22:51:29.191Z",
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "PHASE_CHANGED",
+    "target_id": "bd4df9a4-0157-4e4c-b2d4-59a2da3ab10a",
+    "target_type": "project",
+    "field": null,
+    "old_value": null,
+    "new_value": "DESIGN",
+    "comment": "Verkefni stofnað: 66"
+  }
+]
