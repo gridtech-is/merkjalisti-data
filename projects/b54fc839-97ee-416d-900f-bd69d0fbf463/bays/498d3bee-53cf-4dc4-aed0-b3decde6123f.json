@@ -13,7 +13,7 @@
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
       "state_id": "OpenCloseDP",
-      "iec61850_ied": null,
+      "iec61850_ied": "55E01F1",
       "iec61850_ld": null,
       "iec61850_ln": null,
       "iec61850_do_da": null,
@@ -29,7 +29,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "iec61850_ln_prefix": null
+      "iec61850_ln_prefix": null,
+      "iec61850_rcb": null,
+      "iec61850_dataset_entry": null
     },
     {
       "id": "55E00_QA1_REM.CMD",
