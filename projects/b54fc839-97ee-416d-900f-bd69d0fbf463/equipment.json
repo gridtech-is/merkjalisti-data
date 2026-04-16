@@ -31,5 +31,16 @@
     "model": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "7c739810-5b87-4a76-afca-69ccba18ff36",
+    "category": "apparatus",
+    "code": "AC2",
+    "type": "Skilrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "template_id": null,
+    "description": ""
   }
 ]
