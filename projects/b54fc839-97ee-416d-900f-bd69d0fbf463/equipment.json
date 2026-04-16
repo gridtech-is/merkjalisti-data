@@ -20,5 +20,16 @@
     "model": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "3a5b5914-d58c-4fbd-ab8f-c1ec87677a9f",
+    "category": "apparatus",
+    "code": "QC1",
+    "type": "Aflrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "template_id": null,
+    "description": ""
   }
 ]
