@@ -8,7 +8,7 @@
   "signals": [
     {
       "id": "55E00_QA1_Pos.DP",
-      "equipment_code": "55E01F1",
+      "equipment_code": "Q0",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -31,11 +31,13 @@
       "iec61850_ln_prefix": null,
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_REM.CMD",
-      "equipment_code": "55E01F1",
+      "equipment_code": "Q0",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -57,7 +59,9 @@
       "sat_tested_at": null,
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev",
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QB1_Pos.DP",
@@ -81,7 +85,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QC1_Pos.DP",
@@ -105,7 +111,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_EnaOpn",
@@ -129,7 +137,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QB1_EnaOpn",
@@ -153,7 +163,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QC1_EnaOpn",
@@ -177,7 +189,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_EnaCls",
@@ -201,7 +215,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QB1_EnaCls",
@@ -225,7 +241,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QC1_EnaCls",
@@ -249,7 +267,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_XCBR.BlkOpn",
@@ -273,7 +293,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_XCBR.BlkCls",
@@ -297,7 +319,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QB1_XSWI.BlkOpn",
@@ -321,7 +345,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QB1_XSWI.BlkCls",
@@ -345,7 +371,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QC1_XSWI.BlkOpn",
@@ -369,7 +397,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QC1_XSWI.BlkCls",
@@ -393,7 +423,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_SprCha.Alm",
@@ -417,7 +449,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_Gas.InsAlm",
@@ -441,7 +475,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_Gas.InsBlk",
@@ -465,7 +501,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_GenTrip3Ph",
@@ -489,7 +527,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_GenSt3Ph",
@@ -513,7 +553,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OC1.St",
@@ -537,7 +579,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OC1.Tr",
@@ -561,7 +605,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OC2.St",
@@ -585,7 +631,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OC2.Tr",
@@ -609,7 +657,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OC3.St",
@@ -633,7 +683,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OC3.Tr",
@@ -657,7 +709,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_UV.St",
@@ -681,7 +735,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_UV.Tr",
@@ -705,7 +761,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OV1.St",
@@ -729,7 +787,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_OV1.Tr",
@@ -753,7 +813,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_TCS1.Alm",
@@ -777,7 +839,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_TCS2.Alm",
@@ -801,7 +865,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_Health",
@@ -825,7 +891,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_EF.Tr",
@@ -849,7 +917,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_SCBR.MechHealth",
@@ -873,7 +943,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_BRFP.Tr",
@@ -897,7 +969,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_PPV.phsA",
@@ -921,7 +995,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_PPV.phsB",
@@ -945,7 +1021,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_PPV.phsC",
@@ -969,7 +1047,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_A.phsA",
@@ -993,7 +1073,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_A.phsB",
@@ -1017,7 +1099,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_A.phsC",
@@ -1041,7 +1125,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_Watt",
@@ -1065,7 +1151,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_VolAmpr",
@@ -1089,7 +1177,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_VolAmp",
@@ -1113,7 +1203,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_Hz",
@@ -1137,7 +1229,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QG1_WTMP.Alm",
@@ -1161,7 +1255,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QG1_WTMP.Tr",
@@ -1185,7 +1281,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QG1_BCHZ.Alm",
@@ -1209,7 +1307,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QG1_BCHZ.tr",
@@ -1233,7 +1333,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QG1_PRESRLY.Alm",
@@ -1257,7 +1359,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QG1_PRESRLY.TR",
@@ -1281,7 +1385,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_SCBR.MechHealth",
@@ -1305,7 +1411,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_CSWI.Fufail",
@@ -1329,7 +1437,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_QA1_SyncStat",
@@ -1353,7 +1463,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_BAY.LocKey",
@@ -1377,7 +1489,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_SupWh",
@@ -1401,7 +1515,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_DmdWh",
@@ -1425,7 +1541,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_SupVArh",
@@ -1449,7 +1567,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_DmdVArh",
@@ -1473,7 +1593,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LCCH.ChLiv.A",
@@ -1497,7 +1619,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LGOS",
@@ -1521,7 +1645,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LSVS",
@@ -1545,7 +1671,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LCCH.ChLiv.B",
@@ -1569,7 +1697,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_IRF",
@@ -1593,7 +1723,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_SPVC.FailVCirc",
@@ -1617,7 +1749,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_RSYN.Failsyn.",
@@ -1641,7 +1775,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_XFUS.FuSt.DC",
@@ -1665,7 +1801,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LLN0.Mod",
@@ -1689,7 +1827,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LPHD.Sim",
@@ -1713,7 +1853,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_LTMS.TmChSt1",
@@ -1737,7 +1879,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_BRFP.TR",
@@ -1761,7 +1905,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_BRFP.IA",
@@ -1785,7 +1931,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_Bay.Emerg",
@@ -1809,7 +1957,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_Hand crank",
@@ -1833,7 +1983,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_SprCha.Alm",
@@ -1857,7 +2009,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_CB.SOCKET.Alm",
@@ -1881,7 +2035,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_PRESFLAPS.Tr",
@@ -1905,7 +2061,9 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     },
     {
       "id": "55E00_BCF1_XFUS.FuSt.DC",
@@ -1929,7 +2087,11 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "phase_added": "DESIGN"
+      "phase_added": "DESIGN",
+      "review_flagged": false,
+      "review_comment": null
     }
-  ]
+  ],
+  "status": "DRAFT",
+  "review": null
 }
