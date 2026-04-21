@@ -206,5 +206,18 @@
     "comment": "Merki eytt: WTMP.Alm",
     "id": "9d677ca0-54f9-4e72-804f-9a4cc1a45df1",
     "timestamp": "2026-04-21T14:08:15.317Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_QG1_WTMP.Tr",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "55E01F1_WTMP.Tr",
+    "new_value": null,
+    "comment": "Merki eytt: WTMP.Tr",
+    "id": "b77d50b1-1ee5-4aa8-bc1d-bfe22ee68cf8",
+    "timestamp": "2026-04-21T14:08:27.280Z"
   }
 ]
