@@ -1035,17 +1035,18 @@
     "id": "d70e747e-3e2d-44f7-9247-8fcb0d5e7ab2"
   },
   {
-    "code": "BRFP.LO",
+    "id": "a2049581-645f-41f1-afe7-bde2a331bf3b",
+    "code": "BRFP.LOC",
     "name_is": "AFLROFAVÖRN",
-    "description_is": "Aflrofavörn lásliði",
     "name_en": "BREAKER FAILURE PROT LOCKOUT",
+    "description_is": "Aflrofavörn lásliði",
     "state_id": "OffLockout",
     "signal_type": "SP",
     "units": null,
     "severity_code": "D5",
     "hmi_event": true,
     "is_alarm": true,
-    "alarm_class": null,
+    "alarm_class": 1,
     "to_control_room": true,
     "source_type": "IED",
     "iec61850_ld": null,
@@ -1054,8 +1055,7 @@
     "iec61850_fc": null,
     "iec61850_cdc": null,
     "iec61850_dataset": null,
-    "comments": null,
-    "id": "a2049581-645f-41f1-afe7-bde2a331bf3b"
+    "comments": null
   },
   {
     "code": "IntrSys.Alm",
