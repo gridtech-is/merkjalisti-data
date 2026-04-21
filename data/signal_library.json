@@ -92,17 +92,18 @@
     "id": "069f6db7-ccf1-4a72-b6b4-fdeb702bfc69"
   },
   {
-    "code": "XFUS.FuSt.stV",
+    "id": "86a94b2e-3703-4c3a-b730-d155b48c5ad7",
+    "code": "XFUS.OPEN",
     "name_is": "AC AFLROFI",
-    "description_is": "Aflrofi fyrir AC fæðingu stöðvar",
     "name_en": "AC SYSTEM MAIN BREAKER",
+    "description_is": "Aflrofi fyrir AC fæðingu stöðvar",
     "state_id": "Opeen",
     "signal_type": "SP",
     "units": null,
     "severity_code": "C8",
     "hmi_event": true,
     "is_alarm": true,
-    "alarm_class": null,
+    "alarm_class": 1,
     "to_control_room": true,
     "source_type": "IED",
     "iec61850_ld": null,
@@ -111,8 +112,7 @@
     "iec61850_fc": "ST",
     "iec61850_cdc": "SPS",
     "iec61850_dataset": "Stat",
-    "comments": null,
-    "id": "86a94b2e-3703-4c3a-b730-d155b48c5ad7"
+    "comments": null
   },
   {
     "code": "AcDc.Batt.Alm",
