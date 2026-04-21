@@ -89,5 +89,18 @@
     "comment": "Merki eytt: XCBR.BlkOpn",
     "id": "682dfd64-2a72-4d2e-b856-d3c964c1239c",
     "timestamp": "2026-04-21T09:46:56.896Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "ea7c9043-13cc-4b9e-98ad-c962fb0ac267",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "QC1_Gas.InsAlm",
+    "comment": "Merki bætt við: Gas.InsAlm í 66E01",
+    "id": "3cd76dde-cafa-4d9e-87c0-29f95c745714",
+    "timestamp": "2026-04-21T10:17:53.085Z"
   }
 ]
