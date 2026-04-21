@@ -3733,16 +3733,18 @@
     "comments": null
   },
   {
-    "code": "Gas.InsAlm2",
+    "id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+    "code": "GAS.INSALM2",
     "name_is": "GAS ÞRÝSTINGUR",
-    "description_is": "Gas alvarleg viðvörun (stage 2)",
     "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-    "state_id": "Alarm",
+    "description_is": "Gas alvarleg viðvörun (stage 2)",
+    "state_id": "GasStage2",
+    "state_alarm_map": null,
     "signal_type": "SP",
     "units": null,
     "severity_code": "C8",
     "hmi_event": true,
-    "is_alarm": true,
+    "is_alarm": false,
     "alarm_class": null,
     "to_control_room": true,
     "source_type": "IED",
@@ -3752,8 +3754,7 @@
     "iec61850_fc": "ST",
     "iec61850_cdc": "SPS",
     "iec61850_dataset": "Ev",
-    "comments": null,
-    "id": "f06f0204-e5fe-4891-abf4-bf0673442dac"
+    "comments": null
   },
   {
     "id": "cf856386-8298-467c-97a2-fb3eddfa687e",
