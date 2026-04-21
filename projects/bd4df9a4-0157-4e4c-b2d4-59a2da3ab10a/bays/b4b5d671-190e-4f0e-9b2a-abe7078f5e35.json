@@ -921,7 +921,7 @@
     {
       "id": "55E00_BCF1_UV.St",
       "equipment_code": "F2540A01",
-      "signal_name": "UV.St",
+      "signal_name": "fail",
       "name_is": "UNDIRSPENNA",
       "name_en": "UNDER VOLTAGE",
       "state_id": "Start",
