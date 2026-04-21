@@ -1090,7 +1090,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": null
     },
     {
       "id": "55E00_BCF1_TCS1.Alm",
