@@ -1491,16 +1491,6 @@
     "id": "TruckDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_INTERMEDIATE",
-        "is": "MILLISTAÐA",
-        "en": "INTERMEDIATE"
-      },
-      "01": {
-        "key": "X_TRUCK OUT",
-        "is": "ÚTDREGINN",
-        "en": "TRUCK OUT"
-      },
       "10": {
         "key": "X_TRUCK IN",
         "is": "Í HÚSI",
@@ -1510,6 +1500,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_TRUCK OUT",
+        "is": "ÚTDREGINN",
+        "en": "TRUCK OUT"
       }
     }
   },
@@ -1533,16 +1533,6 @@
     "id": "OpenCloseDC",
     "type": "DC",
     "states": {
-      "00": {
-        "key": "X_INTERMEDIATE",
-        "is": "MILLISTAÐA",
-        "en": "INTERMEDIATE"
-      },
-      "01": {
-        "key": "X_OPEN_NA",
-        "is": "OPNA",
-        "en": "OPEN"
-      },
       "10": {
         "key": "X_CLOSE",
         "is": "LOKA",
@@ -1552,6 +1542,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_OPEN_NA",
+        "is": "OPNA",
+        "en": "OPEN"
       }
     }
   },
@@ -1559,16 +1559,6 @@
     "id": "OpenCloseDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_INTERMEDIATE",
-        "is": "MILLISTAÐA",
-        "en": "INTERMEDIATE"
-      },
-      "01": {
-        "key": "X_OPEN_INN",
-        "is": "OPINN",
-        "en": "OPEN"
-      },
       "10": {
         "key": "X_CLOSED",
         "is": "LOKAÐUR",
@@ -1578,6 +1568,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_OPEN_INN",
+        "is": "OPINN",
+        "en": "OPEN"
       }
     }
   },
@@ -1585,16 +1585,6 @@
     "id": "OpenClose",
     "type": "SP",
     "states": {
-      "00": {
-        "key": "X_INTERMEDIATE",
-        "is": "MILLISTAÐA",
-        "en": "INTERMEDIATE"
-      },
-      "01": {
-        "key": "X_OPEN_INN",
-        "is": "OPINN",
-        "en": "OPEN"
-      },
       "10": {
         "key": "X_CLOSED",
         "is": "LOKAÐUR",
@@ -1604,6 +1594,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
+      },
+      "01": {
+        "key": "X_OPEN_INN",
+        "is": "OPINN",
+        "en": "OPEN"
       }
     }
   },
@@ -1611,16 +1611,6 @@
     "id": "RemInterLocDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_REMOTE",
-        "is": "FJARSTÝRT",
-        "en": "REMOTE"
-      },
-      "01": {
-        "key": "X_INTERMEDIATE",
-        "is": "MILLISTAÐA",
-        "en": "INTERMEDIATE"
-      },
       "10": {
         "key": "X_LOCAL",
         "is": "STAÐSTÝRT",
@@ -1630,6 +1620,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      },
+      "01": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
       }
     }
   },
@@ -1637,16 +1637,6 @@
     "id": "AutoManDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_AUTO",
-        "is": "SJÁLFVIRKT",
-        "en": "AUTO"
-      },
-      "01": {
-        "key": "X_INTERMEDIATE",
-        "is": "MILLISTAÐA",
-        "en": "INTERMEDIATE"
-      },
       "10": {
         "key": "X_MANUAL1",
         "is": "HANDVIRKT",
@@ -1656,6 +1646,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_AUTO",
+        "is": "SJÁLFVIRKT",
+        "en": "AUTO"
+      },
+      "01": {
+        "key": "X_INTERMEDIATE",
+        "is": "MILLISTAÐA",
+        "en": "INTERMEDIATE"
       }
     }
   },
@@ -1663,16 +1663,6 @@
     "id": "RemBlocLocDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_REMOTE",
-        "is": "FJARSTÝRT",
-        "en": "REMOTE"
-      },
-      "01": {
-        "key": "X_BLOCKED_HIND",
-        "is": "HINDRUÐ",
-        "en": "BLOCKED"
-      },
       "10": {
         "key": "X_LOCAL",
         "is": "STAÐSTÝRT",
@@ -1682,6 +1672,16 @@
         "key": "X_ERROR",
         "is": "VILLA",
         "en": "ERROR"
+      },
+      "00": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      },
+      "01": {
+        "key": "X_BLOCKED_HIND",
+        "is": "HINDRUÐ",
+        "en": "BLOCKED"
       }
     }
   },
@@ -1689,11 +1689,6 @@
     "id": "WarnAlarmDP",
     "type": "DP",
     "states": {
-      "01": {
-        "key": "X_NORMAL STATE",
-        "is": "EÐLILEGT ÁSTAND",
-        "en": "NORMAL STATE"
-      },
       "10": {
         "key": "X_WARNING",
         "is": "VIÐVÖRUN",
@@ -1703,6 +1698,11 @@
         "key": "X_ALARM_B",
         "is": "BILUN",
         "en": "ALARM"
+      },
+      "01": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
       }
     }
   },
@@ -1710,16 +1710,6 @@
     "id": "DirectioDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_UNKNOWN",
-        "is": "ÓÞEKKT",
-        "en": "UNKNOWN"
-      },
-      "01": {
-        "key": "X_FORWARD",
-        "is": "ÁFRAM",
-        "en": "FORWARD"
-      },
       "10": {
         "key": "X_REVERSE",
         "is": "BAKÞREP",
@@ -1729,6 +1719,16 @@
         "key": "X_BOTH",
         "is": "BÁÐAR",
         "en": "BOTH"
+      },
+      "00": {
+        "key": "X_UNKNOWN",
+        "is": "ÓÞEKKT",
+        "en": "UNKNOWN"
+      },
+      "01": {
+        "key": "X_FORWARD",
+        "is": "ÁFRAM",
+        "en": "FORWARD"
       }
     }
   },
@@ -1736,16 +1736,6 @@
     "id": "TestBlockDP",
     "type": "DP",
     "states": {
-      "00": {
-        "key": "X_TEST/BLOCKED",
-        "is": "PRÓFUN/HINDAÐUR",
-        "en": "TEST/BLOCKED"
-      },
-      "01": {
-        "key": "X_ON",
-        "is": "Á",
-        "en": "ON"
-      },
       "10": {
         "key": "X_ON-BLOCKED",
         "is": "Á-HINDRAÐUR",
@@ -1755,6 +1745,16 @@
         "key": "X_TEST",
         "is": "PRÓFUN",
         "en": "TEST"
+      },
+      "00": {
+        "key": "X_TEST/BLOCKED",
+        "is": "PRÓFUN/HINDAÐUR",
+        "en": "TEST/BLOCKED"
+      },
+      "01": {
+        "key": "X_ON",
+        "is": "Á",
+        "en": "ON"
       }
     }
   },
@@ -1783,5 +1783,21 @@
     "id": "SETPONT",
     "type": "AO",
     "states": {}
+  },
+  {
+    "id": "GasStage1",
+    "type": null,
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_STAGE_1",
+        "is": "VIÐVÖRUN MÖRK 1",
+        "en": "ALARM STAGE 1"
+      }
+    }
   }
 ]
