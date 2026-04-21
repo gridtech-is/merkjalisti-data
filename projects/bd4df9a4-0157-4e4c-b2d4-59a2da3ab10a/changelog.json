@@ -167,5 +167,18 @@
     "comment": "Merki eytt: UF.Tr",
     "id": "601eb87e-3807-41c8-aa07-f6253ae4928f",
     "timestamp": "2026-04-21T13:57:53.691Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_SCBR.MechHealth",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "F2540A01_SCBR.MechHealth",
+    "new_value": null,
+    "comment": "Merki eytt: SCBR.MechHealth",
+    "id": "c0c0f67a-73e4-438c-9c8a-638fa4469d01",
+    "timestamp": "2026-04-21T13:59:18.083Z"
   }
 ]
