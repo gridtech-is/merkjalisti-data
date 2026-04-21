@@ -40,7 +40,8 @@
           "is_event": false,
           "alarm_class": null
         }
-      }
+      },
+      "group_label": "Afrofi"
     },
     {
       "id": "55E00_QA1_REM.CMD",
@@ -68,7 +69,8 @@
       "iec61850_dataset": "Ev",
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": null
     },
     {
       "id": "55E00_QB1_Pos.DP",
