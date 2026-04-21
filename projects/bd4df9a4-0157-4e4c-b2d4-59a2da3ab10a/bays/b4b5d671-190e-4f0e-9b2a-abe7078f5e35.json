@@ -791,7 +791,14 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      }
     },
     {
       "id": "55E00_BCF1_OC2.St",
@@ -843,7 +850,14 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      }
     },
     {
       "id": "55E00_BCF1_OC3.St",
@@ -895,7 +909,14 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      }
     },
     {
       "id": "55E00_BCF1_UV.St",
