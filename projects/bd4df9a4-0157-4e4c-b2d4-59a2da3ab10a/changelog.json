@@ -349,5 +349,19 @@
     "comment": "Merki bætt við: Gas.InsAlm2 í 40E01",
     "id": "9939b01a-0b3b-424e-ab2b-5b1156f1fd4d",
     "timestamp": "2026-04-21T17:19:30.633Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "01edd901-2980-4fb0-bb4e-418f7a36a6e1",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "group_label",
+    "old_value": null,
+    "new_value": "SF6 GAS",
+    "comment": "group_label breytt",
+    "id": "057b11ab-ed53-4667-891a-f2e2f468aa89",
+    "timestamp": "2026-04-21T17:19:52.440Z"
   }
 ]
