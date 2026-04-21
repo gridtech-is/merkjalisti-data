@@ -24,5 +24,18 @@
     "comment": "Merki eytt: Pos.DP",
     "id": "b48ee857-7f3b-4d75-a0da-f47d7c36283b",
     "timestamp": "2026-04-21T09:46:19.518Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_QA1_REM.CMD",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q0_Pos.DP",
+    "new_value": null,
+    "comment": "Merki eytt: Pos.DP",
+    "id": "ebe41a96-a4b6-4c36-b546-7a2672846a84",
+    "timestamp": "2026-04-21T09:46:29.420Z"
   }
 ]
