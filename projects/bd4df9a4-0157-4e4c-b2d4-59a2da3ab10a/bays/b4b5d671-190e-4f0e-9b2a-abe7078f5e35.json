@@ -680,7 +680,7 @@
     },
     {
       "id": "55E00_BCF1_GenTrip3Ph",
-      "equipment_code": "55E01F1",
+      "equipment_code": "F240C01",
       "signal_name": "GenTrip3Ph",
       "name_is": "VÖRN",
       "name_en": "PROTECTION",
@@ -703,7 +703,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": "Vörn Trip"
     },
     {
       "id": "55E00_BCF1_GenSt3Ph",
@@ -729,7 +729,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": null
     },
     {
       "id": "55E00_BCF1_OC1.St",
