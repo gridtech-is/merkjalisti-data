@@ -363,5 +363,19 @@
     "comment": "group_label breytt",
     "id": "057b11ab-ed53-4667-891a-f2e2f468aa89",
     "timestamp": "2026-04-21T17:19:52.440Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "01edd901-2980-4fb0-bb4e-418f7a36a6e1",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "equipment_code",
+    "old_value": "B201",
+    "new_value": "B200",
+    "comment": "equipment_code breytt",
+    "id": "4ccc3c6e-3362-4d20-8da6-1d6224111f19",
+    "timestamp": "2026-04-21T17:32:36.329Z"
   }
 ]
