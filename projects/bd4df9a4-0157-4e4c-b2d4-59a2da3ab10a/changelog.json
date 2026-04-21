@@ -271,5 +271,18 @@
     "comment": "Merki eytt: SyncStat",
     "id": "230f304f-8e8a-4ed0-8310-e2a87571f285",
     "timestamp": "2026-04-21T14:08:35.511Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_LSVS",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "55E01F1_LSVS",
+    "new_value": null,
+    "comment": "Merki eytt: LSVS",
+    "id": "05cfd60f-3dd8-4c14-908d-abac31501dbb",
+    "timestamp": "2026-04-21T14:10:37.926Z"
   }
 ]
