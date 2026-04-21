@@ -21,7 +21,7 @@
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "fat_tested": false,
       "fat_tested_by": null,
       "fat_tested_at": null,
@@ -590,7 +590,7 @@
     },
     {
       "id": "6cfd1bb8-a519-432d-92a1-78185f6a5ee2",
-      "equipment_code": "Q2",
+      "equipment_code": "Q52",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -620,7 +620,7 @@
     },
     {
       "id": "9289cf21-cc37-466b-b2bb-ac0b3399b949",
-      "equipment_code": "Q2",
+      "equipment_code": "Q52",
       "signal_name": "EnaOpn",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
@@ -650,7 +650,7 @@
     },
     {
       "id": "b0c57221-7f24-4733-ab5f-65e2c5d6e3a7",
-      "equipment_code": "Q2",
+      "equipment_code": "Q52",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
