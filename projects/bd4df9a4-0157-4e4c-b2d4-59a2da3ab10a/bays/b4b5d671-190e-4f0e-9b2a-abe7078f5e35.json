@@ -523,7 +523,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Jarðrofi Q52",
+      "group_label": "Jarðrofi Q51",
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev"
@@ -613,7 +613,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "Jarðrofi Q2",
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev"
