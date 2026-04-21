@@ -41,7 +41,7 @@
           "alarm_class": null
         }
       },
-      "group_label": "Afrofi"
+      "group_label": "Afrofi Q0"
     },
     {
       "id": "55E00_QA1_EnaOpn",
@@ -67,7 +67,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": null
     },
     {
       "id": "55E00_QB1_EnaOpn",
@@ -198,7 +199,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Q2 skirofi"
+      "group_label": "Skilrofi Q2"
     },
     {
       "id": "55E00_QC1_XSWI.BlkOpn",
@@ -251,7 +252,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": null
     },
     {
       "id": "55E00_QA1_SprCha.Alm",
