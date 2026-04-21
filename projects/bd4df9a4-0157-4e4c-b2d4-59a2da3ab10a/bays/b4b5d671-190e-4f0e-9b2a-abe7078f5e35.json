@@ -994,17 +994,17 @@
     {
       "id": "55E00_BCF1_OV1.St",
       "equipment_code": "F2540A01",
-      "signal_name": "OV1.St",
-      "name_is": "YFIRSPENNA",
-      "name_en": "OVERVOLTAGE U>",
-      "state_id": "Start",
+      "signal_name": "BRFP.IA",
+      "name_is": "AFLROFAVÖRN",
+      "name_en": "CIRCUIT BREAKER FAILURE PROTECTION INACTIVE",
+      "state_id": "ActInac",
       "iec61850_ied": "F2540A01",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
-      "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_ld": "PROT",
+      "iec61850_ln": "RBRF",
+      "iec61850_do_da": "Blk.stVal",
+      "iec61850_fc": "ST",
       "iec61850_address": null,
-      "is_alarm": false,
+      "is_alarm": true,
       "alarm_class": null,
       "source_type": "IED",
       "fat_tested": false,
@@ -1015,7 +1015,10 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "library_id": "64c3e8bb-2428-4975-9f3c-f6c90c534bc3",
+      "iec61850_cdc": "SPS",
+      "iec61850_dataset": "Prot"
     },
     {
       "id": "55E00_BCF1_OV1.Tr",
@@ -1041,7 +1044,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "Tíðni vörn"
     },
     {
       "id": "ea7c9043-13cc-4b9e-98ad-c962fb0ac267",
