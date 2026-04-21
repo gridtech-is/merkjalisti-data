@@ -231,7 +231,7 @@
     },
     {
       "id": "55E00_QB1_XSWI.BlkCls",
-      "equipment_code": "Q2",
+      "equipment_code": "Q1",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -261,7 +261,7 @@
     },
     {
       "id": "55E00_QC1_XSWI.BlkOpn",
-      "equipment_code": "Q2",
+      "equipment_code": "Q1",
       "signal_name": "EnaOpn",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
@@ -291,7 +291,7 @@
     },
     {
       "id": "55E00_QC1_EnaOpn",
-      "equipment_code": "Q2",
+      "equipment_code": "Q1",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
@@ -410,7 +410,7 @@
     },
     {
       "id": "dbdbd0b9-a797-4d21-b215-c0bb0671d4ff",
-      "equipment_code": "Q2",
+      "equipment_code": "Q8",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -440,7 +440,7 @@
     },
     {
       "id": "ce6149ae-8d3b-49b3-a9f9-15612c4fce38",
-      "equipment_code": "Q2",
+      "equipment_code": "Q8",
       "signal_name": "EnaOpn",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
@@ -470,7 +470,7 @@
     },
     {
       "id": "773a3285-cc4a-4348-b7e2-6970ef812731",
-      "equipment_code": "Q2",
+      "equipment_code": "Q8",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
@@ -500,7 +500,7 @@
     },
     {
       "id": "022a1b28-6de7-4c6b-8d21-b03d2b260e24",
-      "equipment_code": "Q2",
+      "equipment_code": "Q51",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
