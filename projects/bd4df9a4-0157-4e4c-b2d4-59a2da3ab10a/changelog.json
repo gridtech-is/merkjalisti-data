@@ -284,5 +284,18 @@
     "comment": "Merki eytt: LSVS",
     "id": "05cfd60f-3dd8-4c14-908d-abac31501dbb",
     "timestamp": "2026-04-21T14:10:37.926Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_LCCH.ChLiv.B",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "55E01F1_LCCH.ChLiv.B",
+    "new_value": null,
+    "comment": "Merki eytt: LCCH.ChLiv.B",
+    "id": "754bffaf-8845-447d-b6c7-c20f1d4bd8f7",
+    "timestamp": "2026-04-21T14:10:44.379Z"
   }
 ]
