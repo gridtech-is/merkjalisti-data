@@ -1021,43 +1021,6 @@
       "iec61850_dataset": "Prot"
     },
     {
-      "id": "55E00_BCF1_OV1.Tr",
-      "equipment_code": "F2540A01",
-      "signal_name": "UF.Tr",
-      "name_is": "UNDIRTÍÐNI",
-      "name_en": "UNDER FREQUENCY",
-      "state_id": "Trip",
-      "iec61850_ied": "F2540A01",
-      "iec61850_ld": "PROT",
-      "iec61850_ln": "PTUF",
-      "iec61850_do_da": "Op.general",
-      "iec61850_fc": "ST",
-      "iec61850_address": null,
-      "is_alarm": true,
-      "alarm_class": null,
-      "source_type": "IED",
-      "fat_tested": false,
-      "fat_tested_by": null,
-      "fat_tested_at": null,
-      "sat_tested": false,
-      "sat_tested_by": null,
-      "sat_tested_at": null,
-      "phase_added": "DESIGN",
-      "review_flagged": false,
-      "review_comment": null,
-      "group_label": "Tíðni vörn",
-      "library_id": "09919dfc-e0f6-4de1-9587-26c93944aa4a",
-      "iec61850_cdc": "ACT",
-      "iec61850_dataset": "Prot",
-      "state_alarm_map": {
-        "01": {
-          "is_alarm": true,
-          "is_event": false,
-          "alarm_class": 3
-        }
-      }
-    },
-    {
       "id": "ea7c9043-13cc-4b9e-98ad-c962fb0ac267",
       "equipment_code": "F2540A01",
       "signal_name": "UF.Tr",
