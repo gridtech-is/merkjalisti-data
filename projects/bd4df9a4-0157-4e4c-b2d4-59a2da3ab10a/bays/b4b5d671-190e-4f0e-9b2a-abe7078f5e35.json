@@ -513,7 +513,7 @@
       "iec61850_address": null,
       "is_alarm": true,
       "alarm_class": null,
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "fat_tested": false,
       "fat_tested_by": null,
       "fat_tested_at": null,
