@@ -197,7 +197,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "Q2 skirofi"
     },
     {
       "id": "55E00_QC1_XSWI.BlkOpn",
@@ -223,7 +224,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": null
     },
     {
       "id": "55E00_QC1_XSWI.BlkCls",
