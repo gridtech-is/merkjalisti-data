@@ -33,7 +33,14 @@
       "iec61850_dataset_entry": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "state_alarm_map": {
+        "00": {
+          "is_alarm": false,
+          "is_event": false,
+          "alarm_class": null
+        }
+      }
     },
     {
       "id": "55E00_QA1_REM.CMD",
