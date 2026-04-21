@@ -232,5 +232,18 @@
     "comment": "Merki eytt: BCHZ.Alm",
     "id": "41f0f17f-ec45-4b19-aa87-44eedb0d2227",
     "timestamp": "2026-04-21T14:08:28.978Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "5a5593e8-4f39-4ae8-99b3-984918195e1c",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "QC1_Gas.InsBlk",
+    "new_value": null,
+    "comment": "Merki eytt: Gas.InsBlk",
+    "id": "23f616c7-75c1-4289-bd95-3f3f553a3a11",
+    "timestamp": "2026-04-21T14:08:30.176Z"
   }
 ]
