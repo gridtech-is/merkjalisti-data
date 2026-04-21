@@ -3739,13 +3739,19 @@
     "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
     "description_is": "Gas alvarleg viðvörun (stage 2)",
     "state_id": "GasStage2",
-    "state_alarm_map": null,
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
     "units": null,
     "severity_code": "C8",
     "hmi_event": true,
-    "is_alarm": false,
-    "alarm_class": null,
+    "is_alarm": true,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
     "iec61850_ld": "LD0",
