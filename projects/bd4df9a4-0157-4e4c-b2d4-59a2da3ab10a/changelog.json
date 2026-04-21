@@ -336,5 +336,18 @@
     "comment": "Merki bætt við: Gas.InsAlm í 40E01",
     "id": "2a4cbf01-1ac0-4904-8c68-96d96567ffc2",
     "timestamp": "2026-04-21T17:17:29.528Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "01edd901-2980-4fb0-bb4e-418f7a36a6e1",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "B201_Gas.InsAlm2",
+    "comment": "Merki bætt við: Gas.InsAlm2 í 40E01",
+    "id": "9939b01a-0b3b-424e-ab2b-5b1156f1fd4d",
+    "timestamp": "2026-04-21T17:19:30.633Z"
   }
 ]
