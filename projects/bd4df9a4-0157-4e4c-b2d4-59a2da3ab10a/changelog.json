@@ -115,5 +115,18 @@
     "comment": "Merki eytt: EnaCls",
     "id": "95755a0f-703f-4132-b9f2-7d15d1668e12",
     "timestamp": "2026-04-21T12:48:57.829Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_OV1.Tr",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "F2540A01_UF.Tr",
+    "new_value": null,
+    "comment": "Merki eytt: UF.Tr",
+    "id": "9c7a8f5b-c15c-4d12-a2cb-d0484476178e",
+    "timestamp": "2026-04-21T13:57:42.473Z"
   }
 ]
