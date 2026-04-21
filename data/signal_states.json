@@ -1799,5 +1799,21 @@
         "en": "ALARM STAGE 1"
       }
     }
+  },
+  {
+    "id": "GasStage2",
+    "type": null,
+    "states": {
+      "00": {
+        "key": "X_NORMAL STATE",
+        "is": "EÐLILEGT ÁSTAND",
+        "en": "NORMAL STATE"
+      },
+      "01": {
+        "key": "X_Stage2",
+        "is": "VIÐVÖRUN MÖRK 2",
+        "en": "ALARM STAGE2"
+      }
+    }
   }
 ]
