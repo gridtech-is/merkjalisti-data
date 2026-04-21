@@ -310,5 +310,18 @@
     "comment": "Merki eytt: LLN0.Mod",
     "id": "d23f142f-5457-45c9-98c1-5a8ba4be3643",
     "timestamp": "2026-04-21T14:24:54.542Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_LPHD.Sim",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "55E01F1_LPHD.Sim",
+    "new_value": null,
+    "comment": "Merki eytt: LPHD.Sim",
+    "id": "0d211a8d-6d6e-413c-843b-41f93391b62d",
+    "timestamp": "2026-04-21T14:24:57.808Z"
   }
 ]
