@@ -812,5 +812,16 @@
     "model": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "14cbbd46-7d31-458e-ac94-62d485d29257",
+    "category": "apparatus",
+    "code": "B200",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "template_id": null,
+    "description": "Gas mælir"
   }
 ]
