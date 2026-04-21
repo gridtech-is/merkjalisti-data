@@ -942,7 +942,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "Brker Failure"
     },
     {
       "id": "55E00_BCF1_UV.Tr",
