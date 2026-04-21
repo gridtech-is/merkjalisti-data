@@ -123,7 +123,7 @@
     },
     {
       "id": "55E00_QA1_XCBR.BlkCls",
-      "equipment_code": "55E01F1",
+      "equipment_code": "Q0",
       "signal_name": "XCBR.BlkCls",
       "name_is": "STÝRING LOKA",
       "name_en": "CIRCUIT BREAKER  OPERATION CLOSE ALLOWED",
@@ -149,7 +149,7 @@
     },
     {
       "id": "55E00_QB1_XSWI.BlkOpn",
-      "equipment_code": "55E01F1",
+      "equipment_code": "Q0",
       "signal_name": "XSWI.BlkOpn",
       "name_is": "STÝRING OPNA",
       "name_en": "DISCONNECT/EARTH SWITCH  OPERATION OPEN ALLOWED",
