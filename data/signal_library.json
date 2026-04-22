@@ -96,16 +96,22 @@
     "id": "86a94b2e-3703-4c3a-b730-d155b48c5ad7",
     "code": "MCCB.AC",
     "name_is": "AC AFLROFI",
-    "name_en": "AC SYSTEM MAIN BREAKER",
+    "name_en": "AC BREAKER",
     "description_is": "Aflrofi fyrir AC fæðingu stöðvar",
     "state_id": "Opeen",
-    "state_alarm_map": null,
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
     "units": null,
     "severity_code": "C8",
     "hmi_event": true,
-    "is_alarm": false,
-    "alarm_class": null,
+    "is_alarm": true,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
     "iec61850_ln": null,
