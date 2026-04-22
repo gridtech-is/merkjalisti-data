@@ -4301,5 +4301,19 @@
     "comment": "equipment_code breytt",
     "id": "3950ec02-6668-4838-8b87-9b58f67ac627",
     "timestamp": "2026-04-22T14:57:26.477Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "55E00_BCF1_UV.Tr",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "equipment_code",
+    "old_value": "F2540A01",
+    "new_value": "VT BUS",
+    "comment": "equipment_code breytt",
+    "id": "ad415488-7f96-4b10-8054-0d4ba8a865e3",
+    "timestamp": "2026-04-22T14:57:29.341Z"
   }
 ]
