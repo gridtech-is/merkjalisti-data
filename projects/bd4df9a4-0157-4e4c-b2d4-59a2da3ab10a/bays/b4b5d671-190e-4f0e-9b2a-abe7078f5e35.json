@@ -2447,7 +2447,7 @@
     {
       "id": "2b2da658-4c22-440d-8e68-f2e66e0a8715",
       "equipment_code": "+W",
-      "signal_name": "XFUS.FuSt.DC",
+      "signal_name": "FUST.DC",
       "name_is": "DC SJÁLFVAR",
       "name_en": "DC MCB OPEN",
       "state_id": "Opeen",
@@ -2456,14 +2456,14 @@
       "iec61850_ln_inst": "1",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
-      "iec61850_ld": null,
-      "iec61850_ln": "XFUS",
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Stat",
       "library_id": "591d1f11-83cc-410e-9a8e-a4a339833f40",
-      "is_alarm": true,
+      "is_alarm": false,
       "alarm_class": null,
       "state_alarm_map": {
         "01": {
@@ -2472,7 +2472,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
