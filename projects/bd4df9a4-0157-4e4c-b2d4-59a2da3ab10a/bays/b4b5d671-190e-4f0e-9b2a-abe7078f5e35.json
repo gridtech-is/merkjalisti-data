@@ -1011,7 +1011,10 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": "Yfirstraumur",
-      "iec61850_ln_prefix": "OC4"
+      "iec61850_ln_prefix": "OC4",
+      "iec61850_ln_inst": "1",
+      "iec61850_do": "Str",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_OC1.Tr",
@@ -1022,7 +1025,7 @@
       "state_id": "StepTrip1",
       "iec61850_ied": "F240C01",
       "iec61850_ld": "OC4_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1045,7 +1048,10 @@
           "is_event": false,
           "alarm_class": 3
         }
-      }
+      },
+      "iec61850_ln_prefix": "OC4",
+      "iec61850_ln_inst": "1",
+      "iec61850_do": "Op"
     },
     {
       "id": "55E00_BCF1_OC2.St",
