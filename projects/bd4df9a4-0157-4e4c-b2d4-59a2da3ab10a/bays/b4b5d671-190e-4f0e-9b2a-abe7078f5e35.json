@@ -1201,7 +1201,9 @@
         }
       },
       "iec61850_ln_prefix": "CC",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "iec61850_do": "OpEx",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_UV.Tr",
@@ -1247,7 +1249,7 @@
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION INACTIVE",
       "state_id": "ActInac",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": "PROT",
+      "iec61850_ld": "LD0",
       "iec61850_ln": "RBRF",
       "iec61850_do_da": "Blk.stVal",
       "iec61850_fc": "ST",
@@ -1266,7 +1268,9 @@
       "review_comment": null,
       "library_id": "64c3e8bb-2428-4975-9f3c-f6c90c534bc3",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Prot"
+      "iec61850_dataset": "Prot",
+      "iec61850_ln_prefix": "CC",
+      "iec61850_ln_inst": "1"
     },
     {
       "id": "55E00_BCF1_Health",
