@@ -491,7 +491,7 @@
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev",
-      "iec61850_ln_prefix": null
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "55E00_QC1_XSWI.BlkOpn",
@@ -521,7 +521,8 @@
       "group_label": null,
       "library_id": "4777eb87-cdb3-458e-be55-7431be17e5dd",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "55E00_QC1_EnaOpn",
@@ -531,7 +532,7 @@
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
       "state_id": "EnableClose",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": "CTRL",
+      "iec61850_ld": "LD0",
       "iec61850_ln": "CILO",
       "iec61850_do_da": "EnaCls.stVal",
       "iec61850_fc": "ST",
@@ -550,7 +551,8 @@
       "review_comment": null,
       "library_id": "0e0a0d3e-39ea-4df9-b27f-0e13bc43982f",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "c6f39287-a4f2-42ee-ba12-f591cf2441a4",
@@ -560,7 +562,7 @@
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
       "state_id": "OpenCloseDP",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": "CTRL",
+      "iec61850_ld": "LD0",
       "iec61850_ln": "CSWI",
       "iec61850_do_da": "Pos.stVal",
       "iec61850_fc": "ST",
@@ -580,7 +582,8 @@
       "group_label": "Skilrofi Q2",
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "bfff5e82-383d-4150-b3b1-5bdaa75480f8",
@@ -590,7 +593,7 @@
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
       "state_id": "Enableopen",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": "CTRL",
+      "iec61850_ld": "LD0",
       "iec61850_ln": "CILO",
       "iec61850_do_da": "EnaOpn.stVal",
       "iec61850_fc": "ST",
@@ -610,7 +613,8 @@
       "group_label": null,
       "library_id": "4777eb87-cdb3-458e-be55-7431be17e5dd",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "55E00_QC1_XSWI.BlkCls",
@@ -620,7 +624,7 @@
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
       "state_id": "EnableClose",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": "CTRL",
+      "iec61850_ld": "LD0",
       "iec61850_ln": "CILO",
       "iec61850_do_da": "EnaCls.stVal",
       "iec61850_fc": "ST",
@@ -640,7 +644,8 @@
       "group_label": null,
       "library_id": "0e0a0d3e-39ea-4df9-b27f-0e13bc43982f",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "dbdbd0b9-a797-4d21-b215-c0bb0671d4ff",
