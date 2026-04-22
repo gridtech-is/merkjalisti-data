@@ -2623,13 +2623,13 @@
     {
       "id": "c37d522a-c602-4570-ab15-b7f5d9e9e11d",
       "equipment_code": "F240C01",
-      "signal_name": "FUTR.AC",
-      "name_is": "AC SJÁLFVAR",
-      "name_en": "AC MCB OPEN",
-      "state_id": "Tripnormal",
+      "signal_name": "TestSock.Ins",
+      "name_is": "PRÓFUNARGREIÐA",
+      "name_en": "TEST SOCKET INSERTED",
+      "state_id": "Testmode",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "11",
+      "iec61850_ln_inst": "2",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
@@ -2637,10 +2637,10 @@
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": null,
       "iec61850_cdc": null,
-      "iec61850_dataset": "EV",
-      "library_id": "77ed4d25-4d83-4f09-935e-45f9d2dfa6fb",
-      "is_alarm": true,
-      "alarm_class": 3,
+      "iec61850_dataset": null,
+      "library_id": "07996e70-928a-4045-8b42-90c3123ed871",
+      "is_alarm": false,
+      "alarm_class": null,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2661,8 +2661,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": "Merki",
-      "iec61850_do": "Ind",
-      "iec61850_da": "stVal"
+      "iec61850_do": null,
+      "iec61850_da": null
     },
     {
       "id": "2dc16642-0fdb-4dd0-a5ca-d5a3298c3feb",
