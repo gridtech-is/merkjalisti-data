@@ -2599,5 +2599,18 @@
     "comment": "Merki eytt: Gas.InsAlm",
     "id": "da6af6ba-f638-4873-8650-c495acb9f4ca",
     "timestamp": "2026-04-22T14:26:12.080Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_QB1_XSWI.BlkOpn",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q0_XSWI.BlkOpn",
+    "new_value": null,
+    "comment": "Merki eytt: XSWI.BlkOpn",
+    "id": "0d391250-0118-473f-ae71-78beb60eab00",
+    "timestamp": "2026-04-22T14:26:39.498Z"
   }
 ]
