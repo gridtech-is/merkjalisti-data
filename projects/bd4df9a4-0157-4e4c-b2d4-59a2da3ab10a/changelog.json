@@ -2140,5 +2140,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "26fb9ff0-238f-4e6f-9069-cddadaeecd45",
     "timestamp": "2026-04-22T13:53:27.362Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "79e6b325-4a3e-4ddf-add9-de753666d236",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "XCBR.BlkOpn",
+    "new_value": "TCS1.Alm",
+    "comment": "signal_name breytt",
+    "id": "dca6aabf-52c9-4e95-a676-5a4f97c1f88d",
+    "timestamp": "2026-04-22T13:57:30.528Z"
   }
 ]
