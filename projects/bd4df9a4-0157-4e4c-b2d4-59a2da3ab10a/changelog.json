@@ -1524,5 +1524,19 @@
     "comment": "iec61850_da breytt",
     "id": "cdba562b-6d87-4380-8263-b357ce9e1771",
     "timestamp": "2026-04-22T12:47:13.252Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "0b9ac387-bc9a-4c52-b146-fcae6b14983b",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_do",
+    "old_value": null,
+    "new_value": "Pos",
+    "comment": "iec61850_do breytt",
+    "id": "57d26ac5-2000-49db-913a-16db6fc6dcd8",
+    "timestamp": "2026-04-22T12:47:16.138Z"
   }
 ]
