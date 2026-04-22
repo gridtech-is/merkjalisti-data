@@ -2322,5 +2322,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "ad28c571-5c0e-4f92-87a4-7adaa84de28f",
     "timestamp": "2026-04-22T14:13:27.529Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "b3e71dd7-b51a-4de7-8ef0-2905dc4197c4",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "IRF",
+    "new_value": "XCBR.BlkOpn",
+    "comment": "signal_name breytt",
+    "id": "69c2043a-29ad-4182-b1cf-a233d4028467",
+    "timestamp": "2026-04-22T14:14:14.268Z"
   }
 ]
