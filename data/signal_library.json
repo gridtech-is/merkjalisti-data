@@ -8923,5 +8923,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "85ba65fd-c703-4019-85bb-1d91b428a24e",
+    "code": "CB.READY",
+    "name_is": "AFLROFI",
+    "name_en": "CIRCUIT",
+    "description_is": null,
+    "state_id": "READY",
+    "state_alarm_map": {
+      "00": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 1
+      }
+    },
+    "signal_type": null,
+    "units": null,
+    "severity_code": null,
+    "hmi_event": false,
+    "is_alarm": true,
+    "alarm_class": 1,
+    "to_control_room": false,
+    "source_type": "IED",
+    "iec61850_ln": "GGIO",
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
