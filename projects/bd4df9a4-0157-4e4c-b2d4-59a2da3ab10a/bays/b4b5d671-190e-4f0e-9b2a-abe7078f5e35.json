@@ -415,8 +415,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": "GGIO",
-      "iec61850_da": null
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "f019f719-25af-4150-8c78-d7744b322d22",
