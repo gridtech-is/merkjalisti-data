@@ -1172,7 +1172,7 @@
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION",
       "state_id": "Trip",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": "PROT",
+      "iec61850_ld": "LD0",
       "iec61850_ln": "RBRF",
       "iec61850_do_da": "OpEx.general",
       "iec61850_fc": "ST",
@@ -1199,7 +1199,9 @@
           "is_event": false,
           "alarm_class": 3
         }
-      }
+      },
+      "iec61850_ln_prefix": "CC",
+      "iec61850_ln_inst": "1"
     },
     {
       "id": "55E00_BCF1_UV.Tr",
