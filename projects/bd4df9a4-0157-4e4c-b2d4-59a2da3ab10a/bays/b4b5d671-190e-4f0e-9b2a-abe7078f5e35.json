@@ -80,7 +80,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Commands",
+      "group_label": null,
       "iec61850_do": "Pos",
       "iec61850_da": "Oper"
     },
