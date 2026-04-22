@@ -4273,5 +4273,19 @@
     "comment": "Merki eytt: BAY.LocKey",
     "id": "94cb7f26-7ea1-4427-aab4-1b9e8ffb8aed",
     "timestamp": "2026-04-22T14:57:17.533Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "55E00_BCF1_Health",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "equipment_code",
+    "old_value": "F2540A01",
+    "new_value": "F240C01",
+    "comment": "equipment_code breytt",
+    "id": "d1e1962e-dc54-480e-93df-2320f1cd37f2",
+    "timestamp": "2026-04-22T14:57:24.716Z"
   }
 ]
