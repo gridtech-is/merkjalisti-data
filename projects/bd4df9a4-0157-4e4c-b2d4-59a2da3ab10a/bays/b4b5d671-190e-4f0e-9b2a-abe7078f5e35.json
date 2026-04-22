@@ -42,7 +42,7 @@
         }
       },
       "group_label": "Afrofi Q0",
-      "iec61850_ln_inst": null,
+      "iec61850_ln_inst": "2",
       "iec61850_do": "Pos",
       "iec61850_da": "stVal"
     },
@@ -55,8 +55,8 @@
       "name_en": "CB/DISCONNECTOR COMMAND OPEN/CLOSE FROM DISPATCH",
       "state_id": "OpenCloseDC",
       "iec61850_ied": "F240C01",
-      "iec61850_ln_prefix": null,
-      "iec61850_ln_inst": null,
+      "iec61850_ln_prefix": "S",
+      "iec61850_ln_inst": "2",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
