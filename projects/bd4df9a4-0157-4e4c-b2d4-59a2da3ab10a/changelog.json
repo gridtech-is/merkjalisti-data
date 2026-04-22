@@ -2503,5 +2503,19 @@
     "comment": "Merki eytt: XCBR.BlkOpn",
     "id": "d0f6a595-12cc-4813-8024-fde7a2543c21",
     "timestamp": "2026-04-22T14:17:54.355Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "c37d522a-c602-4570-ab15-b7f5d9e9e11d",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "group_label",
+    "old_value": "Merki",
+    "new_value": "IED",
+    "comment": "group_label breytt",
+    "id": "63881dec-035e-4aec-9e6e-7d45ea7bc6a8",
+    "timestamp": "2026-04-22T14:19:16.087Z"
   }
 ]
