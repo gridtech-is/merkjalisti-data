@@ -8890,5 +8890,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": "EV",
     "comments": null
+  },
+  {
+    "id": "e4027f66-2e34-4b66-b840-955a2f6b3982",
+    "code": "HYRDPUMP.FAULT",
+    "name_is": "Vökvadæla",
+    "name_en": "HYDROPUMP",
+    "description_is": null,
+    "state_id": "Fail",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": null,
+    "units": null,
+    "severity_code": null,
+    "hmi_event": false,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": false,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
