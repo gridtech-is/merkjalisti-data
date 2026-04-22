@@ -4533,5 +4533,18 @@
     "comment": "Merki eytt: LTMS.TmChSt1",
     "id": "fa0cd9e3-fd29-41eb-8c5d-05e9997f7ffe",
     "timestamp": "2026-04-22T15:09:05.907Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_Bay.Emerg",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "55E01F1_Bay.Emerg",
+    "new_value": null,
+    "comment": "Merki eytt: Bay.Emerg",
+    "id": "e10082dc-eaf2-42b6-85fb-1dc75c6b9b2e",
+    "timestamp": "2026-04-22T15:09:09.382Z"
   }
 ]
