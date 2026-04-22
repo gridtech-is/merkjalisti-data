@@ -2176,7 +2176,7 @@
       "state_id": "GasStage2",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": null,
+      "iec61850_ln_inst": "15",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
@@ -2195,7 +2195,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
