@@ -2294,5 +2294,19 @@
     "comment": "equipment_code breytt",
     "id": "5ae880e1-8339-4ad6-9169-c41b7f3daff3",
     "timestamp": "2026-04-22T14:12:41.684Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a25c4ce0-9b0c-4cc7-8b4f-7271f32312bf",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "IRF",
+    "new_value": "PoleDisc.Alm",
+    "comment": "signal_name breytt",
+    "id": "6e6934a3-933c-4735-9323-5392d9a1434a",
+    "timestamp": "2026-04-22T14:13:12.865Z"
   }
 ]
