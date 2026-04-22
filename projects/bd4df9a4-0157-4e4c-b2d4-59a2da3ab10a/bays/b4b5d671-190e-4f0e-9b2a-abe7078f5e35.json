@@ -2662,7 +2662,7 @@
       "review_comment": null,
       "group_label": "Merki",
       "iec61850_do": "Ind",
-      "iec61850_da": null
+      "iec61850_da": "stVal"
     },
     {
       "id": "2dc16642-0fdb-4dd0-a5ca-d5a3298c3feb",
@@ -2705,8 +2705,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "f019f719-25af-4150-8c78-d7744b322d22",
@@ -2750,7 +2750,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Ind",
-      "iec61850_da": null
+      "iec61850_da": "stVal"
     },
     {
       "id": "21da5cad-bacf-4d36-bb93-c804f42914fd",
@@ -2794,7 +2794,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_da": "stVal"
     },
     {
       "id": "a25c4ce0-9b0c-4cc7-8b4f-7271f32312bf",
@@ -2837,8 +2837,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "b3e71dd7-b51a-4de7-8ef0-2905dc4197c4",
@@ -2881,8 +2881,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     }
   ],
   "status": "DRAFT",
