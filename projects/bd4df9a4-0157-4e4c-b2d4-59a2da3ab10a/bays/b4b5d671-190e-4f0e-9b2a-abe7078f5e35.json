@@ -2050,7 +2050,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2092,7 +2092,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2134,7 +2134,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2176,7 +2176,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2218,7 +2218,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2260,7 +2260,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
