@@ -4481,5 +4481,18 @@
     "comment": "Merki eytt: SprCha.Alm",
     "id": "cb458712-b288-4b18-9d7b-dd5f8cfc9539",
     "timestamp": "2026-04-22T15:06:02.395Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_PRESFLAPS.Tr",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "55E01F1_PRESFLAPS.Tr",
+    "new_value": null,
+    "comment": "Merki eytt: PRESFLAPS.Tr",
+    "id": "a173529b-37ea-41f1-b28f-07e18c6495be",
+    "timestamp": "2026-04-22T15:06:04.997Z"
   }
 ]
