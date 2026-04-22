@@ -932,7 +932,7 @@
       "name_en": "PROTECTION",
       "state_id": "Trip3Ph",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": null,
+      "iec61850_ld": "LD0",
       "iec61850_ln": null,
       "iec61850_do_da": null,
       "iec61850_fc": null,
@@ -966,7 +966,7 @@
       "name_en": "PROTECTION",
       "state_id": "Start",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": null,
+      "iec61850_ld": "LD0",
       "iec61850_ln": null,
       "iec61850_do_da": null,
       "iec61850_fc": null,
@@ -1081,7 +1081,8 @@
       "review_comment": null,
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "2",
-      "iec61850_do": "Str"
+      "iec61850_do": "Str",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_OC2.Tr",
@@ -1116,7 +1117,8 @@
         }
       },
       "iec61850_ln_prefix": "OC4",
-      "iec61850_ln_inst": "2"
+      "iec61850_ln_inst": "2",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_OC3.St",
@@ -1144,7 +1146,9 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_ln_prefix": "OC4",
-      "iec61850_ln_inst": "2"
+      "iec61850_ln_inst": "2",
+      "iec61850_do": "Str",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_OC3.Tr",
@@ -1179,7 +1183,9 @@
         }
       },
       "iec61850_ln_prefix": "OC4",
-      "iec61850_ln_inst": "2"
+      "iec61850_ln_inst": "2",
+      "iec61850_do": "Op",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_UV.St",
