@@ -1999,7 +1999,7 @@
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
       "state_id": "Alarm",
       "iec61850_ied": "F240C01",
-      "iec61850_ln_prefix": null,
+      "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": null,
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
