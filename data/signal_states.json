@@ -1815,5 +1815,21 @@
         "en": "ALARM STAGE2"
       }
     }
+  },
+  {
+    "id": "READY",
+    "type": null,
+    "states": {
+      "00": {
+        "key": "X_NOTREADY",
+        "is": "EKKI TILTÆKUR",
+        "en": "NOT READY"
+      },
+      "01": {
+        "key": "X_READY",
+        "is": "TILTÆKUR",
+        "en": "READY"
+      }
+    }
   }
 ]
