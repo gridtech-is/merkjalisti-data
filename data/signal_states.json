@@ -1818,7 +1818,7 @@
   },
   {
     "id": "READY",
-    "type": null,
+    "type": "SP",
     "states": {
       "00": {
         "key": "X_NOTREADY",
