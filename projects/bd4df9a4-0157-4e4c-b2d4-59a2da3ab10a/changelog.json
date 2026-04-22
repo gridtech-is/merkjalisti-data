@@ -2652,5 +2652,19 @@
     "comment": "iec61850_do breytt",
     "id": "f00c5cd5-7114-466c-a9a5-c4aefbe1b23f",
     "timestamp": "2026-04-22T14:27:59.257Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a25c4ce0-9b0c-4cc7-8b4f-7271f32312bf",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_ln",
+    "old_value": "PDSC",
+    "new_value": "GGIO",
+    "comment": "iec61850_ln breytt",
+    "id": "30187662-61bc-4aa9-a11e-840b4fc0e746",
+    "timestamp": "2026-04-22T14:28:33.390Z"
   }
 ]
