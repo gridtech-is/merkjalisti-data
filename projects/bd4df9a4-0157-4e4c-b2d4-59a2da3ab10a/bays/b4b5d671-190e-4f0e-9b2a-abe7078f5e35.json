@@ -1051,7 +1051,8 @@
       },
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "1",
-      "iec61850_do": "Op"
+      "iec61850_do": "Op",
+      "iec61850_da": "general"
     },
     {
       "id": "55E00_BCF1_OC2.St",
@@ -1062,7 +1063,7 @@
       "state_id": "StepSta2",
       "iec61850_ied": "F240C01",
       "iec61850_ld": "OC4_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1077,7 +1078,10 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_ln_prefix": "OC4",
+      "iec61850_ln_inst": "2",
+      "iec61850_do": "Str"
     },
     {
       "id": "55E00_BCF1_OC2.Tr",
@@ -1088,7 +1092,7 @@
       "state_id": "StepTrip2",
       "iec61850_ied": "F240C01",
       "iec61850_ld": "OC4_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1110,7 +1114,9 @@
           "is_event": false,
           "alarm_class": 3
         }
-      }
+      },
+      "iec61850_ln_prefix": "OC4",
+      "iec61850_ln_inst": "2"
     },
     {
       "id": "55E00_BCF1_OC3.St",
@@ -1121,7 +1127,7 @@
       "state_id": "StepSta3",
       "iec61850_ied": "F240C01",
       "iec61850_ld": "OC4_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1136,7 +1142,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_ln_prefix": "OC4",
+      "iec61850_ln_inst": "2"
     },
     {
       "id": "55E00_BCF1_OC3.Tr",
@@ -1147,7 +1155,7 @@
       "state_id": "StepTrip3",
       "iec61850_ied": "F240C01",
       "iec61850_ld": "OC4_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1169,7 +1177,9 @@
           "is_event": false,
           "alarm_class": 3
         }
-      }
+      },
+      "iec61850_ln_prefix": "OC4",
+      "iec61850_ln_inst": "2"
     },
     {
       "id": "55E00_BCF1_UV.St",
