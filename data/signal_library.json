@@ -4411,17 +4411,23 @@
   {
     "id": "daf4364c-f5c6-4ba0-b82d-6f6c1cde5074",
     "code": "FUST.VT",
-    "name_is": "FJARL.V.SJÁLFVAR",
-    "name_en": "MCB FOR DISTANCE PROTECTION",
+    "name_is": "VT SJÁLFVAR",
+    "name_en": "MCB FOR VT PROTECTION",
     "description_is": "Sjálfvar fjarlægðarvarnar",
     "state_id": "Opeen",
-    "state_alarm_map": null,
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
     "units": null,
     "severity_code": "C8",
     "hmi_event": true,
-    "is_alarm": false,
-    "alarm_class": null,
+    "is_alarm": true,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
     "iec61850_ln": null,
