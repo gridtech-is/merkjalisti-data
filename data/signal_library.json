@@ -8830,5 +8830,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": "Ev",
     "comments": null
+  },
+  {
+    "id": "77ed4d25-4d83-4f09-935e-45f9d2dfa6fb",
+    "code": "FUTR.DC",
+    "name_is": "AC SJÁLFVAR",
+    "name_en": "AC MCB OPEN",
+    "description_is": null,
+    "state_id": "Tripnormal",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": null,
+    "units": null,
+    "severity_code": null,
+    "hmi_event": false,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": false,
+    "source_type": "IED",
+    "iec61850_ln": "GGIO",
+    "iec61850_do": "Ind",
+    "iec61850_da": "stVal",
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": "EV",
+    "comments": null
   }
 ]
