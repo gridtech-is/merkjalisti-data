@@ -2210,5 +2210,19 @@
     "comment": "equipment_code breytt",
     "id": "d0ba97ff-d846-4d48-9123-caff273e640c",
     "timestamp": "2026-04-22T13:58:15.705Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a81769da-8fe7-4557-a2b6-e7a25fda63b4",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "XCBR.BlkOpn",
+    "new_value": "REM.CMD",
+    "comment": "signal_name breytt",
+    "id": "742e84ec-ac71-4abb-a195-30780c54dcb8",
+    "timestamp": "2026-04-22T13:58:28.739Z"
   }
 ]
