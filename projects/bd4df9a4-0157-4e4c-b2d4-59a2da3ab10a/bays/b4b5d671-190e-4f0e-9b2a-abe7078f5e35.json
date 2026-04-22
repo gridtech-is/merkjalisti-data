@@ -2001,7 +2001,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": "Pos"
+      "iec61850_do": "Pos",
+      "iec61850_da": "Oper"
     },
     {
       "id": "01edd901-2980-4fb0-bb4e-418f7a36a6e1",
