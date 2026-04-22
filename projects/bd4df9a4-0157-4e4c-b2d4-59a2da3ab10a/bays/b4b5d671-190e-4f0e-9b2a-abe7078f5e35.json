@@ -77,7 +77,7 @@
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
       "state_id": "EnableClose",
-      "iec61850_ied": "55E01F1",
+      "iec61850_ied": "F240C01",
       "iec61850_ld": "CTRL",
       "iec61850_ln": "CILO",
       "iec61850_do_da": "EnaCls.stVal",
@@ -97,7 +97,9 @@
       "review_comment": null,
       "library_id": "0e0a0d3e-39ea-4df9-b27f-0e13bc43982f",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": null,
+      "iec61850_da": null
     },
     {
       "id": "55E00_QA1_Gas.InsBlk",
@@ -1564,7 +1566,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_da": null
     },
     {
       "id": "55E00_BCF1_SPVC.FailVCirc",
