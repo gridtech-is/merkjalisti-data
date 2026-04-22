@@ -2586,5 +2586,18 @@
     "comment": "Merki eytt: Gas.InsBlk",
     "id": "dfdf24c7-92ca-4745-a59e-6e1f8f09b1af",
     "timestamp": "2026-04-22T14:26:01.573Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_QA1_Gas.InsAlm",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q0_Gas.InsAlm",
+    "new_value": null,
+    "comment": "Merki eytt: Gas.InsAlm",
+    "id": "da6af6ba-f638-4873-8650-c495acb9f4ca",
+    "timestamp": "2026-04-22T14:26:12.080Z"
   }
 ]
