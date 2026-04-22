@@ -99,7 +99,9 @@
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
       "iec61850_ln_prefix": null,
-      "iec61850_da": null
+      "iec61850_da": null,
+      "iec61850_ln_inst": null,
+      "iec61850_do": null
     },
     {
       "id": "55E00_QA1_Gas.InsBlk",
