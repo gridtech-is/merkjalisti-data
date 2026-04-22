@@ -2239,7 +2239,7 @@
     },
     {
       "id": "cb3e1aca-ad9c-4c8f-b0ab-e6bd2c61e31f",
-      "equipment_code": "B201",
+      "equipment_code": "F240C01",
       "signal_name": "GAS.INSALM2",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
