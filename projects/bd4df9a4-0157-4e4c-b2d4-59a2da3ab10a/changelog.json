@@ -2350,5 +2350,19 @@
     "comment": "equipment_code breytt",
     "id": "526480e6-fe16-41f9-a50e-2a8fa9710956",
     "timestamp": "2026-04-22T14:14:58.370Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "00f4dc29-be9e-47f0-8d56-2e2f1e77d3a1",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "XCBR.BlkOpn",
+    "new_value": "TCS1.Alm",
+    "comment": "signal_name breytt",
+    "id": "3c82ca40-536e-4f94-8398-a2b6ab424637",
+    "timestamp": "2026-04-22T14:15:24.091Z"
   }
 ]
