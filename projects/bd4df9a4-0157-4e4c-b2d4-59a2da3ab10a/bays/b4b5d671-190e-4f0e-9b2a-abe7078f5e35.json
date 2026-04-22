@@ -2486,7 +2486,7 @@
       "review_comment": null,
       "group_label": "MBC",
       "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_da": "stVal"
     }
   ],
   "status": "DRAFT",
