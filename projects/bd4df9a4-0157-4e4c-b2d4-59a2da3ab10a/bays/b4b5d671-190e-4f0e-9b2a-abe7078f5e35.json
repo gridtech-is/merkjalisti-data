@@ -28,7 +28,7 @@
       "sat_tested": false,
       "sat_tested_by": null,
       "sat_tested_at": null,
-      "iec61850_ln_prefix": "s",
+      "iec61850_ln_prefix": "S",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "phase_added": "DESIGN",
@@ -266,7 +266,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "SF6 GAS",
+      "group_label": null,
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
