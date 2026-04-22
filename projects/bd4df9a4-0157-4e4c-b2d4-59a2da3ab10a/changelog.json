@@ -4455,5 +4455,18 @@
     "comment": "iec61850_ln breytt",
     "id": "a9a28719-1e82-40e9-99c9-d176e2c18eb0",
     "timestamp": "2026-04-22T15:02:55.298Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "55E00_BCF1_SPVC.FailVCirc",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "VT_SPVC.FailVCirc",
+    "new_value": null,
+    "comment": "Merki eytt: SPVC.FailVCirc",
+    "id": "21a81472-ac66-41b2-ab01-3b549d2b8a0d",
+    "timestamp": "2026-04-22T15:05:15.108Z"
   }
 ]
