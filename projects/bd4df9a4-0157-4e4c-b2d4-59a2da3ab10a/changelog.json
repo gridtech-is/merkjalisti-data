@@ -2406,5 +2406,19 @@
     "comment": "equipment_code breytt",
     "id": "b3c1c9e1-021d-4e6b-b33a-017e47d32ff2",
     "timestamp": "2026-04-22T14:16:05.218Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "79a29a25-5bcd-4c30-a9df-8ea423f51e45",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "XCBR.BlkOpn",
+    "new_value": "BAY.LocKey",
+    "comment": "signal_name breytt",
+    "id": "d62586cf-99cb-4045-8cb0-2004bb7930bd",
+    "timestamp": "2026-04-22T14:16:18.362Z"
   }
 ]
