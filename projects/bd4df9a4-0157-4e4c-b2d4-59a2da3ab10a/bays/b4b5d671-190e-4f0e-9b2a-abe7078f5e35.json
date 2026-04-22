@@ -2043,7 +2043,13 @@
       "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
       "is_alarm": true,
       "alarm_class": 3,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2079,7 +2085,13 @@
       "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
       "is_alarm": true,
       "alarm_class": 3,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2115,7 +2127,13 @@
       "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
       "is_alarm": true,
       "alarm_class": 3,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2151,7 +2169,13 @@
       "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
       "alarm_class": 1,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2187,7 +2211,13 @@
       "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
       "is_alarm": true,
       "alarm_class": 3,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2223,7 +2253,13 @@
       "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
       "is_alarm": true,
       "alarm_class": 3,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
