@@ -488,5 +488,19 @@
     "comment": "source_type breytt",
     "id": "0f2c28e6-4a14-47a8-ae44-84074c5c4a58",
     "timestamp": "2026-04-22T10:06:59.649Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "4c00a65e-ee4e-4864-a064-7adeaa0aee27",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "source_type",
+    "old_value": "IED",
+    "new_value": "HARDWIRED",
+    "comment": "source_type breytt",
+    "id": "a33cb678-a9ae-4a99-880e-f3f5932dc34c",
+    "timestamp": "2026-04-22T10:07:00.884Z"
   }
 ]
