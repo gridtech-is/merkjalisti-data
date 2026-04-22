@@ -2485,27 +2485,34 @@
     "id": "4778aa77-e816-46f1-95a3-a0194df9900f"
   },
   {
-    "code": "XFUS.FuSt.stV",
+    "id": "7c5a8079-cbf9-4fac-8eac-b8ddf243a2ea",
+    "code": "MCCB.DC",
     "name_is": "DC AFLROFI",
-    "description_is": "Aflrofi fyrir DC kerfi stöðvar",
     "name_en": "DC SYSTEM MAIN BREAKER",
+    "description_is": "Aflrofi fyrir DC kerfi stöðvar",
     "state_id": "Opeen",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
     "units": null,
     "severity_code": "C8",
     "hmi_event": true,
     "is_alarm": true,
-    "alarm_class": null,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
-    "iec61850_ld": null,
-    "iec61850_ln": "XFUS",
-    "iec61850_do_da": "FuSt.stVal",
+    "iec61850_ln": "GGOI",
+    "iec61850_do": null,
+    "iec61850_da": null,
     "iec61850_fc": "ST",
     "iec61850_cdc": "SPS",
     "iec61850_dataset": "Stat",
-    "comments": null,
-    "id": "7c5a8079-cbf9-4fac-8eac-b8ddf243a2ea"
+    "comments": null
   },
   {
     "code": "DC.DischargeTest",
