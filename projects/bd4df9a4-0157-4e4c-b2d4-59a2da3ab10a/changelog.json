@@ -2666,5 +2666,19 @@
     "comment": "iec61850_ln breytt",
     "id": "30187662-61bc-4aa9-a11e-840b4fc0e746",
     "timestamp": "2026-04-22T14:28:33.390Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "b3e71dd7-b51a-4de7-8ef0-2905dc4197c4",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_ln",
+    "old_value": "XCBR",
+    "new_value": "GGIO",
+    "comment": "iec61850_ln breytt",
+    "id": "c508cf01-1118-485f-ac6c-10958644aedd",
+    "timestamp": "2026-04-22T14:28:46.331Z"
   }
 ]
