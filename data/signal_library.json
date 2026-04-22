@@ -8914,7 +8914,7 @@
     "to_control_room": false,
     "source_type": "IED",
     "iec61850_ln": null,
-    "iec61850_do": null,
+    "iec61850_do": "GGIO",
     "iec61850_da": null,
     "iec61850_fc": null,
     "iec61850_cdc": null,
