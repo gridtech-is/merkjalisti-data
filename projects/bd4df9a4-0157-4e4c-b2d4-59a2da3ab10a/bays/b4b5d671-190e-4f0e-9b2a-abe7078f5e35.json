@@ -2075,7 +2075,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "57732d28-500e-4618-a8c7-3d8df9db4f8a",
@@ -2086,7 +2088,7 @@
       "state_id": "GasStage2",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": null,
+      "iec61850_ln_inst": "16",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
@@ -2117,7 +2119,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "86165fff-9844-492a-8d50-61046a19de27",
@@ -2159,7 +2163,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "0cde204d-c9e6-4921-ae6d-9014109e9935",
@@ -2201,7 +2207,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "4c00a65e-ee4e-4864-a064-7adeaa0aee27",
@@ -2243,7 +2251,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "cb3e1aca-ad9c-4c8f-b0ab-e6bd2c61e31f",
@@ -2285,7 +2295,8 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Ind"
     }
   ],
   "status": "DRAFT",
