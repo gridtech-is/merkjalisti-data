@@ -4671,5 +4671,18 @@
     "comment": "iec61850_dataset breytt",
     "id": "8e598894-064a-43ed-be12-3fee5743e253",
     "timestamp": "2026-04-22T15:55:40.864Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "35abf8fd-ee20-49a2-9d86-fc9475d9fdb0",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "RECTIFIER_REC.READY",
+    "comment": "Merki bætt við: REC.READY í 40E01",
+    "id": "ee814ff9-7260-46af-9b85-1d0743d717a9",
+    "timestamp": "2026-04-22T15:59:51.430Z"
   }
 ]
