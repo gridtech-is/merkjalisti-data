@@ -2805,7 +2805,7 @@
       "state_id": "Alarm",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "7",
+      "iec61850_ln_inst": "9",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
