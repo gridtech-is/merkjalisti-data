@@ -812,5 +812,16 @@
     "model": null,
     "template_id": null,
     "description": "Gas mælir"
+  },
+  {
+    "id": "601e8a6e-0dc1-4865-a824-5aac3c2a01ca",
+    "category": "apparatus",
+    "code": "F236",
+    "type": "Stjórnbúnaður",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "template_id": null,
+    "description": "Switchsync"
   }
 ]
