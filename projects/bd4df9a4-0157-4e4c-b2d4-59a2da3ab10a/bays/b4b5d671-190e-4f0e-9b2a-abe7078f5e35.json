@@ -1214,7 +1214,7 @@
       "state_id": "OffLockout",
       "iec61850_ied": "F240C01",
       "iec61850_ld": "LD0",
-      "iec61850_ln": "p",
+      "iec61850_ln": "PTRC",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1239,7 +1239,11 @@
           "is_event": false,
           "alarm_class": 1
         }
-      }
+      },
+      "iec61850_ln_prefix": "SMP",
+      "iec61850_ln_inst": "1",
+      "iec61850_da": "stVal",
+      "iec61850_do": "ClsLO"
     },
     {
       "id": "55E00_BCF1_OV1.St",
