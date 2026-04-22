@@ -1924,7 +1924,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Commands"
+      "group_label": "Commands",
+      "iec61850_do": "Pos",
+      "iec61850_da": "Oper"
     },
     {
       "id": "3ecb7b8a-c25f-4356-8fe2-0ea5298dd815",
@@ -1960,7 +1962,9 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Pos",
+      "iec61850_da": "Oper"
     },
     {
       "id": "0b9ac387-bc9a-4c52-b146-fcae6b14983b",
@@ -1996,7 +2000,8 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_do": "Pos"
     },
     {
       "id": "01edd901-2980-4fb0-bb4e-418f7a36a6e1",
