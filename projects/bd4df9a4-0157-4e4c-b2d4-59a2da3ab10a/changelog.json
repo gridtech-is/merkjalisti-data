@@ -1888,5 +1888,19 @@
     "comment": "signal_name breytt",
     "id": "e57ba529-0bd4-430c-942e-e8561d662046",
     "timestamp": "2026-04-22T13:30:17.753Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "f019f719-25af-4150-8c78-d7744b322d22",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "IRF",
+    "new_value": "AFLro",
+    "comment": "signal_name breytt",
+    "id": "b9649f58-4086-4414-98fb-82dca593519e",
+    "timestamp": "2026-04-22T13:37:22.140Z"
   }
 ]
