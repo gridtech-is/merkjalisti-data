@@ -2066,7 +2066,7 @@
     },
     {
       "id": "57732d28-500e-4618-a8c7-3d8df9db4f8a",
-      "equipment_code": "B202",
+      "equipment_code": "B203",
       "signal_name": "GAS.INSALM2",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
@@ -2113,7 +2113,7 @@
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
       "state_id": "GasStage2",
-      "iec61850_ied": null,
+      "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": null,
       "iec61850_ln_inst": null,
       "iec61850_rcb": null,
