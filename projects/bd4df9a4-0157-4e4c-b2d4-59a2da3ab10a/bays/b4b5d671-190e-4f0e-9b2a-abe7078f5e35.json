@@ -1994,7 +1994,7 @@
     {
       "id": "01edd901-2980-4fb0-bb4e-418f7a36a6e1",
       "equipment_code": "B200",
-      "signal_name": "Gas.InsAlm2",
+      "signal_name": "Gas.InsAlm",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
       "state_id": "Alarm",
