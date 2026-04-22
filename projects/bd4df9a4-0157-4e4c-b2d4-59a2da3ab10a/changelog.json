@@ -4546,5 +4546,19 @@
     "comment": "Merki eytt: Bay.Emerg",
     "id": "e10082dc-eaf2-42b6-85fb-1dc75c6b9b2e",
     "timestamp": "2026-04-22T15:09:09.382Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "c37d522a-c602-4570-ab15-b7f5d9e9e11d",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "group_label",
+    "old_value": "IED",
+    "new_value": "önnurmerki",
+    "comment": "group_label breytt",
+    "id": "e8a3c68e-a37e-4585-8c52-5e44bb070d9f",
+    "timestamp": "2026-04-22T15:53:42.724Z"
   }
 ]
