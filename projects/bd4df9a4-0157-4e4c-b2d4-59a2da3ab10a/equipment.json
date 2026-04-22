@@ -823,5 +823,16 @@
     "model": null,
     "template_id": null,
     "description": "Switchsync"
+  },
+  {
+    "id": "fdc9e1c3-b58c-4420-a104-a3e29b5bd467",
+    "category": "apparatus",
+    "code": "RECTIFIER",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "template_id": null,
+    "description": ""
   }
 ]
