@@ -2490,5 +2490,18 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "008924ae-30c4-41e8-aaaa-b58aab7c5a8d",
     "timestamp": "2026-04-22T14:17:32.985Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "23448d81-cd81-4727-91a1-b375bd73f326",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "F240C02_XCBR.BlkOpn",
+    "new_value": null,
+    "comment": "Merki eytt: XCBR.BlkOpn",
+    "id": "d0f6a595-12cc-4813-8024-fde7a2543c21",
+    "timestamp": "2026-04-22T14:17:54.355Z"
   }
 ]
