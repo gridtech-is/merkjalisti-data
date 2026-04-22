@@ -2981,7 +2981,7 @@
       "state_id": "READY",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "8",
+      "iec61850_ln_inst": "22",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
@@ -2998,6 +2998,11 @@
           "is_alarm": false,
           "is_event": false,
           "alarm_class": null
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
         }
       },
       "source_type": "IED",
@@ -3013,8 +3018,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal"
     },
     {
       "id": "23448d81-cd81-4727-91a1-b375bd73f326",
