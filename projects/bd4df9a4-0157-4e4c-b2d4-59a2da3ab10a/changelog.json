@@ -558,5 +558,19 @@
     "comment": "iec61850_ld breytt",
     "id": "d73068f7-864e-4047-a95b-9029f052b811",
     "timestamp": "2026-04-22T11:00:54.778Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "55E00_QA1_Gas.InsBlk",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_ied",
+    "old_value": "55E01F1",
+    "new_value": "F240C01",
+    "comment": "iec61850_ied breytt",
+    "id": "20ebbed4-6497-43bd-b73a-72f67b12223b",
+    "timestamp": "2026-04-22T11:01:10.277Z"
   }
 ]
