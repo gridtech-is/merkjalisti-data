@@ -1664,5 +1664,19 @@
     "comment": "equipment_code breytt",
     "id": "0cf03ca2-e827-4d15-bf78-fb5e8deaa31a",
     "timestamp": "2026-04-22T13:22:41.403Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "f4975f9e-9f70-40d2-aaa5-869fcfe772dd",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "signal_name",
+    "old_value": "FUST.DC",
+    "new_value": "FUST.AC",
+    "comment": "signal_name breytt",
+    "id": "27e83416-39bb-4615-98cb-11c8c14b1878",
+    "timestamp": "2026-04-22T13:22:47.815Z"
   }
 ]
