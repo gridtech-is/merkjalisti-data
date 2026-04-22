@@ -2000,7 +2000,7 @@
       "state_id": "Alarm",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "14",
+      "iec61850_ln_inst": "20",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
@@ -2012,7 +2012,13 @@
       "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
       "is_alarm": true,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2038,7 +2044,7 @@
       "state_id": "GasStage2",
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "sp",
-      "iec61850_ln_inst": null,
+      "iec61850_ln_inst": "14",
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
