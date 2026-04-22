@@ -2754,8 +2754,8 @@
     },
     {
       "id": "21da5cad-bacf-4d36-bb93-c804f42914fd",
-      "equipment_code": "F240C02",
-      "signal_name": "IRF",
+      "equipment_code": "Q0",
+      "signal_name": "hy",
       "name_is": "BÚNAÐUR IRF",
       "name_en": "EQUIPMENT IRF",
       "state_id": "OkFailure",
