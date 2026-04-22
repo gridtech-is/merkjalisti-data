@@ -4560,5 +4560,18 @@
     "comment": "group_label breytt",
     "id": "e8a3c68e-a37e-4585-8c52-5e44bb070d9f",
     "timestamp": "2026-04-22T15:53:42.724Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "eac98250-c452-4d95-9bc3-bc7bb121d689",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "Q0_IRF",
+    "comment": "Merki bætt við: IRF í 40E01",
+    "id": "baeb241a-dde8-43e4-9adb-c8330269725d",
+    "timestamp": "2026-04-22T15:54:06.823Z"
   }
 ]
