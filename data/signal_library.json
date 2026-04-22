@@ -2497,7 +2497,7 @@
     "id": "7c5a8079-cbf9-4fac-8eac-b8ddf243a2ea",
     "code": "MCCB.DC",
     "name_is": "DC AFLROFI",
-    "name_en": "DC SYSTEM MAIN BREAKER",
+    "name_en": "DC BREAKER",
     "description_is": "Aflrofi fyrir DC kerfi stöðvar",
     "state_id": "Opeen",
     "state_alarm_map": {
