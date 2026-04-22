@@ -4494,5 +4494,18 @@
     "comment": "Merki eytt: PRESFLAPS.Tr",
     "id": "a173529b-37ea-41f1-b28f-07e18c6495be",
     "timestamp": "2026-04-22T15:06:04.997Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "3ecb7b8a-c25f-4356-8fe2-0ea5298dd815",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q2_REM.CMD",
+    "new_value": null,
+    "comment": "Merki eytt: REM.CMD",
+    "id": "1a339a00-0148-4fe2-814c-5409726322a6",
+    "timestamp": "2026-04-22T15:06:07.843Z"
   }
 ]
