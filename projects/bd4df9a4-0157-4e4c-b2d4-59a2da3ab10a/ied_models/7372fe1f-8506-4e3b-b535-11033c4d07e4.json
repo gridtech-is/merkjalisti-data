@@ -5,7 +5,67 @@
     "lnClass": "LLN0",
     "lnInst": "",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -265,7 +325,67 @@
     "lnClass": "RDRE",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "DRP",
+    "lnClass": "RDRE",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "DRP",
+    "lnClass": "RDRE",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "DRP",
+    "lnClass": "RDRE",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "DRP",
+    "lnClass": "RDRE",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "DRP",
+    "lnClass": "RDRE",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "DRP",
+    "lnClass": "RDRE",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -425,7 +545,67 @@
     "lnClass": "RBRF",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CC",
+    "lnClass": "RBRF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CC",
+    "lnClass": "RBRF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CC",
+    "lnClass": "RBRF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CC",
+    "lnClass": "RBRF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CC",
+    "lnClass": "RBRF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CC",
+    "lnClass": "RBRF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -655,7 +835,67 @@
     "lnClass": "PIOC",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "PH",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "PH",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "PH",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "PH",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "PH",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "PH",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -815,7 +1055,67 @@
     "lnClass": "PIOC",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "EF",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "EF",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "EF",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "EF",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "EF",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "EF",
+    "lnClass": "PIOC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -945,7 +1245,67 @@
     "lnClass": "PTRC",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -1105,7 +1465,67 @@
     "lnClass": "PTRC",
     "lnInst": "1",
     "doName": "LORs",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "LORs",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "LORs",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "LORs",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "LORs",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "LORs",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SMP",
+    "lnClass": "PTRC",
+    "lnInst": "1",
+    "doName": "LORs",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -1315,7 +1735,67 @@
     "lnClass": "GGIO",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "TMA",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "TMA",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "TMA",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "TMA",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "TMA",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "TMA",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -1535,7 +2015,67 @@
     "lnClass": "XCBR",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -1765,7 +2305,67 @@
     "lnClass": "XCBR",
     "lnInst": "1",
     "doName": "BlkOpn",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -1805,7 +2405,67 @@
     "lnClass": "XCBR",
     "lnInst": "1",
     "doName": "BlkCls",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -1875,7 +2535,67 @@
     "lnClass": "XCBR",
     "lnInst": "1",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XCBR",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -1925,7 +2645,67 @@
     "lnClass": "GGIO",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP16",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP16",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP16",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP16",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP16",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP16",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -2695,7 +3475,67 @@
     "lnClass": "CSWI",
     "lnInst": "5",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -2795,7 +3635,7 @@
     "lnClass": "CSWI",
     "lnInst": "5",
     "doName": "Pos",
-    "daName": "SBOw",
+    "daName": "SBOw.ctlVal",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -2805,7 +3645,7 @@
     "lnClass": "CSWI",
     "lnInst": "5",
     "doName": "Pos",
-    "daName": "Oper",
+    "daName": "SBOw.origin.orCat",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -2815,7 +3655,177 @@
     "lnClass": "CSWI",
     "lnInst": "5",
     "doName": "Pos",
-    "daName": "Cancel",
+    "daName": "SBOw.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "SBOw.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "SBOw.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "SBOw.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "SBOw.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Cancel.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Cancel.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Cancel.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "Pos",
+    "daName": "Cancel.Test",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -2965,7 +3975,67 @@
     "lnClass": "CSWI",
     "lnInst": "5",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "5",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -3015,7 +4085,67 @@
     "lnClass": "CSWI",
     "lnInst": "6",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -3115,7 +4245,7 @@
     "lnClass": "CSWI",
     "lnInst": "6",
     "doName": "Pos",
-    "daName": "SBOw",
+    "daName": "SBOw.ctlVal",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3125,7 +4255,7 @@
     "lnClass": "CSWI",
     "lnInst": "6",
     "doName": "Pos",
-    "daName": "Oper",
+    "daName": "SBOw.origin.orCat",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3135,7 +4265,177 @@
     "lnClass": "CSWI",
     "lnInst": "6",
     "doName": "Pos",
-    "daName": "Cancel",
+    "daName": "SBOw.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "SBOw.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "SBOw.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "SBOw.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "SBOw.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Cancel.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Cancel.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Cancel.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "Pos",
+    "daName": "Cancel.Test",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3285,7 +4585,67 @@
     "lnClass": "CSWI",
     "lnInst": "6",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "6",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -3335,7 +4695,67 @@
     "lnClass": "CSWI",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -3435,7 +4855,7 @@
     "lnClass": "CSWI",
     "lnInst": "1",
     "doName": "Pos",
-    "daName": "SBOw",
+    "daName": "SBOw.ctlVal",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3445,7 +4865,7 @@
     "lnClass": "CSWI",
     "lnInst": "1",
     "doName": "Pos",
-    "daName": "Oper",
+    "daName": "SBOw.origin.orCat",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3455,7 +4875,177 @@
     "lnClass": "CSWI",
     "lnInst": "1",
     "doName": "Pos",
-    "daName": "Cancel",
+    "daName": "SBOw.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "SBOw.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "SBOw.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "SBOw.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "SBOw.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Cancel.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Cancel.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Cancel.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "Pos",
+    "daName": "Cancel.Test",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3605,7 +5195,67 @@
     "lnClass": "CSWI",
     "lnInst": "1",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -3655,7 +5305,67 @@
     "lnClass": "CSWI",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -3755,7 +5465,7 @@
     "lnClass": "CSWI",
     "lnInst": "2",
     "doName": "Pos",
-    "daName": "SBOw",
+    "daName": "SBOw.ctlVal",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3765,7 +5475,7 @@
     "lnClass": "CSWI",
     "lnInst": "2",
     "doName": "Pos",
-    "daName": "Oper",
+    "daName": "SBOw.origin.orCat",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3775,7 +5485,177 @@
     "lnClass": "CSWI",
     "lnInst": "2",
     "doName": "Pos",
-    "daName": "Cancel",
+    "daName": "SBOw.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "SBOw.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "SBOw.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "SBOw.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "SBOw.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Cancel.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Cancel.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Cancel.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "Pos",
+    "daName": "Cancel.Test",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -3925,7 +5805,67 @@
     "lnClass": "CSWI",
     "lnInst": "2",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "2",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -3975,7 +5915,67 @@
     "lnClass": "CSWI",
     "lnInst": "3",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -4075,7 +6075,7 @@
     "lnClass": "CSWI",
     "lnInst": "3",
     "doName": "Pos",
-    "daName": "SBOw",
+    "daName": "SBOw.ctlVal",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -4085,7 +6085,7 @@
     "lnClass": "CSWI",
     "lnInst": "3",
     "doName": "Pos",
-    "daName": "Oper",
+    "daName": "SBOw.origin.orCat",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -4095,7 +6095,177 @@
     "lnClass": "CSWI",
     "lnInst": "3",
     "doName": "Pos",
-    "daName": "Cancel",
+    "daName": "SBOw.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "SBOw.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "SBOw.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "SBOw.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "SBOw.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Cancel.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Cancel.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Cancel.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "Pos",
+    "daName": "Cancel.Test",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -4245,7 +6415,67 @@
     "lnClass": "CSWI",
     "lnInst": "3",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "3",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -4295,7 +6525,67 @@
     "lnClass": "CSWI",
     "lnInst": "4",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -4395,7 +6685,7 @@
     "lnClass": "CSWI",
     "lnInst": "4",
     "doName": "Pos",
-    "daName": "SBOw",
+    "daName": "SBOw.ctlVal",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -4405,7 +6695,7 @@
     "lnClass": "CSWI",
     "lnInst": "4",
     "doName": "Pos",
-    "daName": "Oper",
+    "daName": "SBOw.origin.orCat",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -4415,7 +6705,177 @@
     "lnClass": "CSWI",
     "lnInst": "4",
     "doName": "Pos",
-    "daName": "Cancel",
+    "daName": "SBOw.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "SBOw.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "SBOw.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "SBOw.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "SBOw.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Cancel.ctlVal",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orCat",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Cancel.origin.orIdent",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Cancel.ctlNum",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Cancel.T",
+    "fc": "CO",
+    "cdc": "DPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "Pos",
+    "daName": "Cancel.Test",
     "fc": "CO",
     "cdc": "DPC"
   },
@@ -4565,7 +7025,67 @@
     "lnClass": "CSWI",
     "lnInst": "4",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CSWI",
+    "lnInst": "4",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -4615,7 +7135,67 @@
     "lnClass": "CBAY",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -4805,7 +7385,67 @@
     "lnClass": "CBAY",
     "lnInst": "1",
     "doName": "BlkCmd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkCmd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -4895,7 +7535,67 @@
     "lnClass": "CBAY",
     "lnInst": "1",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "Q",
+    "lnClass": "CBAY",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -5025,7 +7725,67 @@
     "lnClass": "CILO",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -5185,7 +7945,67 @@
     "lnClass": "XSWI",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -5415,7 +8235,67 @@
     "lnClass": "XSWI",
     "lnInst": "1",
     "doName": "BlkOpn",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkOpn",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -5455,7 +8335,67 @@
     "lnClass": "XSWI",
     "lnInst": "1",
     "doName": "BlkCls",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkCls",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -5555,7 +8495,67 @@
     "lnClass": "XSWI",
     "lnInst": "1",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "1",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -5605,7 +8605,67 @@
     "lnClass": "XSWI",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -5835,7 +8895,67 @@
     "lnClass": "XSWI",
     "lnInst": "2",
     "doName": "BlkOpn",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkOpn",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkOpn",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkOpn",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkOpn",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -5875,7 +8995,67 @@
     "lnClass": "XSWI",
     "lnInst": "2",
     "doName": "BlkCls",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkCls",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkCls",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkCls",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkCls",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -5975,7 +9155,67 @@
     "lnClass": "XSWI",
     "lnInst": "2",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "2",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -6025,7 +9265,67 @@
     "lnClass": "XSWI",
     "lnInst": "4",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -6255,7 +9555,67 @@
     "lnClass": "XSWI",
     "lnInst": "4",
     "doName": "BlkOpn",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkOpn",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkOpn",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkOpn",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkOpn",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -6295,7 +9655,67 @@
     "lnClass": "XSWI",
     "lnInst": "4",
     "doName": "BlkCls",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkCls",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkCls",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkCls",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkCls",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -6395,7 +9815,67 @@
     "lnClass": "XSWI",
     "lnInst": "4",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "4",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -6445,7 +9925,67 @@
     "lnClass": "CILO",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -6605,7 +10145,67 @@
     "lnClass": "CILO",
     "lnInst": "3",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -6765,7 +10365,67 @@
     "lnClass": "CILO",
     "lnInst": "4",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -6925,7 +10585,67 @@
     "lnClass": "XSWI",
     "lnInst": "3",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -7155,7 +10875,67 @@
     "lnClass": "XSWI",
     "lnInst": "3",
     "doName": "BlkOpn",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkOpn",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkOpn",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkOpn",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkOpn",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -7195,7 +10975,67 @@
     "lnClass": "XSWI",
     "lnInst": "3",
     "doName": "BlkCls",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkCls",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkCls",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkCls",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkCls",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -7295,7 +11135,67 @@
     "lnClass": "XSWI",
     "lnInst": "3",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "3",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -7345,7 +11245,67 @@
     "lnClass": "CILO",
     "lnInst": "5",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -7505,7 +11465,67 @@
     "lnClass": "CILO",
     "lnInst": "6",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "CILO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -7665,7 +11685,67 @@
     "lnClass": "GGIO",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -7795,7 +11875,67 @@
     "lnClass": "GGIO",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -7925,7 +12065,67 @@
     "lnClass": "GGIO",
     "lnInst": "3",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8055,7 +12255,67 @@
     "lnClass": "GGIO",
     "lnInst": "4",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "4",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8185,7 +12445,67 @@
     "lnClass": "GGIO",
     "lnInst": "5",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8315,7 +12635,67 @@
     "lnClass": "GGIO",
     "lnInst": "6",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "6",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8445,7 +12825,67 @@
     "lnClass": "GGIO",
     "lnInst": "7",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "7",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "7",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "7",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "7",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "7",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "7",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8575,7 +13015,67 @@
     "lnClass": "GGIO",
     "lnInst": "8",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "8",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "8",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "8",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "8",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "8",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "8",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8705,7 +13205,67 @@
     "lnClass": "GGIO",
     "lnInst": "9",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "9",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "9",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "9",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "9",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "9",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "9",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8835,7 +13395,67 @@
     "lnClass": "GGIO",
     "lnInst": "10",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "10",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "10",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "10",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "10",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "10",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "10",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -8965,7 +13585,67 @@
     "lnClass": "GGIO",
     "lnInst": "11",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "11",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "11",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "11",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "11",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "11",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "11",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9095,7 +13775,67 @@
     "lnClass": "GGIO",
     "lnInst": "12",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "12",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "12",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "12",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "12",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "12",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "12",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9225,7 +13965,67 @@
     "lnClass": "GGIO",
     "lnInst": "13",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "13",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "13",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "13",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "13",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "13",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "13",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9355,7 +14155,67 @@
     "lnClass": "GGIO",
     "lnInst": "14",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "14",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "14",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "14",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "14",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "14",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "14",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9485,7 +14345,67 @@
     "lnClass": "GGIO",
     "lnInst": "15",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "15",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "15",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "15",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "15",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "15",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "15",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9615,7 +14535,67 @@
     "lnClass": "GGIO",
     "lnInst": "16",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "16",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "16",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "16",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "16",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "16",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "16",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9745,7 +14725,67 @@
     "lnClass": "GGIO",
     "lnInst": "17",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "17",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "17",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "17",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "17",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "17",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "17",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -9875,7 +14915,67 @@
     "lnClass": "GGIO",
     "lnInst": "18",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "18",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "18",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "18",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "18",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "18",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "18",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -10005,7 +15105,67 @@
     "lnClass": "GGIO",
     "lnInst": "19",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "19",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "19",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "19",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "19",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "19",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "19",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -10135,7 +15295,67 @@
     "lnClass": "GGIO",
     "lnInst": "20",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "20",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "20",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "20",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "20",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "20",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "20",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -10265,7 +15485,67 @@
     "lnClass": "GGIO",
     "lnInst": "21",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "21",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "21",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "21",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "21",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "21",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "21",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -10395,7 +15675,67 @@
     "lnClass": "GGIO",
     "lnInst": "22",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "22",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "22",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "22",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "22",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "22",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "22",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -10525,7 +15865,67 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -10625,7 +16025,67 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "SupRs",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "SupRs",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "SupRs",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "SupRs",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "SupRs",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "SupRs",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "SupRs",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -10675,7 +16135,67 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "MaxDmdRs",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "1",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -10925,7 +16445,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "VArsAccFwd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -10965,7 +16485,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "VArsAccRev",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11005,7 +16525,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "WsAccFwd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11045,7 +16565,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "WsAccRev",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11085,7 +16605,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "MaxVArFwdD",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11125,7 +16645,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "MaxVArRvDm",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11165,7 +16685,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "MaxWFwdDmd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11205,7 +16725,7 @@
     "lnClass": "MMTR",
     "lnInst": "1",
     "doName": "MaxWRvDmd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11245,7 +16765,67 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -11345,7 +16925,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Amp",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11395,7 +16975,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Amp",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11425,7 +17005,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Vol",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11475,7 +17055,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Vol",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11505,7 +17085,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Watt",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11555,7 +17135,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Watt",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11585,7 +17165,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "VolAmpr",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11635,7 +17215,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "VolAmpr",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11665,7 +17245,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "VolAmp",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11715,7 +17295,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "VolAmp",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11745,7 +17325,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "PwrFact",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11795,7 +17375,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "PwrFact",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11825,7 +17405,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Hz",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -11875,7 +17455,7 @@
     "lnClass": "MMXN",
     "lnInst": "1",
     "doName": "Hz",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -11985,7 +17565,67 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -12085,7 +17725,67 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "SupRs",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "SupRs",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "SupRs",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "SupRs",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "SupRs",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "SupRs",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "SupRs",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -12135,7 +17835,67 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "MaxDmdRs",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "ETP",
+    "lnClass": "MMTR",
+    "lnInst": "2",
+    "doName": "MaxDmdRs",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -12385,7 +18145,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "VArsAccFwd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12425,7 +18185,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "VArsAccRev",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12465,7 +18225,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "WsAccFwd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12505,7 +18265,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "WsAccRev",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12545,7 +18305,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "MaxVArFwdD",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12585,7 +18345,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "MaxVArRvDm",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12625,7 +18385,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "MaxWFwdDmd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12665,7 +18425,7 @@
     "lnClass": "MMTR",
     "lnInst": "2",
     "doName": "MaxWRvDmd",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12705,7 +18465,67 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "CV",
+    "lnClass": "MMXN",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -12805,7 +18625,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Amp",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12855,7 +18675,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Amp",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -12885,7 +18705,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Vol",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -12935,7 +18755,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Vol",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -12965,7 +18785,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Watt",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -13015,7 +18835,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Watt",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -13045,7 +18865,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "VolAmpr",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -13095,7 +18915,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "VolAmpr",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -13125,7 +18945,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "VolAmp",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -13175,7 +18995,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "VolAmp",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -13205,7 +19025,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "PwrFact",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -13255,7 +19075,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "PwrFact",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -13285,7 +19105,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Hz",
-    "daName": "mag",
+    "daName": "mag.f",
     "fc": "MX",
     "cdc": "MV"
   },
@@ -13335,7 +19155,7 @@
     "lnClass": "MMXN",
     "lnInst": "2",
     "doName": "Hz",
-    "daName": "subMag",
+    "daName": "subMag.f",
     "fc": "SV",
     "cdc": "MV"
   },
@@ -13445,7 +19265,67 @@
     "lnClass": "MMXU",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -13545,7 +19425,67 @@
     "lnClass": "MMXU",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -13645,7 +19585,67 @@
     "lnClass": "XSWI",
     "lnInst": "5",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -13875,7 +19875,67 @@
     "lnClass": "XSWI",
     "lnInst": "5",
     "doName": "BlkOpn",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkOpn",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkOpn",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkOpn",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkOpn",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkOpn",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -13915,7 +19975,67 @@
     "lnClass": "XSWI",
     "lnInst": "5",
     "doName": "BlkCls",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkCls",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkCls",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkCls",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkCls",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkCls",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -14015,7 +20135,67 @@
     "lnClass": "XSWI",
     "lnInst": "5",
     "doName": "BlkUpd",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkUpd",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkUpd",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkUpd",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkUpd",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "SPC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "S",
+    "lnClass": "XSWI",
+    "lnInst": "5",
+    "doName": "BlkUpd",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "SPC"
   },
@@ -14065,7 +20245,67 @@
     "lnClass": "GGIO",
     "lnInst": "23",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "23",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "23",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "23",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "23",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "23",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "23",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14195,7 +20435,67 @@
     "lnClass": "GGIO",
     "lnInst": "24",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "24",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "24",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "24",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "24",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "24",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "24",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14325,7 +20625,67 @@
     "lnClass": "GGIO",
     "lnInst": "25",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "25",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "25",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "25",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "25",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "25",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "25",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14455,7 +20815,67 @@
     "lnClass": "GGIO",
     "lnInst": "26",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "26",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "26",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "26",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "26",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "26",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "26",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14585,7 +21005,67 @@
     "lnClass": "GGIO",
     "lnInst": "27",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "27",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "27",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "27",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "27",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "27",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "27",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14715,7 +21195,67 @@
     "lnClass": "GGIO",
     "lnInst": "28",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "28",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "28",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "28",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "28",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "28",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "28",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14845,7 +21385,67 @@
     "lnClass": "GGIO",
     "lnInst": "29",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "29",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "29",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "29",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "29",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "29",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "29",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -14975,7 +21575,67 @@
     "lnClass": "GGIO",
     "lnInst": "30",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -15105,7 +21765,67 @@
     "lnClass": "PTUF",
     "lnInst": "3",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "3",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -15355,7 +22075,67 @@
     "lnClass": "PTUF",
     "lnInst": "1",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "1",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -15605,7 +22385,67 @@
     "lnClass": "PTUF",
     "lnInst": "2",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SA",
+    "lnClass": "PTUF",
+    "lnInst": "2",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
@@ -15855,7 +22695,67 @@
     "lnClass": "LLN0",
     "lnInst": "",
     "doName": "Mod",
-    "daName": "Oper",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "OC4_1",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "OC4_1",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "OC4_1",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "OC4_1",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "OC4_1",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "OC4_1",
+    "prefix": "",
+    "lnClass": "LLN0",
+    "lnInst": "",
+    "doName": "Mod",
+    "daName": "Oper.Check",
     "fc": "CO",
     "cdc": "INC"
   },
