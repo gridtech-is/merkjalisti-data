@@ -4725,5 +4725,19 @@
     "comment": "Merki bætt við: Rmt.Tr í 40E01",
     "id": "75b0f43b-e711-4a9b-bef8-a6dad9ca20b4",
     "timestamp": "2026-04-23T12:32:49.600Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "e7282da8-fd2f-4ae7-af04-8c5ce2d56cc7",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "source_type",
+    "old_value": "IED",
+    "new_value": "HARDWIRED",
+    "comment": "source_type breytt",
+    "id": "79aad3de-f538-4f27-9a89-83ba88cb3194",
+    "timestamp": "2026-04-23T12:33:01.569Z"
   }
 ]
