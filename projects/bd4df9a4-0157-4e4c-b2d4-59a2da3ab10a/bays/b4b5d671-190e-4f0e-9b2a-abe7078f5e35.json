@@ -959,7 +959,8 @@
       "library_id": "4777eb87-cdb3-458e-be55-7431be17e5dd",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "iec61850_do": "EnaOpn"
+      "iec61850_do": "EnaOpn",
+      "iec61850_da": "stVal"
     },
     {
       "id": "ceed9da7-474b-49bd-a6f2-de2ce7b7f27e",
@@ -990,7 +991,9 @@
       "library_id": "0e0a0d3e-39ea-4df9-b27f-0e13bc43982f",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "iec61850_ln_prefix": "S"
+      "iec61850_ln_prefix": "S",
+      "iec61850_do": "EnaCls",
+      "iec61850_da": "stVal"
     },
     {
       "id": "6cfd1bb8-a519-432d-92a1-78185f6a5ee2",
@@ -1586,7 +1589,7 @@
       "iec61850_ln_prefix": "CV",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Vol",
-      "iec61850_da": null
+      "iec61850_da": "mag.f"
     },
     {
       "id": "55E00_BCF1_PPV.phsB",
