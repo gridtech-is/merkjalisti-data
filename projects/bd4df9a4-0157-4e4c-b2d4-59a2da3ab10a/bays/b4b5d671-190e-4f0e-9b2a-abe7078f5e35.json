@@ -1652,8 +1652,8 @@
       "name_en": "CURRENT MEASUREMENT L1",
       "state_id": "MEAS",
       "iec61850_ied": "F240C01",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1668,7 +1668,10 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_ln_prefix": "C",
+      "iec61850_do": "Mod",
+      "iec61850_da": null
     },
     {
       "id": "55E00_BCF1_A.phsB",
