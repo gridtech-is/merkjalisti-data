@@ -897,7 +897,7 @@
       "name_en": "CB/DISCONNECTOR COMMAND OPEN/CLOSE FROM DISPATCH",
       "state_id": "OpenCloseDC",
       "iec61850_ied": "F240C01",
-      "iec61850_ln_prefix": null,
+      "iec61850_ln_prefix": "S",
       "iec61850_ln_inst": null,
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
@@ -924,7 +924,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "3eb359d5-47a9-4238-aa76-76121d049ea9",
