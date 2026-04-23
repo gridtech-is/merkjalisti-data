@@ -1642,7 +1642,8 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_da": null
     },
     {
       "id": "55E00_BCF1_A.phsA",
@@ -1670,8 +1671,9 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_ln_prefix": "C",
-      "iec61850_do": "Mod",
-      "iec61850_da": null
+      "iec61850_do": null,
+      "iec61850_da": null,
+      "iec61850_ln_inst": null
     },
     {
       "id": "55E00_BCF1_A.phsB",
