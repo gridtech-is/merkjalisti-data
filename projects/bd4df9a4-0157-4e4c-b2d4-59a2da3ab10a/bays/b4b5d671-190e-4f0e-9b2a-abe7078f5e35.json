@@ -984,7 +984,8 @@
       "group_label": null,
       "library_id": "0e0a0d3e-39ea-4df9-b27f-0e13bc43982f",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "6cfd1bb8-a519-432d-92a1-78185f6a5ee2",
@@ -1014,7 +1015,8 @@
       "group_label": "Jarðrofi Q52",
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "62cc2fcf-6d9c-4a2f-82f8-6def82c56792",
@@ -1025,7 +1027,7 @@
       "name_en": "CB/DISCONNECTOR COMMAND OPEN/CLOSE FROM DISPATCH",
       "state_id": "OpenCloseDC",
       "iec61850_ied": "F240C01",
-      "iec61850_ln_prefix": null,
+      "iec61850_ln_prefix": "S",
       "iec61850_ln_inst": null,
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
@@ -1082,7 +1084,8 @@
       "group_label": null,
       "library_id": "4777eb87-cdb3-458e-be55-7431be17e5dd",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "b0c57221-7f24-4733-ab5f-65e2c5d6e3a7",
@@ -1112,7 +1115,8 @@
       "group_label": null,
       "library_id": "0e0a0d3e-39ea-4df9-b27f-0e13bc43982f",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "iec61850_ln_prefix": "S"
     },
     {
       "id": "55E00_BCF1_GenTrip3Ph",
