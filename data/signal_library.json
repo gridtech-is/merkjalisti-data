@@ -2272,7 +2272,7 @@
     "state_id": "MEAS",
     "state_alarm_map": null,
     "signal_type": "AI",
-    "unit_id": "unit-mw",
+    "unit_id": "unit-a",
     "severity_code": "D9",
     "hmi_event": false,
     "is_alarm": false,
