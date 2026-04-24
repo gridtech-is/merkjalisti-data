@@ -6389,5 +6389,18 @@
     "comment": "Merki eytt: TVTR.FuFail",
     "id": "54937d53-6ca5-4466-ae68-fba11d441406",
     "timestamp": "2026-04-24T13:19:59.872Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "a21d62ef-636e-4070-b012-e783d044e5f9",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B201_TVTR.FuFail",
+    "new_value": null,
+    "comment": "Merki eytt: TVTR.FuFail",
+    "id": "8c2444fe-9b08-40c7-afcd-244962d52485",
+    "timestamp": "2026-04-24T13:20:03.388Z"
   }
 ]
