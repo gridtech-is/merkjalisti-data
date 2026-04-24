@@ -1805,10 +1805,10 @@
       "name_en": "ACTIVE POWER",
       "state_id": "MEAS",
       "iec61850_ied": "F245C01",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "MX",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1823,7 +1823,11 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_ln_prefix": "CV",
+      "iec61850_do": "Watt",
+      "iec61850_cdc": "MV",
+      "iec61850_da": "mag.f"
     },
     {
       "id": "55E00_BCF1_VolAmpr",
@@ -1836,7 +1840,7 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "MX",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1852,10 +1856,11 @@
       "review_comment": null,
       "iec61850_ln_prefix": "CV",
       "iec61850_ln_inst": null,
-      "iec61850_do": "Watt",
-      "iec61850_da": null,
+      "iec61850_do": "VolAmpr",
+      "iec61850_da": "mag.f",
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_cdc": "MV"
     },
     {
       "id": "55E00_BCF1_VolAmp",
@@ -1865,10 +1870,10 @@
       "name_en": "APPARENT POWER",
       "state_id": "MEAS",
       "iec61850_ied": "F245C01",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "MX",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1883,7 +1888,11 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_ln_prefix": "CV",
+      "iec61850_do": "VolAmpr",
+      "iec61850_cdc": "MV",
+      "iec61850_da": "mag.f"
     },
     {
       "id": "55E00_BCF1_Hz",
@@ -1893,10 +1902,10 @@
       "name_en": "FREQUENCY",
       "state_id": "MEAS",
       "iec61850_ied": "F245C01",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "MX",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1911,7 +1920,11 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_ln_prefix": "CV",
+      "iec61850_do": "Hz",
+      "iec61850_cdc": "MV",
+      "iec61850_da": "mag.f"
     },
     {
       "id": "55E00_BCF1_SupWh",
@@ -1921,8 +1934,8 @@
       "name_en": "REAL ENERGY SUPPLY",
       "state_id": "MEAS",
       "iec61850_ied": "F245C01",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "MMTR",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1939,7 +1952,9 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_ln_prefix": "ETP",
+      "iec61850_do": null
     },
     {
       "id": "55E00_BCF1_DmdWh",
