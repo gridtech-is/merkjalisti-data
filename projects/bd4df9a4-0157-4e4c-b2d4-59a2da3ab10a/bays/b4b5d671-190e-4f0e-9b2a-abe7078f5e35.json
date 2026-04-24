@@ -1661,7 +1661,7 @@
       "iec61850_rcb": "rEv",
       "iec61850_ln_prefix": "v",
       "iec61850_ln_inst": "1",
-      "iec61850_do": null,
+      "iec61850_do": "PPV.phsBC",
       "iec61850_cdc": "CMV",
       "iec61850_da": "cVal.mag.f"
     },
@@ -1676,7 +1676,7 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "MX",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1690,11 +1690,13 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "iec61850_da": null,
+      "iec61850_da": "cVal.mag.f",
       "iec61850_dataset": "Ev",
       "iec61850_rcb": "rEv",
       "iec61850_ln_prefix": "V",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "iec61850_do": "PPV.phsCA",
+      "iec61850_cdc": "CMV"
     },
     {
       "id": "55E00_BCF1_A.phsA",
