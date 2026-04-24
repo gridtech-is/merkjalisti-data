@@ -5439,5 +5439,19 @@
     "comment": "iec61850_ln_prefix breytt",
     "id": "778e3496-cdb2-436c-a34a-5cccd33ab7c1",
     "timestamp": "2026-04-24T12:31:39.960Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "55E00_BCF1_VolAmp",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_do",
+    "old_value": null,
+    "new_value": "VolAmpr",
+    "comment": "iec61850_do breytt",
+    "id": "a9ade0fb-ffa8-451b-b282-e9f094a23184",
+    "timestamp": "2026-04-24T12:31:56.015Z"
   }
 ]
