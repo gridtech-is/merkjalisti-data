@@ -5061,5 +5061,19 @@
     "comment": "iec61850_dataset breytt",
     "id": "a2994115-8214-4fee-a8c9-40f483feaaed",
     "timestamp": "2026-04-24T10:00:28.018Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "b3e71dd7-b51a-4de7-8ef0-2905dc4197c4",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_cdc",
+    "old_value": "SPC",
+    "new_value": "SPS",
+    "comment": "iec61850_cdc breytt",
+    "id": "66667062-46e7-43a3-ad56-651665042000",
+    "timestamp": "2026-04-24T10:11:29.884Z"
   }
 ]
