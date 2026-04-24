@@ -392,7 +392,7 @@
       "state_id": "Fail",
       "iec61850_ied": "F2540C02",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "4",
+      "iec61850_ln_inst": "7",
       "iec61850_rcb": "rEV",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
