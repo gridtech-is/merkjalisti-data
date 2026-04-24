@@ -1625,7 +1625,7 @@
       "group_label": "Mælingar",
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
-      "iec61850_do": "A.phsA",
+      "iec61850_do": "PPV.phsAB",
       "iec61850_da": "cVal.mag.f",
       "iec61850_dataset": "Ev",
       "iec61850_rcb": "rEv",
@@ -1784,7 +1784,8 @@
       "review_comment": null,
       "iec61850_dataset": "Ev",
       "iec61850_rcb": "rEv",
-      "iec61850_ln_inst": null
+      "iec61850_ln_inst": null,
+      "iec61850_da": null
     },
     {
       "id": "55E00_BCF1_Watt",
