@@ -1586,7 +1586,9 @@
       "iec61850_ln_prefix": "Q",
       "iec61850_do": "Loc",
       "iec61850_da": "stVal",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_PPV.phsA",
@@ -1617,7 +1619,9 @@
       "iec61850_ln_prefix": "CV",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Vol",
-      "iec61850_da": "mag.f"
+      "iec61850_da": "mag.f",
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_PPV.phsB",
@@ -1644,7 +1648,9 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null
+      "group_label": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_PPV.phsC",
@@ -1671,7 +1677,9 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "iec61850_da": null
+      "iec61850_da": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_A.phsA",
@@ -1701,7 +1709,9 @@
       "iec61850_ln_prefix": "C",
       "iec61850_do": null,
       "iec61850_da": null,
-      "iec61850_ln_inst": null
+      "iec61850_ln_inst": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_A.phsB",
@@ -1727,7 +1737,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_A.phsC",
@@ -1753,7 +1765,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_Watt",
@@ -1779,7 +1793,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_VolAmpr",
@@ -1809,7 +1825,9 @@
       "iec61850_ln_prefix": "CV",
       "iec61850_ln_inst": null,
       "iec61850_do": "Watt",
-      "iec61850_da": null
+      "iec61850_da": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_VolAmp",
@@ -1835,7 +1853,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_Hz",
@@ -1861,7 +1881,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_SupWh",
@@ -1887,7 +1909,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_DmdWh",
@@ -1913,7 +1937,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_SupVArh",
@@ -1939,7 +1965,9 @@
       "sat_tested_at": null,
       "phase_added": "DESIGN",
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "55E00_BCF1_DmdVArh",
@@ -1966,7 +1994,9 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "iec61850_da": null
+      "iec61850_da": null,
+      "iec61850_dataset": "Ev",
+      "iec61850_rcb": "rEv"
     },
     {
       "id": "8727b421-76b5-4677-84c4-eb6de0cd3e30",
