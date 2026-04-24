@@ -649,17 +649,6 @@
     "description": ""
   },
   {
-    "id": "b3e9d39b-7c90-4a4f-8a74-5be95e9bb6cd",
-    "category": "ied",
-    "code": "F245C01",
-    "type": null,
-    "ied_name": "F2540C01",
-    "manufacturer": "ABB",
-    "model": null,
-    "template_id": null,
-    "description": ""
-  },
-  {
     "id": "df7ac661-b48e-4b14-83e8-26c3c6a869df",
     "category": "ied",
     "code": "F240C03",
