@@ -1649,8 +1649,8 @@
           "alarm_class": null
         }
       },
-      "iec61850_ln_prefix": "EF4",
-      "iec61850_ln_inst": "2",
+      "iec61850_ln_prefix": "OV2",
+      "iec61850_ln_inst": null,
       "iec61850_do": null,
       "iec61850_da": null,
       "iec61850_cdc": "ACT",
@@ -1694,7 +1694,7 @@
         }
       },
       "iec61850_ln_prefix": "EF4",
-      "iec61850_ln_inst": "2",
+      "iec61850_ln_inst": null,
       "iec61850_do": null,
       "iec61850_da": null,
       "iec61850_cdc": "ACT",
