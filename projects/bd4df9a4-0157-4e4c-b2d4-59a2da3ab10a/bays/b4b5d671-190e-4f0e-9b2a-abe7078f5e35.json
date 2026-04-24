@@ -632,8 +632,9 @@
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev",
       "iec61850_ln_prefix": "S",
-      "iec61850_do": null,
-      "iec61850_ln_inst": null
+      "iec61850_do": "Pos",
+      "iec61850_ln_inst": "2",
+      "iec61850_da": "stVal"
     },
     {
       "id": "7ff60b5e-439f-4361-9212-5206c8ddb7eb",
@@ -702,7 +703,8 @@
       "library_id": "4777eb87-cdb3-458e-be55-7431be17e5dd",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "iec61850_ln_prefix": "S"
+      "iec61850_ln_prefix": "S",
+      "iec61850_do": null
     },
     {
       "id": "55E00_QC1_XSWI.BlkCls",
