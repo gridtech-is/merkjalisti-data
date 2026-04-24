@@ -1761,7 +1761,8 @@
       "iec61850_da": "cVal.mag.f",
       "iec61850_ln_prefix": "C",
       "iec61850_ln_inst": "1",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "iec61850_do": "A.phsB"
     },
     {
       "id": "55E00_BCF1_A.phsC",
