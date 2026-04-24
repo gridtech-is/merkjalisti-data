@@ -1,8 +1,15 @@
 [
-  {
-    "id": "061f94ed-0a39-4080-9d99-ca5b64ed29df",
-    "abbreviation": "kV",
-    "name_is": "Spenna í kv",
-    "name_en": "Voltec"
-  }
+  { "id": "unit-kv",    "abbreviation": "kV",    "name_is": "Kílóvolt",         "name_en": "Kilovolt" },
+  { "id": "unit-a",     "abbreviation": "A",     "name_is": "Amper",            "name_en": "Ampere" },
+  { "id": "unit-mw",    "abbreviation": "MW",    "name_is": "Megavatt",         "name_en": "Megawatt" },
+  { "id": "unit-mvar",  "abbreviation": "Mvar",  "name_is": "Megavar",          "name_en": "Megavar" },
+  { "id": "unit-mva",   "abbreviation": "MVA",   "name_is": "Megavolt-amper",   "name_en": "Megavolt-ampere" },
+  { "id": "unit-hz",    "abbreviation": "Hz",    "name_is": "Hertz",            "name_en": "Hertz" },
+  { "id": "unit-kpa",   "abbreviation": "kPa",   "name_is": "Kílópaskal",       "name_en": "Kilopascal" },
+  { "id": "unit-kwh",   "abbreviation": "kWh",   "name_is": "Kílóvattstund",    "name_en": "Kilowatt-hour" },
+  { "id": "unit-kwshr", "abbreviation": "kWshr", "name_is": "Kílóvattstund/r",  "name_en": "Kilowatt-hour/r" },
+  { "id": "unit-ws",    "abbreviation": "Ws",    "name_is": "Vattsekúnda",      "name_en": "Watt-second" },
+  { "id": "unit-vars",  "abbreviation": "VArs",  "name_is": "Volt-amper óvirk", "name_en": "Volt-ampere reactive" },
+  { "id": "unit-km",    "abbreviation": "Km",    "name_is": "Kílómetri",        "name_en": "Kilometre" },
+  { "id": "unit-time",  "abbreviation": "Time",  "name_is": "Tími",             "name_en": "Time" }
 ]
