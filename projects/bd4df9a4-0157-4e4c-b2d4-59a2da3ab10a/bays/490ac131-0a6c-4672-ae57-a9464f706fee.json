@@ -2939,13 +2939,13 @@
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
       "state_id": "GasStage1",
-      "iec61850_ied": null,
+      "iec61850_ied": "F245C01",
       "iec61850_ln_prefix": null,
       "iec61850_ln_inst": null,
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
-      "iec61850_ld": null,
-      "iec61850_ln": "SIMG",
+      "iec61850_ld": "LD0",
+      "iec61850_ln": "GGIO",
       "iec61850_do": null,
       "iec61850_da": null,
       "iec61850_fc": "ST",
@@ -2981,7 +2981,7 @@
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
       "state_id": "GasStage2",
-      "iec61850_ied": null,
+      "iec61850_ied": "F245C01",
       "iec61850_ln_prefix": null,
       "iec61850_ln_inst": null,
       "iec61850_rcb": null,
@@ -3000,7 +3000,7 @@
         "01": {
           "is_alarm": true,
           "is_event": false,
-          "alarm_class": 1
+          "alarm_class": 3
         }
       },
       "source_type": "IED",
