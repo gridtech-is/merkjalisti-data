@@ -50,7 +50,7 @@
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
       "iec61850_cdc": "DPC",
-      "iec61850_dataset": "EV"
+      "iec61850_dataset": "Ev"
     },
     {
       "id": "4101148d-53a5-4c9b-ad76-1a320c8a6e0f",
@@ -121,7 +121,7 @@
       "iec61850_do": "EnaOpn",
       "iec61850_da": "stVal",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV",
+      "iec61850_dataset": "Ev",
       "iec61850_rcb": "rEV"
     },
     {
@@ -2785,7 +2785,7 @@
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV",
+      "iec61850_dataset": "Ev",
       "library_id": "591d1f11-83cc-410e-9a8e-a4a339833f40",
       "is_alarm": false,
       "alarm_class": null,
@@ -2829,7 +2829,7 @@
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV",
+      "iec61850_dataset": "Ev",
       "library_id": "77ed4d25-4d83-4f09-935e-45f9d2dfa6fb",
       "is_alarm": true,
       "alarm_class": 3,
@@ -2873,7 +2873,7 @@
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV",
+      "iec61850_dataset": "Ev",
       "library_id": "ee7ee0ae-7f12-4721-ab7c-7f19e6df2df1",
       "is_alarm": true,
       "alarm_class": 3,
@@ -2917,7 +2917,7 @@
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV",
+      "iec61850_dataset": "Ev",
       "library_id": "77ed4d25-4d83-4f09-935e-45f9d2dfa6fb",
       "is_alarm": true,
       "alarm_class": 3,
@@ -2961,7 +2961,7 @@
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV",
+      "iec61850_dataset": "Ev",
       "library_id": "07996e70-928a-4045-8b42-90c3123ed871",
       "is_alarm": false,
       "alarm_class": null,
