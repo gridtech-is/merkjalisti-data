@@ -1626,7 +1626,7 @@
       "state_id": "Start",
       "iec61850_ied": "F2540C02",
       "iec61850_ld": "CBP_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PDOP",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1649,11 +1649,11 @@
           "alarm_class": null
         }
       },
-      "iec61850_ln_prefix": null,
+      "iec61850_ln_prefix": "CBP",
       "iec61850_ln_inst": null,
-      "iec61850_do": null,
+      "iec61850_do": "Str",
       "iec61850_da": null,
-      "iec61850_cdc": null,
+      "iec61850_cdc": "ACD",
       "iec61850_dataset": null,
       "iec61850_rcb": "rProt",
       "group_label": null,
