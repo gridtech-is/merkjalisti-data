@@ -6335,5 +6335,19 @@
     "comment": "iec61850_cdc breytt",
     "id": "00edcd09-37d6-44e9-a63f-158a02a7ac23",
     "timestamp": "2026-04-24T13:10:46.887Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "55E00_BCF1_BAY.LocKey",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_cdc",
+    "old_value": null,
+    "new_value": "SPS",
+    "comment": "iec61850_cdc breytt",
+    "id": "a2753321-f5ec-4930-b43f-630e66713a3e",
+    "timestamp": "2026-04-24T13:10:49.649Z"
   }
 ]
