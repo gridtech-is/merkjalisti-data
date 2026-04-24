@@ -1696,7 +1696,7 @@
       "iec61850_ln_prefix": "OV2",
       "iec61850_ln_inst": null,
       "iec61850_do": "Op",
-      "iec61850_da": null,
+      "iec61850_da": "general",
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
