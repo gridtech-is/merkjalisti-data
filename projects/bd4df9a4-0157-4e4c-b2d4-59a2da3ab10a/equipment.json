@@ -823,5 +823,17 @@
     "model": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "37b85faa-4370-4647-929d-9bdb0b9f72de",
+    "category": "ied",
+    "code": "F2540C0",
+    "type": null,
+    "ied_name": "F2540C01",
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
