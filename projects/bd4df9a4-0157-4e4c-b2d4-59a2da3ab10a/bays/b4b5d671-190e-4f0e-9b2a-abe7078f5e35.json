@@ -117,7 +117,8 @@
       "iec61850_do": "EnaOpn",
       "iec61850_da": "stVal",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "EV"
+      "iec61850_dataset": "EV",
+      "iec61850_rcb": null
     },
     {
       "id": "55E00_QB1_EnaOpn",
