@@ -1535,10 +1535,10 @@
     {
       "id": "4fdda9c6-7748-4787-aa69-a672ce809cd0",
       "equipment_code": "F2540A01",
-      "signal_name": "StartL1",
+      "signal_name": "StartL2",
       "name_is": "VÖRN",
       "name_en": "PROTECTION",
-      "state_id": "startL1",
+      "state_id": "startL2",
       "iec61850_ied": "F2540C01",
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTRC",
@@ -1571,7 +1571,7 @@
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "library_id": "6e343dee-3662-4005-9e62-49046ce21829",
+      "library_id": "f08e34c2-3464-4fcc-ad06-840f5092c8ac",
       "group_label": null,
       "fat_result": null,
       "sat_result": null
@@ -1579,10 +1579,10 @@
     {
       "id": "a7e25171-f057-42ec-80c2-74f3fda6d9ef",
       "equipment_code": "F2540A01",
-      "signal_name": "StartL1",
+      "signal_name": "StartL2",
       "name_is": "VÖRN",
       "name_en": "PROTECTION",
-      "state_id": "startL1",
+      "state_id": "startL2",
       "iec61850_ied": "F2540C01",
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTRC",
@@ -1615,7 +1615,7 @@
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "library_id": "6e343dee-3662-4005-9e62-49046ce21829"
+      "library_id": "f08e34c2-3464-4fcc-ad06-840f5092c8ac"
     },
     {
       "id": "51af92ee-239a-4416-95ad-486359a0c2f1",
