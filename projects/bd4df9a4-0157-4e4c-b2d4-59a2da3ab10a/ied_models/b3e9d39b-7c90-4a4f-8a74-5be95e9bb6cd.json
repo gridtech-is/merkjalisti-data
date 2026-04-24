@@ -17721,6 +17721,246 @@
   },
   {
     "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "cVal.mag.f",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "range",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "q",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "t",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "subEna",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "subCVal.mag.f",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "subQ",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsA",
+    "daName": "subID",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "cVal.mag.f",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "range",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "q",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "t",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "subEna",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "subCVal.mag.f",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "subQ",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsB",
+    "daName": "subID",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "cVal.mag.f",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "range",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "q",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "t",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "subEna",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "subCVal.mag.f",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "subQ",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "C",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "A.phsC",
+    "daName": "subID",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
     "prefix": "S",
     "lnClass": "XSWI",
     "lnInst": "5",
@@ -20988,6 +21228,246 @@
     "daName": "t",
     "fc": "ST",
     "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "cVal.mag.f",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "range",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "q",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "t",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "subEna",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "subCVal.mag.f",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "subQ",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsAB",
+    "daName": "subID",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "cVal.mag.f",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "range",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "q",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "t",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "subEna",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "subCVal.mag.f",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "subQ",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsBC",
+    "daName": "subID",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "cVal.mag.f",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "range",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "q",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "t",
+    "fc": "MX",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "subEna",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "subCVal.mag.f",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "subQ",
+    "fc": "SV",
+    "cdc": "CMV"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "V",
+    "lnClass": "MMXU",
+    "lnInst": "1",
+    "doName": "PPV.phsCA",
+    "daName": "subID",
+    "fc": "SV",
+    "cdc": "CMV"
   },
   {
     "ldInst": "OC4_1",
