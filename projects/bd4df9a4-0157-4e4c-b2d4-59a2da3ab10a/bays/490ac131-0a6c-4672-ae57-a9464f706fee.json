@@ -1,6 +1,6 @@
 {
   "id": "490ac131-0a6c-4672-ae57-a9464f706fee",
-  "voltage_level": "J",
+  "voltage_level": "F",
   "bay_name": "C02",
   "display_id": "40C02",
   "equipment_ids": [],
@@ -3018,5 +3018,6 @@
     }
   ],
   "status": "DRAFT",
-  "review": null
+  "review": null,
+  "description": "Þéttir"
 }
