@@ -9177,5 +9177,29 @@
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
     "comments": null
+  },
+  {
+    "id": "6efc5ccf-7bb5-473f-b184-2df40cea1489",
+    "code": "CAPACITORBANK.ST",
+    "name_is": "Þéttavörn",
+    "name_en": "Capacitor bank protection",
+    "description_is": null,
+    "state_id": "Start",
+    "state_alarm_map": null,
+    "signal_type": null,
+    "unit_id": null,
+    "severity_code": null,
+    "hmi_event": false,
+    "is_alarm": false,
+    "alarm_class": null,
+    "to_control_room": false,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
