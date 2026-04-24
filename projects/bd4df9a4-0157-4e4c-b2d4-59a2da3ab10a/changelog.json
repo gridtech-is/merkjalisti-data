@@ -6402,5 +6402,19 @@
     "comment": "Merki eytt: TVTR.FuFail",
     "id": "8c2444fe-9b08-40c7-afcd-244962d52485",
     "timestamp": "2026-04-24T13:20:03.388Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "0f329b2a-fa95-4d35-bffa-80ecf23a896a",
+    "target_type": "signal",
+    "target_parent_id": "490ac131-0a6c-4672-ae57-a9464f706fee",
+    "field": "iec61850_ln",
+    "old_value": "SIMG",
+    "new_value": "GGIO",
+    "comment": "iec61850_ln breytt",
+    "id": "c20378b3-8ea6-454d-b8d3-cdded7f20a53",
+    "timestamp": "2026-04-24T13:20:47.314Z"
   }
 ]
