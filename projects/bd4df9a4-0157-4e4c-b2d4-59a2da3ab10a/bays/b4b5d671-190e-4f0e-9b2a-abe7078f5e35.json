@@ -35,10 +35,15 @@
       "review_flagged": false,
       "review_comment": null,
       "state_alarm_map": {
-        "00": {
-          "is_alarm": false,
+        "11": {
+          "is_alarm": true,
           "is_event": false,
-          "alarm_class": null
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
         }
       },
       "group_label": "Afrofi Q0",
