@@ -7000,5 +7000,19 @@
     "comment": "Merki eytt: GAS.INSALM2",
     "id": "e687771a-8781-404b-b078-e2325944531c",
     "timestamp": "2026-04-24T22:52:54.661Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "28035bd5-59f8-4ac8-9e66-d77f87415eef",
+    "target_type": "signal",
+    "target_parent_id": "490ac131-0a6c-4672-ae57-a9464f706fee",
+    "field": "iec61850_dataset",
+    "old_value": "EV",
+    "new_value": "Ev",
+    "comment": "iec61850_dataset breytt",
+    "id": "95cd3cb9-5c54-4b11-ad1d-22a185dd0a16",
+    "timestamp": "2026-04-24T23:00:15.940Z"
   }
 ]
