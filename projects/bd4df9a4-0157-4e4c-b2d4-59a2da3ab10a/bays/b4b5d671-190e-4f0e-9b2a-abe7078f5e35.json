@@ -668,7 +668,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Cancel.ctlVal"
     },
     {
       "id": "bfff5e82-383d-4150-b3b1-5bdaa75480f8",
