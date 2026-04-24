@@ -1661,7 +1661,7 @@
       "iec61850_rcb": "rEv",
       "iec61850_ln_prefix": "v",
       "iec61850_ln_inst": "1",
-      "iec61850_do": "A.phsB",
+      "iec61850_do": null,
       "iec61850_cdc": "CMV",
       "iec61850_da": "cVal.mag.f"
     },
@@ -1674,7 +1674,7 @@
       "state_id": "MEAS",
       "iec61850_ied": "F245C01",
       "iec61850_ld": "LD0",
-      "iec61850_ln": null,
+      "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
       "iec61850_fc": null,
       "iec61850_address": null,
@@ -1692,7 +1692,9 @@
       "review_comment": null,
       "iec61850_da": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_ln_prefix": "V",
+      "iec61850_ln_inst": "1"
     },
     {
       "id": "55E00_BCF1_A.phsA",
@@ -1752,7 +1754,8 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_da": null
     },
     {
       "id": "55E00_BCF1_A.phsC",
@@ -1780,7 +1783,8 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_ln_inst": null
     },
     {
       "id": "55E00_BCF1_Watt",
