@@ -6946,5 +6946,18 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "d8699002-e58c-4fbc-b559-b1858085d911",
     "timestamp": "2026-04-24T22:33:45.030Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "0f329b2a-fa95-4d35-bffa-80ecf23a896a",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B201_GAS.INSALM",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSALM",
+    "id": "2a81f8ac-3650-4924-a4e1-5995b5eea903",
+    "timestamp": "2026-04-24T22:37:04.316Z"
   }
 ]
