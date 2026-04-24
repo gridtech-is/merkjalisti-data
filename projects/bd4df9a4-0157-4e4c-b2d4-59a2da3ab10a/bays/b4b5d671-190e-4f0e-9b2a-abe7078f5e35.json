@@ -1166,7 +1166,9 @@
       "iec61850_ln_prefix": "SMP",
       "iec61850_do": "Op",
       "iec61850_da": "general",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OC1.St",
@@ -1456,7 +1458,7 @@
       "review_comment": null,
       "library_id": "a2049581-645f-41f1-afe7-bde2a331bf3b",
       "iec61850_cdc": null,
-      "iec61850_dataset": null,
+      "iec61850_dataset": "Prot",
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -1467,7 +1469,8 @@
       "iec61850_ln_prefix": "SMP",
       "iec61850_ln_inst": "1",
       "iec61850_da": "stVal",
-      "iec61850_do": "ClsLO"
+      "iec61850_do": "ClsLO",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OV1.St",
@@ -1543,7 +1546,9 @@
       "iec61850_ln_prefix": null,
       "iec61850_ln_inst": "1",
       "iec61850_do": "Health",
-      "iec61850_da": "stVal"
+      "iec61850_da": "stVal",
+      "iec61850_dataset": "Stat",
+      "iec61850_rcb": "rStat"
     },
     {
       "id": "55E00_BCF1_BAY.LocKey",
@@ -2754,7 +2759,7 @@
       "iec61850_ied": "F240C01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "30",
-      "iec61850_rcb": null,
+      "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
@@ -2762,7 +2767,7 @@
       "iec61850_da": "stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": null,
-      "iec61850_dataset": null,
+      "iec61850_dataset": "Ev",
       "library_id": "4af87d86-3ebc-4756-ba1e-10cf219ac250",
       "is_alarm": true,
       "alarm_class": null,
