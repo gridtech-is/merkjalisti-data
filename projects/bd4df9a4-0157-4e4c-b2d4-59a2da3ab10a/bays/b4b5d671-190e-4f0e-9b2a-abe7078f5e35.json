@@ -1197,7 +1197,7 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "PTRC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1224,7 +1224,8 @@
       "iec61850_da": "general",
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "iec61850_cdc": "ACT"
     },
     {
       "id": "55E00_BCF1_OC1.St",
@@ -1369,9 +1370,10 @@
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "2",
       "iec61850_da": "general",
-      "iec61850_cdc": "ACD",
+      "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "iec61850_do": "Op"
     },
     {
       "id": "55E00_BCF1_OC3.St",
@@ -1499,7 +1501,7 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "PTRC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": true,
       "alarm_class": 1,
@@ -1514,7 +1516,7 @@
       "review_flagged": false,
       "review_comment": null,
       "library_id": "a2049581-645f-41f1-afe7-bde2a331bf3b",
-      "iec61850_cdc": null,
+      "iec61850_cdc": "SPS",
       "iec61850_dataset": "Prot",
       "state_alarm_map": {
         "01": {
@@ -1574,7 +1576,7 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "LLN0",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1606,7 +1608,8 @@
       "iec61850_do": "Health",
       "iec61850_da": "stVal",
       "iec61850_dataset": "Stat",
-      "iec61850_rcb": "rStat"
+      "iec61850_rcb": "rStat",
+      "iec61850_cdc": "INS"
     },
     {
       "id": "55E00_BCF1_BAY.LocKey",
@@ -1619,7 +1622,7 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "CBAY",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1645,7 +1648,8 @@
       "iec61850_da": "stVal",
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Ev",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "iec61850_cdc": "SPS"
     },
     {
       "id": "55E00_BCF1_PPV.phsA",
