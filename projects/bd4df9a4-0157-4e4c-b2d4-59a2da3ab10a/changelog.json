@@ -6918,5 +6918,19 @@
     "comment": "Merki eytt: REC.READY",
     "id": "ef2fa780-bd46-4e55-abd6-002f4038fed8",
     "timestamp": "2026-04-24T22:31:57.180Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "3025dfb5-ad93-44ab-ad43-e1cf2be20f33",
+    "target_type": "signal",
+    "target_parent_id": "490ac131-0a6c-4672-ae57-a9464f706fee",
+    "field": "equipment_code",
+    "old_value": "F240C02",
+    "new_value": "F2540C02",
+    "comment": "equipment_code breytt",
+    "id": "b7fc8c19-5317-46a8-97c8-1c21dc7e01c7",
+    "timestamp": "2026-04-24T22:32:47.719Z"
   }
 ]
