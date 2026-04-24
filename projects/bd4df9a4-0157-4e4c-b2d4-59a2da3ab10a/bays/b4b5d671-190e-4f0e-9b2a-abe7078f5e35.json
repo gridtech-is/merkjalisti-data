@@ -1179,7 +1179,7 @@
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1197,7 +1197,10 @@
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Str",
-      "iec61850_da": "general"
+      "iec61850_da": "general",
+      "iec61850_cdc": "ACD",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OC1.Tr",
@@ -1210,7 +1213,7 @@
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1235,7 +1238,10 @@
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Op",
-      "iec61850_da": "general"
+      "iec61850_da": "general",
+      "iec61850_cdc": "ACT",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OC2.St",
@@ -1248,7 +1254,7 @@
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1265,7 +1271,10 @@
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "2",
       "iec61850_do": "Str",
-      "iec61850_da": "general"
+      "iec61850_da": "general",
+      "iec61850_cdc": "ACD",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OC2.Tr",
@@ -1278,7 +1287,7 @@
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1301,7 +1310,10 @@
       },
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "2",
-      "iec61850_da": "general"
+      "iec61850_da": "general",
+      "iec61850_cdc": "ACD",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OC3.St",
@@ -1314,7 +1326,7 @@
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1331,7 +1343,10 @@
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "2",
       "iec61850_do": "Str",
-      "iec61850_da": "general"
+      "iec61850_da": "general",
+      "iec61850_cdc": "ACD",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_OC3.Tr",
@@ -1344,7 +1359,7 @@
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
-      "iec61850_fc": null,
+      "iec61850_fc": "ST",
       "iec61850_address": null,
       "is_alarm": false,
       "alarm_class": null,
@@ -1368,7 +1383,10 @@
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "2",
       "iec61850_do": "Op",
-      "iec61850_da": "general"
+      "iec61850_da": "general",
+      "iec61850_cdc": "ACT",
+      "iec61850_dataset": "Prot",
+      "iec61850_rcb": "rProt"
     },
     {
       "id": "55E00_BCF1_UV.St",
