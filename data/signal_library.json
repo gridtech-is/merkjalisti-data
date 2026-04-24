@@ -376,7 +376,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "9e68c05b-ff15-4e53-aef7-f11773afd4e3"
+    "id": "9e68c05b-ff15-4e53-aef7-f11773afd4e3",
+    "unit_id": "unit-pct"
   },
   {
     "id": "ad8b71dc-8fd9-49ee-a535-168975afd757",
@@ -1045,7 +1046,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "d70e747e-3e2d-44f7-9247-8fcb0d5e7ab2"
+    "id": "d70e747e-3e2d-44f7-9247-8fcb0d5e7ab2",
+    "unit_id": "unit-degc"
   },
   {
     "id": "a2049581-645f-41f1-afe7-bde2a331bf3b",
@@ -1367,7 +1369,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "e45a6844-9c95-46da-bec3-649bb2669ad6"
+    "id": "e45a6844-9c95-46da-bec3-649bb2669ad6",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "CO.Meas",
@@ -1390,7 +1393,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "027b276f-d089-4079-8ebc-2c4bac64944c"
+    "id": "027b276f-d089-4079-8ebc-2c4bac64944c",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "CARR.REC",
@@ -3518,7 +3522,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "2948e63b-051b-4fab-a02a-1271d4725d12"
+    "id": "2948e63b-051b-4fab-a02a-1271d4725d12",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "Ethylene.Meas",
@@ -3541,7 +3546,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "07bf6518-7cb5-4069-a86f-fa75c027fcdf"
+    "id": "07bf6518-7cb5-4069-a86f-fa75c027fcdf",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "Fire.Alm",
@@ -3882,7 +3888,8 @@
     "iec61850_cdc": "MV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "9aa7318f-7211-41cb-b9d2-a0fc06a65c0c"
+    "id": "9aa7318f-7211-41cb-b9d2-a0fc06a65c0c",
+    "unit_id": "unit-kpa"
   },
   {
     "code": "TR.Gas.H1",
@@ -4089,7 +4096,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "d5d47e2a-43b1-4416-926c-8bd332f02eed"
+    "id": "d5d47e2a-43b1-4416-926c-8bd332f02eed",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "LLN0.Mod",
@@ -4250,7 +4258,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "c31d8e75-7ca9-4889-b29a-6e7af14073a1"
+    "id": "c31d8e75-7ca9-4889-b29a-6e7af14073a1",
+    "unit_id": "unit-a"
   },
   {
     "id": "71ffe59d-80dc-4363-8fec-036f17b044dc",
@@ -4261,7 +4270,7 @@
     "state_id": "MEAS",
     "state_alarm_map": null,
     "signal_type": "AI",
-    "unit_id": "061f94ed-0a39-4080-9d99-ca5b64ed29df",
+    "unit_id": "unit-kv",
     "severity_code": "D9",
     "hmi_event": false,
     "is_alarm": false,
@@ -4626,7 +4635,8 @@
     "iec61850_cdc": "APC",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "6ba4562b-d59b-480a-8975-887adcb1df3a"
+    "id": "6ba4562b-d59b-480a-8975-887adcb1df3a",
+    "unit_id": "unit-kv"
   },
   {
     "code": "ATCC.AiSpt.2",
@@ -4718,7 +4728,8 @@
     "iec61850_cdc": "APC",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "ce575b1c-cd0c-4859-aaa3-958458cf4b36"
+    "id": "ce575b1c-cd0c-4859-aaa3-958458cf4b36",
+    "unit_id": "unit-kv"
   },
   {
     "code": "MechProt.Alm",
@@ -4787,7 +4798,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "3b4bd84f-2282-4bf1-96d7-9f45ae83958b"
+    "id": "3b4bd84f-2282-4bf1-96d7-9f45ae83958b",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "TR.Hum.H2",
@@ -5063,7 +5075,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "bfc9f19a-58f2-4565-9bc7-db97c8d57763"
+    "id": "bfc9f19a-58f2-4565-9bc7-db97c8d57763",
+    "unit_id": "unit-pct"
   },
   {
     "code": "OILTMP.HiAlm",
@@ -5155,7 +5168,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "7e7ebc9b-7c99-4d38-9d81-ecdbaaa17b55"
+    "id": "7e7ebc9b-7c99-4d38-9d81-ecdbaaa17b55",
+    "unit_id": "unit-degc"
   },
   {
     "code": "XCBR.Pos.opOk",
@@ -5224,7 +5238,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "b5493b79-db6c-4b17-bd06-e8999d3c0548"
+    "id": "b5493b79-db6c-4b17-bd06-e8999d3c0548",
+    "unit_id": "unit-degc"
   },
   {
     "code": "OF.Tr",
@@ -5684,7 +5699,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "bfd98c34-7916-45ed-a028-b954e77d0934"
+    "id": "bfd98c34-7916-45ed-a028-b954e77d0934",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "PhAngle.Meas",
@@ -5707,7 +5723,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "053c3bcf-cfcc-4926-85a7-9fcb0c1ce200"
+    "id": "053c3bcf-cfcc-4926-85a7-9fcb0c1ce200",
+    "unit_id": "unit-deg"
   },
   {
     "code": "GasMon.Status",
@@ -5822,7 +5839,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "f7c6a140-5b7e-4c10-b310-463b035843e0"
+    "id": "f7c6a140-5b7e-4c10-b310-463b035843e0",
+    "unit_id": "unit-kpa"
   },
   {
     "code": "CB.Prs.L1.Meas",
@@ -5845,7 +5863,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "d6d74519-8ddc-46b9-a610-be81b55c8ddc"
+    "id": "d6d74519-8ddc-46b9-a610-be81b55c8ddc",
+    "unit_id": "unit-kpa"
   },
   {
     "code": "CB.Prs.L2.Meas",
@@ -5868,7 +5887,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "346ca109-833e-4928-8a25-a558215a43ca"
+    "id": "346ca109-833e-4928-8a25-a558215a43ca",
+    "unit_id": "unit-kpa"
   },
   {
     "code": "CB.Prs.L3.Meas",
@@ -5891,7 +5911,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "ce0b02eb-f215-4d08-b106-95c1110ce9b2"
+    "id": "ce0b02eb-f215-4d08-b106-95c1110ce9b2",
+    "unit_id": "unit-kpa"
   },
   {
     "code": "TRF.PRES.Step2Tr",
@@ -6328,7 +6349,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "7a1c922b-849d-4637-a2f9-1817b22f7ce3"
+    "id": "7a1c922b-849d-4637-a2f9-1817b22f7ce3",
+    "unit_id": "unit-mvar"
   },
   {
     "code": "DmdVArh",
@@ -7388,7 +7410,8 @@
     "iec61850_cdc": "MV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "49790962-a9d8-4cbc-860e-f16acc925a2a"
+    "id": "49790962-a9d8-4cbc-860e-f16acc925a2a",
+    "unit_id": "unit-hz"
   },
   {
     "code": "AngDiff.Meas",
@@ -7411,7 +7434,8 @@
     "iec61850_cdc": "MV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "3007e190-1661-4da5-87f2-c140e02db730"
+    "id": "3007e190-1661-4da5-87f2-c140e02db730",
+    "unit_id": "unit-deg"
   },
   {
     "code": "PDOP.Tr",
@@ -7802,7 +7826,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "65322cdb-7714-4c0a-b2ff-6870bf606911"
+    "id": "65322cdb-7714-4c0a-b2ff-6870bf606911",
+    "unit_id": "unit-ms"
   },
   {
     "code": "LTMS.TmChSt1",
@@ -7848,7 +7873,8 @@
     "iec61850_cdc": "MV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "ac2f77ab-f092-4561-b287-def5bdab5abb"
+    "id": "ac2f77ab-f092-4561-b287-def5bdab5abb",
+    "unit_id": "unit-time"
   },
   {
     "code": "SIMG.TmToAlm.",
@@ -7871,7 +7897,8 @@
     "iec61850_cdc": "MV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "9b4934b0-fbd9-45da-bc97-10a4979a5fed"
+    "id": "9b4934b0-fbd9-45da-bc97-10a4979a5fed",
+    "unit_id": "unit-time"
   },
   {
     "code": "TR.TopOilTmp.Meas",
@@ -7894,7 +7921,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "b99e90ee-7a50-4497-8922-43c851086941"
+    "id": "b99e90ee-7a50-4497-8922-43c851086941",
+    "unit_id": "unit-degc"
   },
   {
     "code": "XCBR.Pos.tOpO",
@@ -7940,7 +7968,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "de928d92-f397-43b7-a3d8-7201adaad435"
+    "id": "de928d92-f397-43b7-a3d8-7201adaad435",
+    "unit_id": "unit-pct"
   },
   {
     "code": "TRF.Tr1",
@@ -8377,7 +8406,8 @@
     "iec61850_cdc": "DEL.CMV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "546966ef-653c-4b92-8ea9-73fc8d02605c"
+    "id": "546966ef-653c-4b92-8ea9-73fc8d02605c",
+    "unit_id": "unit-kv"
   },
   {
     "code": "PhV.phsA",
@@ -8400,7 +8430,8 @@
     "iec61850_cdc": "WYE.CMV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "481db9d6-a9e2-4b54-988d-7ff3dc6bd67f"
+    "id": "481db9d6-a9e2-4b54-988d-7ff3dc6bd67f",
+    "unit_id": "unit-kv"
   },
   {
     "code": "PPV.phsB",
@@ -8423,7 +8454,8 @@
     "iec61850_cdc": "DEL.CMV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "0cc67cb9-d31c-4992-8862-f950a78bdc63"
+    "id": "0cc67cb9-d31c-4992-8862-f950a78bdc63",
+    "unit_id": "unit-kv"
   },
   {
     "code": "PhV.phsB",
@@ -8446,7 +8478,8 @@
     "iec61850_cdc": "WYE.CMV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "8975a48c-b812-4187-8f3a-c4c60289504a"
+    "id": "8975a48c-b812-4187-8f3a-c4c60289504a",
+    "unit_id": "unit-kv"
   },
   {
     "code": "PPV.phsC",
@@ -8469,7 +8502,8 @@
     "iec61850_cdc": "DEL.CMV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "f199ed3f-0696-4faa-b88c-63640b62e467"
+    "id": "f199ed3f-0696-4faa-b88c-63640b62e467",
+    "unit_id": "unit-kv"
   },
   {
     "code": "PhV.phsC",
@@ -8492,7 +8526,8 @@
     "iec61850_cdc": "WYE.CMV",
     "iec61850_dataset": "Meas",
     "comments": null,
-    "id": "eca030c4-03cc-4971-8f94-1f83df41e29c"
+    "id": "eca030c4-03cc-4971-8f94-1f83df41e29c",
+    "unit_id": "unit-kv"
   },
   {
     "code": "WtrTnk.2",
@@ -8538,7 +8573,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "43448573-a820-4759-96f8-85ad5746bd32"
+    "id": "43448573-a820-4759-96f8-85ad5746bd32",
+    "unit_id": "unit-ppm"
   },
   {
     "code": "WaterLeak.Alm",
@@ -8679,7 +8715,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "d361c977-b11f-46bb-92d0-144d90aef3ca"
+    "id": "d361c977-b11f-46bb-92d0-144d90aef3ca",
+    "unit_id": "unit-degc"
   },
   {
     "code": "TR.WindTmp.L2",
@@ -8702,7 +8739,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "eef3b15a-3b73-419c-8d6f-8ba5fd9e08dd"
+    "id": "eef3b15a-3b73-419c-8d6f-8ba5fd9e08dd",
+    "unit_id": "unit-degc"
   },
   {
     "code": "TR.WindTmp.L3",
@@ -8725,7 +8763,8 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null,
-    "id": "ae9873dc-9f08-4d3c-832b-b247d31b8f6a"
+    "id": "ae9873dc-9f08-4d3c-832b-b247d31b8f6a",
+    "unit_id": "unit-degc"
   },
   {
     "code": "ZSEQ.Alm",
