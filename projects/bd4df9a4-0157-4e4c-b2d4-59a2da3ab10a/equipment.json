@@ -656,9 +656,10 @@
     "type": null,
     "ied_name": "REC670",
     "manufacturer": "ABB",
-    "model": null,
+    "model": "IED670",
     "template_id": null,
-    "description": ""
+    "description": "",
+    "config_version": "REC670ver1.2.3.0"
   },
   {
     "id": "b8976003-9fd8-4975-be72-cde2603354f3",
