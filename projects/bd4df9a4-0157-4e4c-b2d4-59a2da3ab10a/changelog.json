@@ -6863,5 +6863,19 @@
     "comment": "signal_name breytt",
     "id": "f9edeaf8-2164-4dc1-9c22-7f4993139834",
     "timestamp": "2026-04-24T22:10:43.162Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "5b3098ee-6d2a-4b57-98f6-b1b97b937a83",
+    "target_type": "signal",
+    "target_parent_id": "490ac131-0a6c-4672-ae57-a9464f706fee",
+    "field": "signal_name",
+    "old_value": "e",
+    "new_value": "CAPACITORBANK.ST",
+    "comment": "signal_name breytt",
+    "id": "0f4da84c-5d17-486f-8450-633e8f1d4a03",
+    "timestamp": "2026-04-24T22:20:15.830Z"
   }
 ]
