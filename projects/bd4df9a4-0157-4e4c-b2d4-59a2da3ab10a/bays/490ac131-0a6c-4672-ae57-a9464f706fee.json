@@ -1620,7 +1620,7 @@
     {
       "id": "5b3098ee-6d2a-4b57-98f6-b1b97b937a83",
       "equipment_code": "F2540A01",
-      "signal_name": "OV1.St",
+      "signal_name": "e",
       "name_is": "YFIRSPENNA",
       "name_en": "OVERVOLTAGE U>",
       "state_id": "Start",
