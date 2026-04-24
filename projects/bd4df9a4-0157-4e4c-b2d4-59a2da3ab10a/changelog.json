@@ -7306,5 +7306,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "97f468bb-4bbc-4bd2-9853-9fd8d0eed9f4",
     "timestamp": "2026-04-24T23:41:55.571Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "4a03ce35-3230-475b-b18b-f36b56d22089",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "equipment_code",
+    "old_value": "F240C01",
+    "new_value": "F2540C05",
+    "comment": "equipment_code breytt",
+    "id": "0bd31855-f588-4741-948a-da28c88ac262",
+    "timestamp": "2026-04-24T23:42:14.296Z"
   }
 ]
