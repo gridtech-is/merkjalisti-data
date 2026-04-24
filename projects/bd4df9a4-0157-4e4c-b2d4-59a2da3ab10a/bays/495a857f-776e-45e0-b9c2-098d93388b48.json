@@ -1401,7 +1401,7 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_ln_prefix": "OC4",
-      "iec61850_ln_inst": "2",
+      "iec61850_ln_inst": "3",
       "iec61850_do": "Str",
       "iec61850_da": "general",
       "iec61850_cdc": "ACD",
@@ -1411,17 +1411,17 @@
     {
       "id": "d18f1f64-7473-44b1-a0d0-22a47ff63cd4",
       "equipment_code": "F2540A01",
-      "signal_name": "OC3.St",
+      "signal_name": "OC3.Tr",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
-      "state_id": "StepSta3",
+      "state_id": "StepTrip3",
       "iec61850_ied": "F2540C05",
       "iec61850_ld": "OC4_1",
       "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": "ST",
       "iec61850_address": null,
-      "is_alarm": false,
+      "is_alarm": true,
       "alarm_class": null,
       "source_type": "IED",
       "fat_tested": false,
@@ -1434,15 +1434,23 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_ln_prefix": "OC4",
-      "iec61850_ln_inst": "2",
-      "iec61850_do": "Str",
+      "iec61850_ln_inst": "3",
+      "iec61850_do": "Op",
       "iec61850_da": "general",
-      "iec61850_cdc": "ACD",
+      "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
       "group_label": null,
       "fat_result": null,
-      "sat_result": null
+      "sat_result": null,
+      "library_id": "05269756-33ba-49b5-aacc-29b93e6ee1dc",
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      }
     },
     {
       "id": "e65831b9-296c-412d-b19d-db9fd86ee9da",
