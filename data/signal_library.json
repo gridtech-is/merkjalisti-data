@@ -3250,27 +3250,34 @@
     "comments": null
   },
   {
-    "code": "EF.Tr",
-    "name_is": "JARÐSTR.VÖRN",
+    "id": "ecb53e6a-56a6-40fb-af4d-71d8ea668d2a",
+    "code": "EF.TR",
+    "name_is": "JARÐSTRAUMUR IN >",
+    "name_en": "EARTH FAULT IN >",
     "description_is": "Jarðstraumur útleysing",
-    "name_en": "EARTH FAULT PROTECTION",
     "state_id": "Trip",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
-    "units": null,
+    "unit_id": null,
     "severity_code": "C4",
     "hmi_event": true,
     "is_alarm": true,
-    "alarm_class": null,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
-    "iec61850_ld": "EF4",
     "iec61850_ln": "PTOC",
-    "iec61850_do_da": "Op.general",
+    "iec61850_do": null,
+    "iec61850_da": null,
     "iec61850_fc": "ST",
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
-    "comments": null,
-    "id": "ecb53e6a-56a6-40fb-af4d-71d8ea668d2a"
+    "comments": null
   },
   {
     "code": "ATCC.VolSpt.O",
