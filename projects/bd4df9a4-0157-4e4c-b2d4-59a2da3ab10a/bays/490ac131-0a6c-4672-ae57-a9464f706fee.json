@@ -1451,8 +1451,8 @@
       "name_en": "OVERCURRENT I>>>",
       "state_id": "StepTrip3",
       "iec61850_ied": "F2540C02",
-      "iec61850_ld": null,
-      "iec61850_ln": null,
+      "iec61850_ld": "EF4_1",
+      "iec61850_ln": "PTOC",
       "iec61850_do_da": null,
       "iec61850_fc": "ST",
       "iec61850_address": null,
@@ -1475,8 +1475,8 @@
           "alarm_class": 3
         }
       },
-      "iec61850_ln_prefix": null,
-      "iec61850_ln_inst": "2",
+      "iec61850_ln_prefix": "EF4",
+      "iec61850_ln_inst": "1",
       "iec61850_do": "Op",
       "iec61850_da": "general",
       "iec61850_cdc": "ACT",
@@ -1519,7 +1519,7 @@
         }
       },
       "iec61850_ln_prefix": "OC4",
-      "iec61850_ln_inst": "2",
+      "iec61850_ln_inst": "1",
       "iec61850_do": "Op",
       "iec61850_da": "general",
       "iec61850_cdc": "ACT",
