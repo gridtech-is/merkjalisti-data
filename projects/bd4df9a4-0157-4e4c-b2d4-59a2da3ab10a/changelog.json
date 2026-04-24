@@ -6363,5 +6363,18 @@
     "comment": "iec61850_do breytt",
     "id": "75a1b61f-e82e-425f-ad89-7c7c56d2c0de",
     "timestamp": "2026-04-24T13:11:04.672Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "0f329b2a-fa95-4d35-bffa-80ecf23a896a",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "B201_GAS.INSALM",
+    "comment": "Merki bætt við: GAS.INSALM í 40C02",
+    "id": "acd22c9f-3e56-47ce-82ed-fb7efe9b2b57",
+    "timestamp": "2026-04-24T13:19:49.026Z"
   }
 ]
