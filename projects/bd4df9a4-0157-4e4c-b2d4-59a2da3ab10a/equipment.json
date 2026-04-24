@@ -644,9 +644,10 @@
     "type": null,
     "ied_name": "F2540C01",
     "manufacturer": "ABB",
-    "model": null,
+    "model": "IED670",
     "template_id": null,
-    "description": ""
+    "description": "",
+    "config_version": "REC670ver1.2.3.0"
   },
   {
     "id": "df7ac661-b48e-4b14-83e8-26c3c6a869df",
