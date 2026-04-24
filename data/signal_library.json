@@ -3227,9 +3227,9 @@
   },
   {
     "id": "38e01d0f-3531-43fb-b360-8ab932617080",
-    "code": "EF.ST1",
-    "name_is": "JARÐSTRAUMUR IN >",
-    "name_en": "EARTH FAULT IN >",
+    "code": "EF.ST",
+    "name_is": "JARÐSTRAUMUR",
+    "name_en": "EARTH FAULT ",
     "description_is": "Jarðstraumur viðvörun",
     "state_id": "Start",
     "state_alarm_map": null,
