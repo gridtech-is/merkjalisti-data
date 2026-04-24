@@ -5621,5 +5621,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "1ca71a46-1eab-4863-8678-a422df6517bb",
     "timestamp": "2026-04-24T12:49:44.700Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "55E00_BCF1_Watt",
+    "target_type": "signal",
+    "target_parent_id": "b4b5d671-190e-4f0e-9b2a-abe7078f5e35",
+    "field": "iec61850_ln_inst",
+    "old_value": null,
+    "new_value": "1",
+    "comment": "iec61850_ln_inst breytt",
+    "id": "5ccd6658-18a9-4917-947f-5c86b8181c28",
+    "timestamp": "2026-04-24T12:49:48.626Z"
   }
 ]
