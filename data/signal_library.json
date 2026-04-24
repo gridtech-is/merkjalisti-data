@@ -3251,9 +3251,9 @@
   },
   {
     "id": "ecb53e6a-56a6-40fb-af4d-71d8ea668d2a",
-    "code": "EF.TR1",
-    "name_is": "JARÐSTRAUMUR IN >",
-    "name_en": "EARTH FAULT IN >",
+    "code": "EF.TR",
+    "name_is": "JARÐSTRAUMUR",
+    "name_en": "EARTH FAULT ",
     "description_is": "Jarðstraumur útleysing",
     "state_id": "Trip",
     "state_alarm_map": {
