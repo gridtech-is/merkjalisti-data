@@ -1401,7 +1401,7 @@
       "review_flagged": false,
       "review_comment": null,
       "iec61850_ln_prefix": "OV2",
-      "iec61850_ln_inst": null,
+      "iec61850_ln_inst": "1",
       "iec61850_do": "Str",
       "iec61850_da": "general",
       "iec61850_cdc": "ACD",
@@ -1418,7 +1418,7 @@
       "state_id": "StepTrip1",
       "iec61850_ied": "F2540C06",
       "iec61850_ld": "OV2_1",
-      "iec61850_ln": null,
+      "iec61850_ln": "PTOV",
       "iec61850_do_da": null,
       "iec61850_fc": "ST",
       "iec61850_address": null,
@@ -1441,8 +1441,8 @@
           "alarm_class": 3
         }
       },
-      "iec61850_ln_prefix": "ov",
-      "iec61850_ln_inst": null,
+      "iec61850_ln_prefix": "OV2",
+      "iec61850_ln_inst": "1",
       "iec61850_do": "Op",
       "iec61850_da": "general",
       "iec61850_cdc": "ACT",
