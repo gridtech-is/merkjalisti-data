@@ -2165,7 +2165,7 @@
     },
     {
       "id": "403299fc-6e82-43ca-ae9b-f31f55022131",
-      "equipment_code": "F240C01",
+      "equipment_code": "CT",
       "signal_name": "A.phsC",
       "name_is": "STRAUMUR L3",
       "name_en": "CURRENT MEASUREMENT L3",
@@ -2198,7 +2198,7 @@
     },
     {
       "id": "d75354e4-d7cd-4f81-9691-24bfbb041edc",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "Watt",
       "name_is": "RAUNAFL",
       "name_en": "ACTIVE POWER",
