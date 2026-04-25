@@ -3258,10 +3258,10 @@
     {
       "id": "a528a396-e144-4ac9-93e9-10aa443ebe88",
       "equipment_code": "40D05",
-      "signal_name": "",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "signal_name": "OLI_PUMP1_RUNG",
+      "name_is": "OLÍU DÆLA 1",
+      "name_en": "OLI PUMP 1",
+      "state_id": "RUNNING",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
@@ -3270,12 +3270,12 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
-      "iec61850_fc": "ST",
-      "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
-      "is_alarm": false,
-      "alarm_class": null,
+      "iec61850_fc": null,
+      "iec61850_cdc": null,
+      "iec61850_dataset": null,
+      "library_id": "aa918aaf-d445-468c-97a8-912e1d7de9b9",
+      "is_alarm": true,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -3283,7 +3283,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -3296,16 +3296,16 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": "Ind",
-      "iec61850_da": "stVal"
+      "iec61850_do": null,
+      "iec61850_da": null
     },
     {
       "id": "1b87e683-1dd1-481f-9cda-7ed55c164a39",
       "equipment_code": "40D05",
-      "signal_name": "BAY.LocKey",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "signal_name": "OLI_PUMP2_RUNG",
+      "name_is": "OLÍU DÆLA 2",
+      "name_en": "OLI PUMP 2",
+      "state_id": "RUNNING",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
@@ -3314,12 +3314,12 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
-      "iec61850_fc": "ST",
-      "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
-      "is_alarm": false,
-      "alarm_class": null,
+      "iec61850_fc": null,
+      "iec61850_cdc": null,
+      "iec61850_dataset": null,
+      "library_id": "56d3b9b9-dbc1-4c48-b6fd-7afe8b741d8b",
+      "is_alarm": true,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -3327,7 +3327,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -3340,8 +3340,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": "Ind",
-      "iec61850_da": "stVal"
+      "iec61850_do": null,
+      "iec61850_da": null
     },
     {
       "id": "537b8eef-e705-415e-9fcf-df5ae7be3f16",
