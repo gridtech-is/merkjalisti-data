@@ -972,5 +972,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "2d3efc6f-a27d-4ee8-ba3d-970ef5255ec4",
+    "category": "apparatus",
+    "code": "B204",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
