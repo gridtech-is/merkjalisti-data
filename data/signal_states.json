@@ -1831,5 +1831,21 @@
         "en": "READY"
       }
     }
+  },
+  {
+    "id": "RUNNING",
+    "type": "SP",
+    "states": {
+      "00": {
+        "key": "X_NOTRUNNING",
+        "is": "Ekki í GANGI",
+        "en": "NOT RUNNING"
+      },
+      "01": {
+        "key": "X_RUNNING",
+        "is": "Í GANG",
+        "en": "RUNNING"
+      }
+    }
   }
 ]
