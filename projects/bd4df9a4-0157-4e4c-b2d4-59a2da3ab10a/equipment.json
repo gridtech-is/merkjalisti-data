@@ -888,5 +888,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "2050db00-7edf-41d1-93b7-5dc6569143e3",
+    "category": "apparatus",
+    "code": "B218",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
