@@ -996,5 +996,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "b27e9670-95bf-4bad-9c43-a8ef2ad57d3e",
+    "category": "apparatus",
+    "code": "Q10",
+    "type": "Skilrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
