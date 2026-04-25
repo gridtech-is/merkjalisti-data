@@ -21366,6 +21366,199 @@
     "cdc": "CMV"
   },
   {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.ctlVal",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.origin.orCat",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.origin.orIdent",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.ctlNum",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.T",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.Test",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "Oper.Check",
+    "fc": "CO",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "stVal",
+    "fc": "ST",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "q",
+    "fc": "ST",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Mod",
+    "daName": "t",
+    "fc": "ST",
+    "cdc": "INC"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Beh",
+    "daName": "stVal",
+    "fc": "ST",
+    "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Beh",
+    "daName": "q",
+    "fc": "ST",
+    "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Beh",
+    "daName": "t",
+    "fc": "ST",
+    "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Health",
+    "daName": "stVal",
+    "fc": "ST",
+    "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Health",
+    "daName": "q",
+    "fc": "ST",
+    "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Health",
+    "daName": "t",
+    "fc": "ST",
+    "cdc": "INS"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Ind",
+    "daName": "stVal",
+    "fc": "ST",
+    "cdc": "SPS",
+    "dataset": "StatUrg_A"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Ind",
+    "daName": "q",
+    "fc": "ST",
+    "cdc": "SPS",
+    "dataset": "StatUrg_A"
+  },
+  {
+    "ldInst": "LD0",
+    "prefix": "SP",
+    "lnClass": "GGIO",
+    "lnInst": "30",
+    "doName": "Ind",
+    "daName": "t",
+    "fc": "ST",
+    "cdc": "SPS",
+    "dataset": "StatUrg_A"
+  },
+  {
     "ldInst": "OC4_1",
     "prefix": "",
     "lnClass": "LLN0",
