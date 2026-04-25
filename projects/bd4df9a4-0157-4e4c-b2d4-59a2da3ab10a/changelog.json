@@ -8632,5 +8632,19 @@
     "comment": "Merki eytt: Rmt.Tr",
     "id": "d3eb3d0b-90e5-470a-9b6b-084766c4d3e6",
     "timestamp": "2026-04-25T13:42:39.413Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "eb0bcf2a-7cf5-4684-a815-418f8c1c7cbe",
+    "target_type": "signal",
+    "target_parent_id": "88d08893-1b97-47d1-bc68-7b44d08385ce",
+    "field": "iec61850_da",
+    "old_value": "Oper",
+    "new_value": "Oper.ctlVal",
+    "comment": "iec61850_da breytt",
+    "id": "3899a194-daf0-4c2b-b3d3-7121d1cf0a85",
+    "timestamp": "2026-04-25T13:44:01.896Z"
   }
 ]
