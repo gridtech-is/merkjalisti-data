@@ -1847,9 +1847,9 @@
       "group_label": null,
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_ln_prefix": "v",
+      "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
-      "iec61850_do": null,
+      "iec61850_do": "PPV.phsBC",
       "iec61850_cdc": "CMV",
       "iec61850_da": "cVal.mag.f"
     },
@@ -1883,7 +1883,7 @@
       "iec61850_rcb": "rMeas",
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
-      "iec61850_do": "PPV.phsCA",
+      "iec61850_do": "PPV.phs",
       "iec61850_cdc": "CMV"
     },
     {
