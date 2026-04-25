@@ -3041,7 +3041,7 @@
     },
     {
       "id": "9f660277-4e45-4f89-af1e-b44615ecf3a6",
-      "equipment_code": "RECTIFIER",
+      "equipment_code": "+R",
       "signal_name": "GAS.INSALM2",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
