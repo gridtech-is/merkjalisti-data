@@ -3441,14 +3441,14 @@
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
-      "iec61850_rcb": null,
+      "iec61850_rcb": "rProt",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": null,
+      "iec61850_dataset": "Prot",
       "library_id": "7d97c5b2-8fc2-4744-b288-64b78dae31b8",
       "is_alarm": true,
       "alarm_class": 3,
@@ -3522,10 +3522,10 @@
     {
       "id": "cc00ef74-72a5-423b-9f0f-0a560e2cd688",
       "equipment_code": "40D05",
-      "signal_name": "BAY.LocKey",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "signal_name": "WTMP.ALM",
+      "name_is": "VAFHITI",
+      "name_en": "WINDING TEMP ALARM",
+      "state_id": "Alarm",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
@@ -3537,7 +3537,7 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
+      "library_id": "4b7cf826-43a6-4c29-a601-25bba1118461",
       "is_alarm": false,
       "alarm_class": null,
       "state_alarm_map": {
@@ -3547,7 +3547,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -3560,7 +3560,7 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": "Ind",
+      "iec61850_do": "Ind10",
       "iec61850_da": "stVal"
     },
     {
