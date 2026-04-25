@@ -8702,5 +8702,18 @@
     "comment": "iec61850_da breytt",
     "id": "b177647d-31fd-42d6-8369-829dec8eeba6",
     "timestamp": "2026-04-25T13:44:27.380Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "c3345ae4-605a-4a17-b41a-665783b77f52",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "RECTIFIER_Rmt.Tr",
+    "new_value": null,
+    "comment": "Merki eytt: Rmt.Tr",
+    "id": "d43b41ad-6b14-4240-82de-6710d1fe3a5d",
+    "timestamp": "2026-04-25T13:44:42.496Z"
   }
 ]
