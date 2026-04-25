@@ -721,7 +721,19 @@
       "iec61850_ln_prefix": "S",
       "iec61850_ln_inst": "5",
       "iec61850_da": "stVal",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "d27b0647-9b23-4014-95b8-801f3fa18235",
