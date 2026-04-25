@@ -9615,5 +9615,35 @@
     "iec61850_cdc": "SPS",
     "iec61850_dataset": "Ev",
     "comments": null
+  },
+  {
+    "id": "db4d025e-1c27-4ee1-8dbb-9ad9ee0308f5",
+    "code": "FUTR.VT",
+    "name_is": "VT SJÁLFVAR",
+    "name_en": "MCB FOR VT PROTECTION",
+    "description_is": "Sjálfvar fjarlægðarvarnar",
+    "state_id": "Tripnormal",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 2
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C8",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 2,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
