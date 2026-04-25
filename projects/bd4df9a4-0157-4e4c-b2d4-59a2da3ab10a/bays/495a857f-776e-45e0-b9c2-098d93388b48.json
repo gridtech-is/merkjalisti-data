@@ -246,7 +246,7 @@
       "sat_tested_by": null,
       "sat_tested_at": null,
       "sat_result": null,
-      "review_flagged": true,
+      "review_flagged": false,
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Ind",
