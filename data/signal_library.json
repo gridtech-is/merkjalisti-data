@@ -5680,27 +5680,34 @@
     "comments": null
   },
   {
-    "code": "OV2.Alm",
+    "id": "b4ab4ff6-4c2a-47a7-ab55-1d096e844c45",
+    "code": "OV2.ALM",
     "name_is": "YFIRSPENNA",
-    "description_is": "Yfirspenna viðvörun þrep 2",
     "name_en": "OVERVOLTAGE U>> ALARM",
+    "description_is": "Yfirspenna viðvörun þrep 2",
     "state_id": "NorStep2AL",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
-    "units": null,
+    "unit_id": null,
     "severity_code": "C8",
     "hmi_event": true,
     "is_alarm": true,
-    "alarm_class": null,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
-    "iec61850_ld": "OV2",
     "iec61850_ln": "PTOV",
-    "iec61850_do_da": "Op.general",
+    "iec61850_do": null,
+    "iec61850_da": null,
     "iec61850_fc": "ST",
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
-    "comments": null,
-    "id": "b4ab4ff6-4c2a-47a7-ab55-1d096e844c45"
+    "comments": null
   },
   {
     "code": "O2.Meas",
