@@ -251,14 +251,7 @@
       "group_label": null,
       "iec61850_do": "Ind",
       "iec61850_da": "stVal",
-      "review_comments": [
-        {
-          "id": "ab49e238-59ae-41f6-bbbb-815dde82eec6",
-          "author": "gridtech-is",
-          "text": "prófa",
-          "created_at": "2026-04-25T12:58:54.502Z"
-        }
-      ]
+      "review_comments": []
     },
     {
       "id": "824fbc8b-837d-452b-a1aa-748a53727919",
