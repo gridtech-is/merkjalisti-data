@@ -3122,8 +3122,16 @@
       "sat_tested_by": null,
       "sat_tested_at": null,
       "sat_result": null,
-      "review_flagged": false,
-      "review_comment": null
+      "review_flagged": true,
+      "review_comment": null,
+      "review_comments": [
+        {
+          "id": "d443d47c-aa55-4616-b5b6-9ed5177d6dee",
+          "author": "gridtech-is",
+          "text": "Setja þetta inn í liða",
+          "created_at": "2026-04-25T13:12:06.842Z"
+        }
+      ]
     },
     {
       "id": "3830c057-0e67-482f-bcb0-b1077da03910",
