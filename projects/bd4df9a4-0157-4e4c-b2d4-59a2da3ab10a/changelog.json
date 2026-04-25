@@ -10012,5 +10012,19 @@
     "comment": "Merki bætt við: TCS1.Alm í 40C06",
     "id": "ee9db224-e3b9-4d8b-8f5d-f2fe1f069019",
     "timestamp": "2026-04-25T15:46:58.546Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "8c502d83-0f90-49ba-8670-8c004c407028",
+    "target_type": "signal",
+    "target_parent_id": "44a53f22-06b1-4733-9fa5-5584c0e5f3f1",
+    "field": "iec61850_dataset",
+    "old_value": "Stat",
+    "new_value": "Ev",
+    "comment": "iec61850_dataset breytt",
+    "id": "5a42cd90-1165-4651-9050-c3031fd4ef12",
+    "timestamp": "2026-04-25T15:48:18.718Z"
   }
 ]
