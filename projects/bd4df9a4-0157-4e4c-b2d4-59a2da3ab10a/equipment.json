@@ -924,5 +924,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "2ccda13f-84e6-45b2-bc83-0a5aa2ed671b",
+    "category": "apparatus",
+    "code": "B209",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
