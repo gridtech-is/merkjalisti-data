@@ -9321,5 +9321,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "aa918aaf-d445-468c-97a8-912e1d7de9b9",
+    "code": "OLI_PUMP1_RUNG",
+    "name_is": "OLÍU DÆLA 1",
+    "name_en": "OLI PUMP 1",
+    "description_is": null,
+    "state_id": "RUNNING",
+    "state_alarm_map": {
+      "00": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 1
+      }
+    },
+    "signal_type": null,
+    "unit_id": null,
+    "severity_code": null,
+    "hmi_event": false,
+    "is_alarm": true,
+    "alarm_class": 1,
+    "to_control_room": false,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
