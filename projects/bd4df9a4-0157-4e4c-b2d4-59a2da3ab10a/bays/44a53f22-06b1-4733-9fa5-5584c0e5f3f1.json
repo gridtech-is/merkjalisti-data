@@ -3000,10 +3000,10 @@
     {
       "id": "8d35809b-648e-4e7c-9007-eb4fb34da4fa",
       "equipment_code": "VT",
-      "signal_name": "FUST.VT",
+      "signal_name": "FUTR.VT",
       "name_is": "VT SJÁLFVAR",
       "name_en": "MCB FOR VT PROTECTION",
-      "state_id": "Opeen",
+      "state_id": "Tripnormal",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "11",
@@ -3015,9 +3015,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "daf4364c-f5c6-4ba0-b82d-6f6c1cde5074",
+      "library_id": "db4d025e-1c27-4ee1-8dbb-9ad9ee0308f5",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 2,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
