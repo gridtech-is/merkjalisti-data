@@ -2603,7 +2603,7 @@
     },
     {
       "id": "cce976ff-0db7-4e9a-8c2c-1c801087e05b",
-      "equipment_code": "B208",
+      "equipment_code": "B209",
       "signal_name": "GAS.INSALM2",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
