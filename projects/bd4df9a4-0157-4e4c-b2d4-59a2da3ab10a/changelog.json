@@ -9190,5 +9190,19 @@
     "comment": "signal_name breytt",
     "id": "68794fe6-1c1b-43ad-aa16-11e4c835d92e",
     "timestamp": "2026-04-25T14:45:39.012Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "602bc330-1a05-40a9-822a-4e5c68f57c17",
+    "target_type": "signal",
+    "target_parent_id": "44a53f22-06b1-4733-9fa5-5584c0e5f3f1",
+    "field": "equipment_code",
+    "old_value": "F240C02",
+    "new_value": "+W",
+    "comment": "equipment_code breytt",
+    "id": "3dcf5224-9ceb-4274-9fb3-954d911fa1d7",
+    "timestamp": "2026-04-25T14:45:58.963Z"
   }
 ]
