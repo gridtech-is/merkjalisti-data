@@ -8020,5 +8020,19 @@
     "comment": "signal_name breytt",
     "id": "ff120ace-8c7c-4701-ab72-36c9487737f1",
     "timestamp": "2026-04-25T10:55:36.909Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a6b958fb-2488-48f1-9a64-7dbe9cd48e0a",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "BAY.LocKey",
+    "new_value": "GasMon.Alm",
+    "comment": "signal_name breytt",
+    "id": "b3b8dc8a-3c52-4e1f-9633-0e3a46c667fa",
+    "timestamp": "2026-04-25T10:55:59.227Z"
   }
 ]
