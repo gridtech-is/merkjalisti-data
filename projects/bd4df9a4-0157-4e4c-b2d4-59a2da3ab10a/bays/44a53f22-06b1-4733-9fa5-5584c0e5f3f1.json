@@ -2955,11 +2955,11 @@
     },
     {
       "id": "be666945-24eb-4294-90cf-8fadb503cfbb",
-      "equipment_code": "+R",
-      "signal_name": "BAY.LocKey",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "equipment_code": "B215",
+      "signal_name": "GAS.INSALM",
+      "name_is": "GAS ÞRÝSTINGUR",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "21",
@@ -2971,9 +2971,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
-      "is_alarm": false,
-      "alarm_class": null,
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
+      "is_alarm": true,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2981,7 +2981,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
