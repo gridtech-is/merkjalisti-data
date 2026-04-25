@@ -2607,10 +2607,10 @@
     {
       "id": "65d04e43-2e65-4c1e-88d6-814627f9635f",
       "equipment_code": "+W",
-      "signal_name": "BAY.LocKey",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "signal_name": "",
+      "name_is": "STÝRING REITS",
+      "name_en": "BAY CONTROL STATUS",
+      "state_id": "RemBlocLocDP",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "1",
@@ -2622,7 +2622,7 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
+      "library_id": "af964aa1-a262-40d3-a2ac-f2faa5e4cc33",
       "is_alarm": false,
       "alarm_class": null,
       "state_alarm_map": {
