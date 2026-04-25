@@ -1708,7 +1708,7 @@
       "state_id": "WarnAlarmDP",
       "iec61850_ied": "F2540C05",
       "iec61850_ld": "LD0",
-      "iec61850_ln": "LLN0",
+      "iec61850_ln": null,
       "iec61850_do_da": null,
       "iec61850_fc": "ST",
       "iec61850_address": null,
@@ -1738,7 +1738,7 @@
         }
       },
       "iec61850_ln_prefix": null,
-      "iec61850_ln_inst": "1",
+      "iec61850_ln_inst": null,
       "iec61850_do": "Health",
       "iec61850_da": "stVal",
       "iec61850_dataset": "Stat",
