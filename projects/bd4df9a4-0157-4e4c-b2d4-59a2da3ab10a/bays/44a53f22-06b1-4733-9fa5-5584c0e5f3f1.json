@@ -2220,7 +2220,7 @@
     },
     {
       "id": "e3e55d12-917d-499d-9e67-e4de533e603b",
-      "equipment_code": "B207",
+      "equipment_code": "B217",
       "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
@@ -2263,7 +2263,7 @@
     },
     {
       "id": "7033002f-fa11-4d0a-b8f8-0b3c00b09ebc",
-      "equipment_code": "B201",
+      "equipment_code": "B218",
       "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
       "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
@@ -3040,48 +3040,6 @@
       "group_label": null,
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
-    },
-    {
-      "id": "a18b1116-78e1-4626-9af2-55f009bcb457",
-      "equipment_code": "B201",
-      "signal_name": "GAS.INSALM",
-      "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
-      "state_id": "GasStage1",
-      "iec61850_ied": "F2540C06",
-      "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "12",
-      "iec61850_rcb": "rStat",
-      "iec61850_dataset_entry": null,
-      "iec61850_ld": "LD0",
-      "iec61850_ln": "GGIO",
-      "iec61850_do": "Ind",
-      "iec61850_da": "stVal",
-      "iec61850_fc": "ST",
-      "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Stat",
-      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
-      "is_alarm": true,
-      "alarm_class": 1,
-      "state_alarm_map": {
-        "01": {
-          "is_alarm": true,
-          "is_event": false,
-          "alarm_class": 1
-        }
-      },
-      "source_type": "IED",
-      "phase_added": "DESIGN",
-      "fat_tested": false,
-      "fat_tested_by": null,
-      "fat_tested_at": null,
-      "fat_result": null,
-      "sat_tested": false,
-      "sat_tested_by": null,
-      "sat_tested_at": null,
-      "sat_result": null,
-      "review_flagged": false,
-      "review_comment": null
     },
     {
       "id": "8c502d83-0f90-49ba-8670-8c004c407028",
