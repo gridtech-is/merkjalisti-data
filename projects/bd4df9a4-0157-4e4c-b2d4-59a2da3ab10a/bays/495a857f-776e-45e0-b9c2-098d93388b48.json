@@ -3441,13 +3441,13 @@
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
-      "iec61850_rcb": "rEv",
+      "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
-      "iec61850_fc": null,
-      "iec61850_cdc": null,
+      "iec61850_fc": "ST",
+      "iec61850_cdc": "SPS",
       "iec61850_dataset": null,
       "library_id": "7d97c5b2-8fc2-4744-b288-64b78dae31b8",
       "is_alarm": true,
@@ -3472,8 +3472,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind8",
+      "iec61850_da": "stVal"
     },
     {
       "id": "e1a5aa30-d422-4455-a088-e4832fea1553",
