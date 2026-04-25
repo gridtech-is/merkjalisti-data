@@ -7376,5 +7376,19 @@
     "comment": "signal_name breytt",
     "id": "91298c18-5ab6-4b0e-9391-8d0bc09820a0",
     "timestamp": "2026-04-25T09:58:31.856Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "cdf4bae0-fd6f-41bd-a9b2-ec29946195ca",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "BAY.LocKey",
+    "new_value": "OIL_PUMP2",
+    "comment": "signal_name breytt",
+    "id": "f840f0f5-a1ff-4237-b7e0-12a204bf1ad2",
+    "timestamp": "2026-04-25T09:58:38.669Z"
   }
 ]
