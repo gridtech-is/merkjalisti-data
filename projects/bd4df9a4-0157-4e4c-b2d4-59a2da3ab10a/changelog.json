@@ -9986,5 +9986,18 @@
     "comment": "signal_name breytt",
     "id": "63534094-d30c-4064-81d8-4528846d2763",
     "timestamp": "2026-04-25T15:45:30.326Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "def544ea-cf3a-4b76-93a0-baf4d5157ab4",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "F2540C06_TestSock.Ins",
+    "comment": "Merki bætt við: TestSock.Ins í 40C06",
+    "id": "090f82d2-85cd-4602-a254-a99823b6799b",
+    "timestamp": "2026-04-25T15:46:39.380Z"
   }
 ]
