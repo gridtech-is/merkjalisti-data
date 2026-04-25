@@ -1020,5 +1020,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "67f538eb-612e-428d-ac5b-f095a52a063b",
+    "category": "apparatus",
+    "code": "Q15",
+    "type": "Jarðrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
