@@ -1708,7 +1708,7 @@
       "state_id": "WarnAlarmDP",
       "iec61850_ied": "F2540C05",
       "iec61850_ld": "LD0",
-      "iec61850_ln": null,
+      "iec61850_ln": "LLN0",
       "iec61850_do_da": null,
       "iec61850_fc": "ST",
       "iec61850_address": null,
@@ -1849,7 +1849,7 @@
       "iec61850_rcb": "rMeas",
       "iec61850_ln_prefix": "v",
       "iec61850_ln_inst": "1",
-      "iec61850_do": "PPV.phsBC",
+      "iec61850_do": null,
       "iec61850_cdc": "CMV",
       "iec61850_da": "cVal.mag.f"
     },
