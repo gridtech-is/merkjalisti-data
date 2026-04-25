@@ -1998,7 +1998,7 @@
     },
     {
       "id": "9e903ae8-bc04-4596-a010-f7ff7b151cf8",
-      "equipment_code": "F240C01",
+      "equipment_code": "VT",
       "signal_name": "PPV.phsA",
       "name_is": "SPENNA U12",
       "name_en": "VOLTAGE U12",
@@ -2032,7 +2032,7 @@
     },
     {
       "id": "549b9ff9-1337-48f8-b6db-b3a8553f465a",
-      "equipment_code": "F240C01",
+      "equipment_code": "VT",
       "signal_name": "PPV.phsB",
       "name_is": "SPENNA U23",
       "name_en": "VOLTAGE U23",
@@ -2066,7 +2066,7 @@
     },
     {
       "id": "747e60a3-ed7a-4d4b-a1e3-a0f855fdb8aa",
-      "equipment_code": "F240C01",
+      "equipment_code": "VT",
       "signal_name": "PPV.phsC",
       "name_is": "SPENNA U31",
       "name_en": "VOLTAGE U31",
@@ -2099,7 +2099,7 @@
     },
     {
       "id": "76ded863-69b1-4333-9b94-de1ad57873f9",
-      "equipment_code": "F240C01",
+      "equipment_code": "CT",
       "signal_name": "A.phsA",
       "name_is": "STRAUMUR L1",
       "name_en": "CURRENT MEASUREMENT L1",
@@ -2132,7 +2132,7 @@
     },
     {
       "id": "7fb065ef-6f1a-4b8a-b859-b517ccff1510",
-      "equipment_code": "F240C01",
+      "equipment_code": "CT",
       "signal_name": "A.phsB",
       "name_is": "STRAUMUR L2",
       "name_en": "CURRENT MEASUREMENT L2",
