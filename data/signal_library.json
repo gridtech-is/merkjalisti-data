@@ -5642,27 +5642,34 @@
     "comments": null
   },
   {
-    "code": "OV2.Tr",
-    "name_is": "YFIRSPENNA",
-    "description_is": "Yfirspenna útleysing",
+    "id": "a90937ba-0b15-477a-8448-276082ad57a7",
+    "code": "OV2.TR",
+    "name_is": "YFIRSPENNA U>>",
     "name_en": "OVERVOLTAGE U>>",
+    "description_is": "Yfirspenna útleysing",
     "state_id": "StepTrip2",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
-    "units": null,
+    "unit_id": null,
     "severity_code": "C4",
     "hmi_event": true,
     "is_alarm": true,
-    "alarm_class": null,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
-    "iec61850_ld": "PROT",
     "iec61850_ln": "PTOV",
-    "iec61850_do_da": "Op.general",
+    "iec61850_do": null,
+    "iec61850_da": null,
     "iec61850_fc": "ST",
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
-    "comments": null,
-    "id": "a90937ba-0b15-477a-8448-276082ad57a7"
+    "comments": null
   },
   {
     "code": "OV2.Alm",
