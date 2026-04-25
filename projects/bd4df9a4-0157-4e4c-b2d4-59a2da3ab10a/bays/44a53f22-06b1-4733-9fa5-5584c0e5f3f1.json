@@ -205,11 +205,11 @@
     },
     {
       "id": "993c9121-e728-4b27-83ac-c5b0f9b468fe",
-      "equipment_code": "Q0",
-      "signal_name": "CB.READY",
-      "name_is": "AFLROFI",
-      "name_en": "CIRCUIT",
-      "state_id": "READY",
+      "equipment_code": "B239",
+      "signal_name": "GAS.INSALM",
+      "name_is": "GAS ÞRÝSTINGUR",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "22",
@@ -221,19 +221,19 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "85ba65fd-c703-4019-85bb-1d91b428a24e",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
       "alarm_class": 1,
       "state_alarm_map": {
         "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 2
+        },
+        "00": {
           "is_alarm": false,
           "is_event": false,
           "alarm_class": null
-        },
-        "00": {
-          "is_alarm": true,
-          "is_event": false,
-          "alarm_class": 3
         }
       },
       "source_type": "IED",
