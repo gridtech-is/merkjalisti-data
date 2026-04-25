@@ -900,5 +900,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "42ce8996-6841-4c3c-8e7d-31c12e32acbf",
+    "category": "apparatus",
+    "code": "B206",
+    "type": "Aflrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
