@@ -1071,7 +1071,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "33285bdf-58d6-4110-9fc0-bb4230de7f02",
