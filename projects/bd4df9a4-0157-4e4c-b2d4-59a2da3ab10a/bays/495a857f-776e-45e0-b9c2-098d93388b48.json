@@ -3434,7 +3434,7 @@
     {
       "id": "f4fa65e3-e6b0-429c-8f56-733e58b2ffd8",
       "equipment_code": "40D05",
-      "signal_name": "TRF.PRES.Step2Tr",
+      "signal_name": "TRF.PRES.Ste",
       "name_is": "ÞRÝSTILIÐI",
       "name_en": "PRESSURE RELAY 2nd TRIP",
       "state_id": "Step2trip",
