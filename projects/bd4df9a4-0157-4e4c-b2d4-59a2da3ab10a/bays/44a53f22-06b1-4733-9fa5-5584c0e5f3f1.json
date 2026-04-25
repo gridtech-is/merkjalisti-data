@@ -3326,7 +3326,13 @@
       "unit_id": null,
       "is_alarm": false,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -3349,21 +3355,27 @@
       "state_id": "Alarm",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": null,
-      "iec61850_rcb": null,
+      "iec61850_ln_inst": "30",
+      "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
-      "iec61850_do": null,
-      "iec61850_da": null,
+      "iec61850_do": "Ind",
+      "iec61850_da": "stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Stat",
+      "iec61850_dataset": "Ev",
       "library_id": "560bca5d-497c-4581-87a1-c28ac06fd52e",
       "unit_id": null,
       "is_alarm": true,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
