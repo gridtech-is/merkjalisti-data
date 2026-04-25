@@ -2650,7 +2650,7 @@
     },
     {
       "id": "9a06bf89-1dfe-4fd5-b711-f1cd5cf58fc4",
-      "equipment_code": "+W",
+      "equipment_code": "Q0",
       "signal_name": "FUTR.DC",
       "name_is": "AC SJÁLFVAR",
       "name_en": "AC MCB OPEN",
