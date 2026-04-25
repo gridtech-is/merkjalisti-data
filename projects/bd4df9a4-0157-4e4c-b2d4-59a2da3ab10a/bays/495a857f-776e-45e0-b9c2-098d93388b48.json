@@ -500,7 +500,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "70f8efc4-bcb3-4c3b-a48d-f33e6061b0a3",
@@ -642,7 +642,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Cancel.ctlVal"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "4ecfa6fa-bbbc-4a80-819e-6e2b89967e72",
