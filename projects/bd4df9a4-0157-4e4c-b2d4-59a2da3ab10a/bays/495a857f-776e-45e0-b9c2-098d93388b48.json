@@ -3125,23 +3125,23 @@
     },
     {
       "id": "3830c057-0e67-482f-bcb0-b1077da03910",
-      "equipment_code": "+R",
-      "signal_name": "BAY.LocKey",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "equipment_code": "40D05",
+      "signal_name": "FUST.AC",
+      "name_is": "AC SJÁLFVAR",
+      "name_en": "AC MCB OPEN",
+      "state_id": "Opeen",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "21",
       "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
-      "iec61850_ln": "GGIO",
+      "iec61850_ln": "XFUS",
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
+      "iec61850_dataset": "Stat",
+      "library_id": "e168a1df-5849-4e04-95a8-56d02eae1ada",
       "is_alarm": false,
       "alarm_class": null,
       "state_alarm_map": {
@@ -3151,7 +3151,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -3164,12 +3164,12 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": "40D05 Spennir Merki",
-      "iec61850_do": "Ind",
-      "iec61850_da": "stVal"
+      "iec61850_do": null,
+      "iec61850_da": null
     },
     {
       "id": "08876344-956a-4560-b129-d464324179b5",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3213,7 +3213,7 @@
     },
     {
       "id": "cdf4bae0-fd6f-41bd-a9b2-ec29946195ca",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3257,7 +3257,7 @@
     },
     {
       "id": "a528a396-e144-4ac9-93e9-10aa443ebe88",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3301,7 +3301,7 @@
     },
     {
       "id": "1b87e683-1dd1-481f-9cda-7ed55c164a39",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3345,7 +3345,7 @@
     },
     {
       "id": "537b8eef-e705-415e-9fcf-df5ae7be3f16",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3389,7 +3389,7 @@
     },
     {
       "id": "3de609de-3039-4867-9d89-f0ae21e62ad2",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3433,7 +3433,7 @@
     },
     {
       "id": "f4fa65e3-e6b0-429c-8f56-733e58b2ffd8",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": "e1a5aa30-d422-4455-a088-e4832fea1553",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3521,7 +3521,7 @@
     },
     {
       "id": "cc00ef74-72a5-423b-9f0f-0a560e2cd688",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": "46478d26-5245-40ce-9e92-ba93e0438e8d",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3609,7 +3609,7 @@
     },
     {
       "id": "cc1adf07-4648-471f-a15a-8f00d7623468",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3653,7 +3653,7 @@
     },
     {
       "id": "a5f8ee7f-8ad6-462d-801c-d74a451be833",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3697,7 +3697,7 @@
     },
     {
       "id": "a6b958fb-2488-48f1-9a64-7dbe9cd48e0a",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -3741,7 +3741,7 @@
     },
     {
       "id": "d3445631-c7d1-4ba7-af2a-5cdeb3d67b85",
-      "equipment_code": "+R",
+      "equipment_code": "40D05",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
