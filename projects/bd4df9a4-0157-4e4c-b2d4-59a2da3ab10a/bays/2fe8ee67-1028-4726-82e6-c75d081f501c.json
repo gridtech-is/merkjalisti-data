@@ -1637,7 +1637,7 @@
           "alarm_class": 3
         }
       },
-      "iec61850_ln_prefix": "r",
+      "iec61850_ln_prefix": "ROV2",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Op",
       "iec61850_da": "general",
