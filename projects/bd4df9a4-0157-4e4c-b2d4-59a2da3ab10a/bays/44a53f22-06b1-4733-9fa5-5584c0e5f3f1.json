@@ -2607,10 +2607,10 @@
     {
       "id": "65d04e43-2e65-4c1e-88d6-814627f9635f",
       "equipment_code": "+W",
-      "signal_name": "FUST.DC",
-      "name_is": "DC SJÁLFVAR",
-      "name_en": "DC MCB OPEN",
-      "state_id": "Opeen",
+      "signal_name": "BAY.LocKey",
+      "name_is": "REITARSTÝRING",
+      "name_en": "LCC LOCAL/REMOTE",
+      "state_id": "RemLoc",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "1",
@@ -2622,7 +2622,7 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "591d1f11-83cc-410e-9a8e-a4a339833f40",
+      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
       "is_alarm": false,
       "alarm_class": null,
       "state_alarm_map": {
