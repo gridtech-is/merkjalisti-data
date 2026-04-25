@@ -666,7 +666,7 @@
     },
     {
       "id": "8d37b071-7400-4d7d-b6a7-17e1b254775e",
-      "equipment_code": "Q8",
+      "equipment_code": "Q10",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -689,7 +689,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Jarðrofi Q8",
+      "group_label": "Skilrofi Q10",
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev",
@@ -701,7 +701,7 @@
     },
     {
       "id": "d27b0647-9b23-4014-95b8-801f3fa18235",
-      "equipment_code": "Q2",
+      "equipment_code": "Q10",
       "signal_name": "REM.CMD",
       "library_id": "9e8f868f-4bba-4579-8eaa-dc92143e9ec8",
       "name_is": "STÝRING",
@@ -739,7 +739,7 @@
     },
     {
       "id": "d0c3c0da-6c8d-4454-981e-ce762756be71",
-      "equipment_code": "Q8",
+      "equipment_code": "Q10",
       "signal_name": "EnaOpn",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
@@ -774,7 +774,7 @@
     },
     {
       "id": "f25cfab7-2089-4131-84e5-9ba5d7532cea",
-      "equipment_code": "Q8",
+      "equipment_code": "Q10",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
