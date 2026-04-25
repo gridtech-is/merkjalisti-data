@@ -412,7 +412,19 @@
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
       "iec61850_ln_inst": "2",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "0f9d4802-9f57-467e-89bb-8025a5d2e4f5",
@@ -554,7 +566,19 @@
       "iec61850_do": "Pos",
       "iec61850_ln_inst": "3",
       "iec61850_da": "stVal",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "1e1c2cd4-e6ee-40b6-8d25-8abc3c961e6f",
