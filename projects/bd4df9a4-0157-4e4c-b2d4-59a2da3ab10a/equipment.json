@@ -984,5 +984,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "f71f3f6b-ee7d-44e8-91b8-426956ec45c7",
+    "category": "apparatus",
+    "code": "B205",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
