@@ -9622,5 +9622,19 @@
     "comment": "equipment_code breytt",
     "id": "00071600-bcff-4d2c-8309-d6ee4f443a89",
     "timestamp": "2026-04-25T15:25:43.955Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "be666945-24eb-4294-90cf-8fadb503cfbb",
+    "target_type": "signal",
+    "target_parent_id": "44a53f22-06b1-4733-9fa5-5584c0e5f3f1",
+    "field": "signal_name",
+    "old_value": "BAY.LocKey",
+    "new_value": "GAS.INSALM",
+    "comment": "signal_name breytt",
+    "id": "68303b4d-454e-4cf2-855a-c67ebfd4838a",
+    "timestamp": "2026-04-25T15:27:19.427Z"
   }
 ]
