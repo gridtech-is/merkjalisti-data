@@ -3043,7 +3043,7 @@
     },
     {
       "id": "a8c54503-6b09-4bf9-94db-b5fc53a9cf92",
-      "equipment_code": "VT",
+      "equipment_code": "VT_BUS1_D",
       "signal_name": "FUST.VT",
       "name_is": "VT SJÁLFVAR",
       "name_en": "MCB FOR VT PROTECTION",
@@ -3087,7 +3087,7 @@
     },
     {
       "id": "abee5318-352c-4f5d-8aa0-78f5df2e3bf8",
-      "equipment_code": "VT",
+      "equipment_code": "VT_BUS2_D",
       "signal_name": "FUST.VT",
       "name_is": "VT SJÁLFVAR",
       "name_en": "MCB FOR VT PROTECTION",
