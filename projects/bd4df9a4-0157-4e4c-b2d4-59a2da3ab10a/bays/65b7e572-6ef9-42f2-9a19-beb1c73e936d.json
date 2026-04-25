@@ -546,7 +546,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "673ccc38-43e3-4c73-8631-a945362aec5a",
@@ -1129,7 +1129,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "fa3a8017-7e95-4734-baef-78dc24a3ee18",
@@ -1631,7 +1631,7 @@
         }
       },
       "iec61850_ln_prefix": null,
-      "iec61850_ln_inst": "1",
+      "iec61850_ln_inst": null,
       "iec61850_do": "Health",
       "iec61850_da": "stVal",
       "iec61850_dataset": "Stat",
