@@ -1847,5 +1847,21 @@
         "en": "RUNNING"
       }
     }
+  },
+  {
+    "id": "LOCREM",
+    "type": null,
+    "states": {
+      "00": {
+        "key": "X_LOCAL",
+        "is": "STAÐSTÝRT",
+        "en": "LOCAL"
+      },
+      "01": {
+        "key": "X_REMOTE",
+        "is": "FJARSTÝRT",
+        "en": "REMOTE"
+      }
+    }
   }
 ]
