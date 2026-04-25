@@ -10627,5 +10627,18 @@
     "comment": "group_label breytt",
     "id": "b4b85348-6030-46f9-b268-2279bfda53bf",
     "timestamp": "2026-04-25T16:57:15.962Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "9ee5f24d-21b1-4654-9962-2bd3d2e5adb1",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q15_EnaCls",
+    "new_value": null,
+    "comment": "Merki eytt: EnaCls",
+    "id": "d0f89263-e0f1-4100-b8a1-e26be079ca79",
+    "timestamp": "2026-04-25T17:08:51.358Z"
   }
 ]
