@@ -4200,27 +4200,34 @@
     "id": "dcd643f9-4f37-449c-bf85-d6969c3b42bc"
   },
   {
-    "code": "BAY.LocKey",
+    "id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
+    "code": "BAY.LOCKEYR",
     "name_is": "REITARSTÝRING",
-    "description_is": "Fjarstýrt / staðstýrt (Merki frá bay controller um að reitur er í fjar/stað)",
     "name_en": "LCC LOCAL/REMOTE",
+    "description_is": "Fjarstýrt / staðstýrt (Merki frá bay controller um að reitur er í fjar/stað)",
     "state_id": "RemLoc",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
     "signal_type": "SP",
-    "units": null,
+    "unit_id": null,
     "severity_code": "D9",
     "hmi_event": true,
-    "is_alarm": false,
-    "alarm_class": null,
+    "is_alarm": true,
+    "alarm_class": 3,
     "to_control_room": true,
     "source_type": "IED",
-    "iec61850_ld": "BAY_1",
     "iec61850_ln": "LLN0",
-    "iec61850_do_da": "LocKey.stVal",
+    "iec61850_do": null,
+    "iec61850_da": null,
     "iec61850_fc": "ST",
     "iec61850_cdc": "SPS",
     "iec61850_dataset": "Ev",
-    "comments": null,
-    "id": "ee20378e-5478-4197-ac75-2a47b56df8c1"
+    "comments": null
   },
   {
     "code": "SIMG.TmToBlk.",
