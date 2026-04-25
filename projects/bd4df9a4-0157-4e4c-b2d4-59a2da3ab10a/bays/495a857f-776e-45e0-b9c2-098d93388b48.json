@@ -3078,8 +3078,16 @@
       "sat_tested_by": null,
       "sat_tested_at": null,
       "sat_result": null,
-      "review_flagged": false,
-      "review_comment": null
+      "review_flagged": true,
+      "review_comment": null,
+      "review_comments": [
+        {
+          "id": "70851181-de0e-4464-a1a8-73a57c3486d9",
+          "author": "gridtech-is",
+          "text": "skoða betur",
+          "created_at": "2026-04-25T12:47:12.831Z"
+        }
+      ]
     },
     {
       "id": "9d708145-c5dc-43dc-90ec-d580339d054d",
