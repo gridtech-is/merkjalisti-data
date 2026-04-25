@@ -8034,5 +8034,19 @@
     "comment": "signal_name breytt",
     "id": "b3b8dc8a-3c52-4e1f-9633-0e3a46c667fa",
     "timestamp": "2026-04-25T10:55:59.227Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "d3445631-c7d1-4ba7-af2a-5cdeb3d67b85",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "BAY.LocKey",
+    "new_value": "MCCB.DC",
+    "comment": "signal_name breytt",
+    "id": "512a8ef0-b0a3-4ddb-9dd4-906fc3fc0e79",
+    "timestamp": "2026-04-25T10:56:11.929Z"
   }
 ]
