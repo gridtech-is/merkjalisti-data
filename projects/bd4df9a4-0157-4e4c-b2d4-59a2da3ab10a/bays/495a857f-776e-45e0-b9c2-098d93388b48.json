@@ -1883,7 +1883,7 @@
       "iec61850_rcb": "rMeas",
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
-      "iec61850_do": "PPV.phs",
+      "iec61850_do": "PPV.phsCA",
       "iec61850_cdc": "CMV"
     },
     {
@@ -1917,7 +1917,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "iec61850_dataset_entry": null
     },
     {
       "id": "7e128579-c469-4565-bd9d-37e7a5f25af6",
