@@ -1032,5 +1032,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "c2189ce2-601f-4879-8241-1cd908a2b52d",
+    "category": "apparatus",
+    "code": "Q25",
+    "type": "Jarðrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
