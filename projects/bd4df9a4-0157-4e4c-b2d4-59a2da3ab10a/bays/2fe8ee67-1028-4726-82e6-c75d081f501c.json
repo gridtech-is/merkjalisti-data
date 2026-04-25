@@ -975,7 +975,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Jarðrofi Q52",
+      "group_label": "Skilrofi Q56",
       "library_id": "0e0f6e37-581d-439a-aeaa-184272d1f691",
       "iec61850_cdc": "DPC",
       "iec61850_dataset": "Ev",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "9ee5f24d-21b1-4654-9962-2bd3d2e5adb1",
-      "equipment_code": "Q52",
+      "equipment_code": "Q56",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
