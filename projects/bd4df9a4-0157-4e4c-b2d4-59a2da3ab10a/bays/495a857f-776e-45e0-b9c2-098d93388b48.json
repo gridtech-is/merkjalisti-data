@@ -3270,8 +3270,8 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
-      "iec61850_fc": null,
-      "iec61850_cdc": null,
+      "iec61850_fc": "ST",
+      "iec61850_cdc": "SPS",
       "iec61850_dataset": null,
       "library_id": "aa918aaf-d445-468c-97a8-912e1d7de9b9",
       "is_alarm": true,
@@ -3296,8 +3296,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind4",
+      "iec61850_da": "stVal"
     },
     {
       "id": "1b87e683-1dd1-481f-9cda-7ed55c164a39",
@@ -3314,8 +3314,8 @@
       "iec61850_ld": "LD0",
       "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
-      "iec61850_fc": null,
-      "iec61850_cdc": null,
+      "iec61850_fc": "ST",
+      "iec61850_cdc": "SPS",
       "iec61850_dataset": null,
       "library_id": "56d3b9b9-dbc1-4c48-b6fd-7afe8b741d8b",
       "is_alarm": true,
@@ -3340,8 +3340,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": null,
-      "iec61850_da": null
+      "iec61850_do": "Ind5",
+      "iec61850_da": "stVal"
     },
     {
       "id": "537b8eef-e705-415e-9fcf-df5ae7be3f16",
@@ -3444,7 +3444,7 @@
       "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
-      "iec61850_ln": null,
+      "iec61850_ln": "GGIO",
       "iec61850_do_da": "InsBlk.stVal",
       "iec61850_fc": null,
       "iec61850_cdc": null,
