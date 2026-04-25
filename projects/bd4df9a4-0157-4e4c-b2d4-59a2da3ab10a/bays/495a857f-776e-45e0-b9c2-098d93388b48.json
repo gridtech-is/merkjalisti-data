@@ -2737,9 +2737,9 @@
     {
       "id": "6e83953c-b1b5-4813-b3f1-657b593f1d98",
       "equipment_code": "+W",
-      "signal_name": "FUTR.AC",
-      "name_is": "AC SJÁLFVAR",
-      "name_en": "AC MCB OPEN",
+      "signal_name": "FUTR.DC",
+      "name_is": "DC SJÁLFVAR",
+      "name_en": "DC MCB OPEN",
       "state_id": "Tripnormal",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP",
@@ -2752,7 +2752,7 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "EV",
-      "library_id": "77ed4d25-4d83-4f09-935e-45f9d2dfa6fb",
+      "library_id": "ee7ee0ae-7f12-4721-ab7c-7f19e6df2df1",
       "is_alarm": true,
       "alarm_class": 3,
       "state_alarm_map": {
