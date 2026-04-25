@@ -2782,11 +2782,11 @@
     },
     {
       "id": "2db77594-a071-4fce-a833-423a4f8bac71",
-      "equipment_code": "F240C01",
-      "signal_name": "TestSock.Ins",
-      "name_is": "PRÓFUNARGREIÐA",
-      "name_en": "TEST SOCKET INSERTED",
-      "state_id": "Testmode",
+      "equipment_code": "F236",
+      "signal_name": "IRF",
+      "name_is": "BÚNAÐUR IRF",
+      "name_en": "EQUIPMENT IRF",
+      "state_id": "OkFailure",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "2",
@@ -2798,8 +2798,8 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "07996e70-928a-4045-8b42-90c3123ed871",
-      "is_alarm": false,
+      "library_id": "2cdb7b6e-b505-498b-87a9-b213a3bdb8ce",
+      "is_alarm": true,
       "alarm_class": null,
       "state_alarm_map": {
         "01": {
@@ -2808,7 +2808,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2956,7 +2956,7 @@
     },
     {
       "id": "8c502d83-0f90-49ba-8670-8c004c407028",
-      "equipment_code": "RECTIFIER",
+      "equipment_code": "+W",
       "signal_name": "REC.READY",
       "name_is": "RECTIFIER",
       "name_en": "RECTIFIER",
