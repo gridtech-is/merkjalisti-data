@@ -254,11 +254,11 @@
     },
     {
       "id": "649dab9c-49bf-4ff8-977b-56d252a90a79",
-      "equipment_code": "Q0",
-      "signal_name": "TCS1.Alm",
-      "name_is": "VÖKTUN ÚTLEYSIRÁS 1",
-      "name_en": "TRIP CIRCUIT 1 SUPERVISON",
-      "state_id": "Alarm",
+      "equipment_code": "B202",
+      "signal_name": "GAS.INSALM",
+      "name_is": "GAS ÞRÝSTINGUR",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "13",
@@ -270,9 +270,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "560bca5d-497c-4581-87a1-c28ac06fd52e",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": null,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
