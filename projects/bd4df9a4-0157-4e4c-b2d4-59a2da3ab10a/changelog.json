@@ -8174,5 +8174,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "7a8b5668-3058-41a7-88ce-97cf587c78d2",
     "timestamp": "2026-04-25T10:57:54.433Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "9f660277-4e45-4f89-af1e-b44615ecf3a6",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "REC.READY",
+    "new_value": "GAS.INSALM2",
+    "comment": "signal_name breytt",
+    "id": "428a1a56-07f6-4121-8d72-5be97e02effe",
+    "timestamp": "2026-04-25T11:16:02.691Z"
   }
 ]
