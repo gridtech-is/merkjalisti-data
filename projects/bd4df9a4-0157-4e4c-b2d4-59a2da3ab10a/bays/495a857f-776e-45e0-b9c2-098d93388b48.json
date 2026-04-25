@@ -3434,10 +3434,10 @@
     {
       "id": "f4fa65e3-e6b0-429c-8f56-733e58b2ffd8",
       "equipment_code": "40D05",
-      "signal_name": "TRF.PRES.Ste",
+      "signal_name": "TRF.PRES.STEPTR",
       "name_is": "ÞRÝSTILIÐI",
-      "name_en": "PRESSURE RELAY 2nd TRIP",
-      "state_id": "Step2trip",
+      "name_en": "PRESSURE RELAY  TRIP",
+      "state_id": "Tripnormal",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
@@ -3449,9 +3449,9 @@
       "iec61850_fc": null,
       "iec61850_cdc": null,
       "iec61850_dataset": null,
-      "library_id": "e7561408-c103-4ea7-b99c-057ae0d4ae94",
+      "library_id": "7d97c5b2-8fc2-4744-b288-64b78dae31b8",
       "is_alarm": true,
-      "alarm_class": null,
+      "alarm_class": 3,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
