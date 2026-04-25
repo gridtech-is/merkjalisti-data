@@ -10989,5 +10989,18 @@
     "comment": "iec61850_do breytt",
     "id": "74928ca1-1bbe-426b-95d7-0055a6fc0049",
     "timestamp": "2026-04-25T17:19:14.990Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "2355453b-4abc-48e5-b298-c913dc3e005f",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "F240C01_BRFP.IA",
+    "new_value": null,
+    "comment": "Merki eytt: BRFP.IA",
+    "id": "4e073cec-27d8-457c-8784-2e621dbaacc3",
+    "timestamp": "2026-04-25T17:19:28.502Z"
   }
 ]
