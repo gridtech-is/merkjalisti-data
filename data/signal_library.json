@@ -9381,5 +9381,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "46485484-bbf8-4849-977f-cee15e7b603a",
+    "code": "OLTC.PRES.TR",
+    "name_is": "SPRENGILÚGA OLTC",
+    "name_en": "PRESSURE RELAY OLTC TRIP",
+    "description_is": "Sprengilúga útleysing fyrir OLTC",
+    "state_id": "Trip",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C4",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
