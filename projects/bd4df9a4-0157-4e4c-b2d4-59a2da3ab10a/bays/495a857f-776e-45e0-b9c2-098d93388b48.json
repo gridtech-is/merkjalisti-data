@@ -3258,7 +3258,7 @@
     {
       "id": "a528a396-e144-4ac9-93e9-10aa443ebe88",
       "equipment_code": "40D05",
-      "signal_name": "BAY.LocKey",
+      "signal_name": "",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
       "state_id": "RemLoc",
