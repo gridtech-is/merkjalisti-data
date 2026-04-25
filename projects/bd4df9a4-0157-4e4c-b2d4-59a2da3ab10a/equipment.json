@@ -960,5 +960,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "ac2d843a-4e7d-4aa0-85d6-952f96d668ea",
+    "category": "apparatus",
+    "code": "VT_BUS2_D",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
