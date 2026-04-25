@@ -952,7 +952,7 @@
     },
     {
       "id": "962309dc-5344-4efd-9e7e-62b67c9e1d21",
-      "equipment_code": "Q52",
+      "equipment_code": "Q56",
       "signal_name": "Pos.DP",
       "name_is": "STÖÐUVÍSUN",
       "name_en": "CB/DISCONNECTOR/EARTH SWITCH STATUS",
@@ -987,7 +987,7 @@
     },
     {
       "id": "fc182cb3-857e-4870-9228-01332eddfb95",
-      "equipment_code": "Q2",
+      "equipment_code": "Q56",
       "signal_name": "REM.CMD",
       "library_id": "9e8f868f-4bba-4579-8eaa-dc92143e9ec8",
       "name_is": "STÝRING",
@@ -1025,7 +1025,7 @@
     },
     {
       "id": "b52120bb-05f2-41bf-bcad-cd54d32eab58",
-      "equipment_code": "Q52",
+      "equipment_code": "Q56",
       "signal_name": "EnaOpn",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
