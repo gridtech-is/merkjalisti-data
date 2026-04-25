@@ -851,5 +851,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "47a395de-d7d7-43a2-b22c-842e23d0cf2c",
+    "category": "apparatus",
+    "code": "B2XX",
+    "type": "Aflrofi",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
