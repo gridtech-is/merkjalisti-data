@@ -1145,7 +1145,7 @@
     },
     {
       "id": "5b1050f4-083b-4d12-8955-3727684a3924",
-      "equipment_code": "Q56",
+      "equipment_code": "Q15",
       "signal_name": "REM.CMD",
       "library_id": "9e8f868f-4bba-4579-8eaa-dc92143e9ec8",
       "name_is": "STÝRING",
@@ -1183,7 +1183,7 @@
     },
     {
       "id": "5676ecf7-20ce-4f32-a735-c17ac90e561c",
-      "equipment_code": "Q56",
+      "equipment_code": "Q15",
       "signal_name": "EnaOpn",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE OPEN",
@@ -1220,7 +1220,7 @@
     },
     {
       "id": "965de690-4647-4068-b0f2-0531935d8556",
-      "equipment_code": "Q56",
+      "equipment_code": "Q15",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "9ee5f24d-21b1-4654-9962-2bd3d2e5adb1",
-      "equipment_code": "Q56",
+      "equipment_code": "Q15",
       "signal_name": "EnaCls",
       "name_is": "STÝRING ROFA",
       "name_en": "DISCONNECTOR/EARTH SWITCH ENABLE CLOSE",
