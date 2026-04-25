@@ -1496,7 +1496,8 @@
       "library_id": "67d80a28-609d-451a-b46e-5b0b54416569",
       "group_label": null,
       "fat_result": null,
-      "sat_result": null
+      "sat_result": null,
+      "iec61850_dataset_entry": null
     },
     {
       "id": "c12e31bf-62ca-4db4-95a3-66e98675d084",
