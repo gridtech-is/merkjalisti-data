@@ -7390,5 +7390,19 @@
     "comment": "signal_name breytt",
     "id": "f840f0f5-a1ff-4237-b7e0-12a204bf1ad2",
     "timestamp": "2026-04-25T09:58:38.669Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "3830c057-0e67-482f-bcb0-b1077da03910",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "iec61850_ln",
+    "old_value": "XFUS",
+    "new_value": "GGIO",
+    "comment": "iec61850_ln breytt",
+    "id": "bdd9ba83-4837-4e3f-a762-f74f3d006098",
+    "timestamp": "2026-04-25T09:59:04.593Z"
   }
 ]
