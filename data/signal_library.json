@@ -9351,5 +9351,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "7d97c5b2-8fc2-4744-b288-64b78dae31b8",
+    "code": "TRF.PRES.STEPTR",
+    "name_is": "ÞRÝSTILIÐI",
+    "name_en": "PRESSURE RELAY  TRIP",
+    "description_is": "Þrýstiliði útleysing 2",
+    "state_id": "Tripnormal",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C4",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
