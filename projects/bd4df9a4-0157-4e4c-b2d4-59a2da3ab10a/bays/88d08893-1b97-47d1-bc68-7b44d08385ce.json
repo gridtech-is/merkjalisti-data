@@ -542,7 +542,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "031ea250-0b95-498d-b174-a82179fc8bfd",
@@ -1113,7 +1113,7 @@
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Pos",
-      "iec61850_da": "Oper"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "528b8b02-c807-405c-b9c0-950d8a51dd05",
@@ -1603,7 +1603,7 @@
         }
       },
       "iec61850_ln_prefix": null,
-      "iec61850_ln_inst": "1",
+      "iec61850_ln_inst": null,
       "iec61850_do": "Health",
       "iec61850_da": "stVal",
       "iec61850_dataset": "Stat",
@@ -1712,7 +1712,7 @@
       "group_label": null,
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_ln_prefix": "v",
+      "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsBC",
       "iec61850_cdc": "CMV",
