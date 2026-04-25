@@ -9531,5 +9531,29 @@
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
     "comments": null
+  },
+  {
+    "id": "67d80a28-609d-451a-b46e-5b0b54416569",
+    "code": "ROV1.ST",
+    "name_is": "YFIRSPENNA 3U0 >",
+    "name_en": " RESIDUAL OVERVOLTAGE 3U0 >",
+    "description_is": "Yfirspenna útleysing",
+    "state_id": "Start",
+    "state_alarm_map": null,
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C4",
+    "hmi_event": true,
+    "is_alarm": false,
+    "alarm_class": null,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": "PTOV",
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": "ST",
+    "iec61850_cdc": "ACT",
+    "iec61850_dataset": "Prot",
+    "comments": null
   }
 ]
