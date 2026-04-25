@@ -2231,7 +2231,7 @@
     },
     {
       "id": "dd04b0c3-2b9c-438f-98d1-b20388ebc5ab",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "VolAmpr",
       "name_is": "LAUNAFL",
       "name_en": "REACTIVE POWER",
@@ -2264,7 +2264,7 @@
     },
     {
       "id": "deedcef4-62f8-4a09-8d8b-a009a9b7f773",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "VolAmp",
       "name_is": "SÝNDARAFL",
       "name_en": "APPARENT POWER",
@@ -2297,7 +2297,7 @@
     },
     {
       "id": "fddb48f5-c570-482d-b06d-e5e7a56e5c42",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "Hz",
       "name_is": "TÍÐNI",
       "name_en": "FREQUENCY",
@@ -2330,7 +2330,7 @@
     },
     {
       "id": "e4afe54e-cd5d-4130-bc7d-9c77717cbe26",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "SupWh",
       "name_is": "RAUNORKA INN",
       "name_en": "REAL ENERGY SUPPLY",
@@ -2363,7 +2363,7 @@
     },
     {
       "id": "292d1079-67c8-4859-813f-b12560502d93",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "DmdWh",
       "name_is": "RAUNORKA ÚT",
       "name_en": "REAL ENERGY DEMAND",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "ad427aac-1bb8-419b-98f5-223e87221472",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "SupVArh",
       "name_is": "LAUNORKA INN",
       "name_en": "REACTIVE ENERGY SUPPLY",
@@ -2430,7 +2430,7 @@
     },
     {
       "id": "c6a829e4-53f9-44d0-89e8-c19ac4802046",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C07",
       "signal_name": "DmdVArh",
       "name_is": "LAUNORKA ÚT",
       "name_en": "REACTIVE ENERGY DEMAND",
