@@ -10613,5 +10613,19 @@
     "comment": "group_label breytt",
     "id": "ff6bb2f7-3be5-4ac3-93f0-b177a58779e1",
     "timestamp": "2026-04-25T16:56:09.430Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "8d37b071-7400-4d7d-b6a7-17e1b254775e",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "group_label",
+    "old_value": "Skilrofi Q10",
+    "new_value": "Skilrofi Q15",
+    "comment": "group_label breytt",
+    "id": "b4b85348-6030-46f9-b268-2279bfda53bf",
+    "timestamp": "2026-04-25T16:57:15.962Z"
   }
 ]
