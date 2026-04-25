@@ -839,5 +839,17 @@
     "config_version": "REC670ver1.2.3.0",
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "1c07be5d-cdfd-4193-b011-64ada3bccf25",
+    "category": "apparatus",
+    "code": "40D05",
+    "type": "Spennir",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
