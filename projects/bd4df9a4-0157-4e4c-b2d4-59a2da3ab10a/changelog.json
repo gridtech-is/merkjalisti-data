@@ -10305,5 +10305,19 @@
     "comment": "equipment_code breytt",
     "id": "9a227431-3385-4eeb-94b6-c1e21ad91c1c",
     "timestamp": "2026-04-25T16:12:49.450Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "962309dc-5344-4efd-9e7e-62b67c9e1d21",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "group_label",
+    "old_value": "Jarðrofi Q52",
+    "new_value": "Skilrofi Q56",
+    "comment": "group_label breytt",
+    "id": "03e2b6b4-15bd-4f55-bd04-9e2540c7b62f",
+    "timestamp": "2026-04-25T16:13:17.921Z"
   }
 ]
