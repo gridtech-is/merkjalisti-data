@@ -3007,7 +3007,7 @@
       "state_id": "OkFailure",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "12",
+      "iec61850_ln_inst": null,
       "iec61850_rcb": "rStat",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
