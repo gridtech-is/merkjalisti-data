@@ -7628,5 +7628,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "dd47ae87-c416-4e21-86f0-bfb50e80248d",
     "timestamp": "2026-04-25T10:00:07.752Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a528a396-e144-4ac9-93e9-10aa443ebe88",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "BAY.LocKey",
+    "new_value": "oil",
+    "comment": "signal_name breytt",
+    "id": "0f5dfcba-9525-4b5a-89ea-b9ee4d4ac87d",
+    "timestamp": "2026-04-25T10:17:32.826Z"
   }
 ]
