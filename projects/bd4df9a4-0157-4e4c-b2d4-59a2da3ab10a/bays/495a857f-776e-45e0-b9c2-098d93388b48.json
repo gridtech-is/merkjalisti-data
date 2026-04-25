@@ -3346,23 +3346,23 @@
     {
       "id": "537b8eef-e705-415e-9fcf-df5ae7be3f16",
       "equipment_code": "40D05",
-      "signal_name": "BAY.LocKey",
-      "name_is": "REITARSTÝRING",
-      "name_en": "LCC LOCAL/REMOTE",
-      "state_id": "RemLoc",
+      "signal_name": "OILLVL.Alm",
+      "name_is": "OLÍUHÆÐ",
+      "name_en": "OIL LEVEL ALARM",
+      "state_id": "Alarm",
       "iec61850_ied": "F2540C05",
       "iec61850_ln_prefix": "SP16",
       "iec61850_ln_inst": "1",
       "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
-      "iec61850_ln": "GGIO",
+      "iec61850_ln": null,
       "iec61850_do_da": "InsBlk.stVal",
-      "iec61850_fc": "ST",
-      "iec61850_cdc": "SPS",
-      "iec61850_dataset": "Ev",
-      "library_id": "ee20378e-5478-4197-ac75-2a47b56df8c1",
-      "is_alarm": false,
+      "iec61850_fc": null,
+      "iec61850_cdc": null,
+      "iec61850_dataset": null,
+      "library_id": "33c2b8e0-5a75-4885-ade1-6c357e9e4be2",
+      "is_alarm": true,
       "alarm_class": null,
       "state_alarm_map": {
         "01": {
@@ -3371,7 +3371,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -3384,8 +3384,8 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": null,
-      "iec61850_do": "Ind",
-      "iec61850_da": "stVal"
+      "iec61850_do": null,
+      "iec61850_da": null
     },
     {
       "id": "3de609de-3039-4867-9d89-f0ae21e62ad2",
