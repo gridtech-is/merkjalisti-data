@@ -2296,10 +2296,10 @@
     {
       "id": "9e245ebb-056e-4eb0-a944-d39cc141e771",
       "equipment_code": "B207",
-      "signal_name": "GAS.INSALM2",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "14",
@@ -2311,9 +2311,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2321,7 +2321,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2340,10 +2340,10 @@
     {
       "id": "6c11819f-b4fb-4ee8-a608-850805fa9bb6",
       "equipment_code": "B208",
-      "signal_name": "GAS.INSALM2",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "15",
@@ -2355,9 +2355,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2365,7 +2365,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2516,10 +2516,10 @@
     {
       "id": "d376be56-9894-4750-81dc-a6da5e87bd62",
       "equipment_code": "B203",
-      "signal_name": "GAS.INSALM2",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "16",
@@ -2531,9 +2531,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2541,7 +2541,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2560,10 +2560,10 @@
     {
       "id": "8e2005c5-3b1d-4589-9324-60c8a1a188dd",
       "equipment_code": "B206",
-      "signal_name": "GAS.INSALM2",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "17",
@@ -2575,9 +2575,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2585,7 +2585,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2604,10 +2604,10 @@
     {
       "id": "cce976ff-0db7-4e9a-8c2c-1c801087e05b",
       "equipment_code": "B209",
-      "signal_name": "GAS.INSALM2",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "18",
@@ -2619,9 +2619,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2629,7 +2629,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -2648,10 +2648,10 @@
     {
       "id": "20a9e966-51a9-4f01-8482-f0ff883d66d9",
       "equipment_code": "B219",
-      "signal_name": "GAS.INSALM2",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C06",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "19",
@@ -2663,9 +2663,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2673,7 +2673,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
