@@ -7712,5 +7712,19 @@
     "comment": "signal_name breytt",
     "id": "bee8e8b1-8b7b-4500-8eac-b8ad9969401b",
     "timestamp": "2026-04-25T10:29:16.495Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "3de609de-3039-4867-9d89-f0ae21e62ad2",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "BAY.LocKey",
+    "new_value": "BCHZ.Alm",
+    "comment": "signal_name breytt",
+    "id": "dbfd0967-9838-407b-b25a-8e6b0dfa9423",
+    "timestamp": "2026-04-25T10:30:05.429Z"
   }
 ]
