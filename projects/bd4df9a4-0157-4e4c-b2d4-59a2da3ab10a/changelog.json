@@ -10585,5 +10585,19 @@
     "comment": "iec61850_ied breytt",
     "id": "ef38d093-5f98-4632-a562-eb46c7325e23",
     "timestamp": "2026-04-25T16:47:38.140Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "3711a102-7977-420e-b514-9d6035849828",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "group_label",
+    "old_value": "Skilrofi Q2",
+    "new_value": "Skilrofi",
+    "comment": "group_label breytt",
+    "id": "d76413f8-fe0d-49c0-a8fd-627ca9680662",
+    "timestamp": "2026-04-25T16:55:55.125Z"
   }
 ]
