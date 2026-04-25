@@ -10709,5 +10709,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "946d56a5-75e0-49a4-a836-0e7c7ab35310",
     "timestamp": "2026-04-25T17:09:12.058Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "89736876-46f7-425a-bcf9-8a39186b73f5",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "group_label",
+    "old_value": "YfirSpenna",
+    "new_value": "jarðstrumur",
+    "comment": "group_label breytt",
+    "id": "d5917e37-c5ca-4b41-8b5c-0e49ddf91d19",
+    "timestamp": "2026-04-25T17:11:05.675Z"
   }
 ]
