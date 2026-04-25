@@ -876,5 +876,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "c7e945fa-5a31-496f-b396-3524a567009b",
+    "category": "apparatus",
+    "code": "B217",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
