@@ -9585,5 +9585,35 @@
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
     "comments": null
+  },
+  {
+    "id": "6a4153d6-e6f9-4ad4-bbb0-31323273b675",
+    "code": "BAY.LOCKEYL",
+    "name_is": "REITARSTÝRING",
+    "name_en": "LCC LOCAL/REMOTE",
+    "description_is": "Fjarstýrt / staðstýrt (Merki frá bay controller um að reitur er í fjar/stað)",
+    "state_id": "LOCREM",
+    "state_alarm_map": {
+      "00": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "D9",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": "ST",
+    "iec61850_cdc": "SPS",
+    "iec61850_dataset": "Ev",
+    "comments": null
   }
 ]
