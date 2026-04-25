@@ -7810,5 +7810,19 @@
     "comment": "signal_name breytt",
     "id": "d922723d-d79a-44d8-93bc-612b2df18152",
     "timestamp": "2026-04-25T10:39:49.176Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a528a396-e144-4ac9-93e9-10aa443ebe88",
+    "target_type": "signal",
+    "target_parent_id": "495a857f-776e-45e0-b9c2-098d93388b48",
+    "field": "signal_name",
+    "old_value": "",
+    "new_value": "OLI_PUMP2_RUNG",
+    "comment": "signal_name breytt",
+    "id": "01784574-4bb1-43b1-bcbf-593053d92866",
+    "timestamp": "2026-04-25T10:39:58.771Z"
   }
 ]
