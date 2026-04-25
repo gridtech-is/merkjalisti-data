@@ -8383,5 +8383,18 @@
     "comment": "Merki eytt: PoleDisc.Alm",
     "id": "c9688174-e2d5-49d9-81d9-130aa5954ad6",
     "timestamp": "2026-04-25T13:14:06.888Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "5ca74cb9-b16a-4ae5-9601-c2c11c22c3e7",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B207_GAS.INSALM2",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSALM2",
+    "id": "7268e117-4536-4986-9366-3efe5aa6e6d6",
+    "timestamp": "2026-04-25T13:16:12.190Z"
   }
 ]
