@@ -936,5 +936,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "0835d497-af49-4c86-839e-2efa4f48d919",
+    "category": "apparatus",
+    "code": "B220",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
