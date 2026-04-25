@@ -9036,5 +9036,19 @@
     "comment": "iec61850_do breytt",
     "id": "bb2c6a1c-5cf1-4313-a509-375b89e3b127",
     "timestamp": "2026-04-25T14:31:56.314Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "65d04e43-2e65-4c1e-88d6-814627f9635f",
+    "target_type": "signal",
+    "target_parent_id": "44a53f22-06b1-4733-9fa5-5584c0e5f3f1",
+    "field": "signal_name",
+    "old_value": "FUST.DC",
+    "new_value": "BAY.LocKey",
+    "comment": "signal_name breytt",
+    "id": "5ac64d43-f5d0-4127-a246-6d7149a1018d",
+    "timestamp": "2026-04-25T14:33:50.162Z"
   }
 ]
