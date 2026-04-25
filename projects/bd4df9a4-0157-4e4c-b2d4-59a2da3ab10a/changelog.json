@@ -9008,5 +9008,19 @@
     "comment": "iec61850_do breytt",
     "id": "a0bc9aa2-8793-44e1-b354-6a12ea0d4c77",
     "timestamp": "2026-04-25T14:31:36.757Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "c68e8b0e-3689-430d-81ea-63f92637312a",
+    "target_type": "signal",
+    "target_parent_id": "44a53f22-06b1-4733-9fa5-5584c0e5f3f1",
+    "field": "signal_name",
+    "old_value": "ROV1.TR",
+    "new_value": "ROV1.ST",
+    "comment": "signal_name breytt",
+    "id": "61b09e64-a4a1-421e-9f63-e879d20aba48",
+    "timestamp": "2026-04-25T14:31:46.856Z"
   }
 ]
