@@ -2222,10 +2222,10 @@
     {
       "id": "99f1bbf1-eb5b-4326-95c3-feb5d67a219b",
       "equipment_code": "VT",
-      "signal_name": "GAS.INSALM2",
-      "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "signal_name": "FUTR.VT",
+      "name_is": "VT SJÁLFVAR",
+      "name_en": "MCB FOR VT PROTECTION",
+      "state_id": "Tripnormal",
       "iec61850_ied": "F2540C03",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "14",
@@ -2237,9 +2237,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "db4d025e-1c27-4ee1-8dbb-9ad9ee0308f5",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": 2,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -2247,7 +2247,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
