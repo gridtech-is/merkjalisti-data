@@ -2829,11 +2829,19 @@
       "sat_tested_by": null,
       "sat_tested_at": null,
       "sat_result": null,
-      "review_flagged": false,
+      "review_flagged": true,
       "review_comment": null,
       "group_label": null,
       "iec61850_do": "Ind",
-      "iec61850_da": "stVal"
+      "iec61850_da": "stVal",
+      "review_comments": [
+        {
+          "id": "b67dacfd-01f2-4556-95e1-fdd497041838",
+          "author": "gridtech-is",
+          "text": "ahtuga",
+          "created_at": "2026-04-26T18:13:27.312Z"
+        }
+      ]
     },
     {
       "id": "dee21991-0763-4d0b-be89-e6ac8e3e58a8",
