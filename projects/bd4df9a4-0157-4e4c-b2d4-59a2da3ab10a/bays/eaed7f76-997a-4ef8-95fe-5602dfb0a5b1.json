@@ -164,10 +164,10 @@
     {
       "id": "655f505a-16d2-46bf-b152-87f8f9134753",
       "equipment_code": "Q0",
-      "signal_name": "GAS.INSBLK",
+      "signal_name": "GAS.INSALM",
       "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE CB BLOCKED (STAGE 2)",
-      "state_id": "UnlockLock",
+      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 1)",
+      "state_id": "GasStage1",
       "iec61850_ied": "F2540C03",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "20",
@@ -179,9 +179,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "cf856386-8298-467c-97a2-fb3eddfa687e",
-      "is_alarm": false,
-      "alarm_class": null,
+      "library_id": "2d1a8d9e-1072-452e-8ccf-bb6b8ee38d1a",
+      "is_alarm": true,
+      "alarm_class": 1,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -189,7 +189,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
