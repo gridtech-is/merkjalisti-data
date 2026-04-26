@@ -11343,5 +11343,18 @@
     "comment": "Merki eytt: GAS.INSALM",
     "id": "66b02a56-003b-452a-adff-91a6caa21a06",
     "timestamp": "2026-04-26T16:09:27.054Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "bb2a92b1-8832-4652-99af-fcf2677b261e",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B238_GAS.INSALM",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSALM",
+    "id": "33d9c1b0-25ce-48d4-88c1-c587d03292bc",
+    "timestamp": "2026-04-26T16:09:38.015Z"
   }
 ]
