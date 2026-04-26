@@ -11124,5 +11124,19 @@
     "comment": "equipment_code breytt",
     "id": "62e71efb-04ee-49fa-bc61-29bf3d9ef243",
     "timestamp": "2026-04-26T15:36:21.621Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "1a2e55d2-48be-44f3-bc2b-39549530d7b6",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "equipment_code",
+    "old_value": "BUS S",
+    "new_value": "BUS N",
+    "comment": "equipment_code breytt",
+    "id": "905db060-0598-4159-af5e-b0537a4b5910",
+    "timestamp": "2026-04-26T15:36:25.128Z"
   }
 ]
