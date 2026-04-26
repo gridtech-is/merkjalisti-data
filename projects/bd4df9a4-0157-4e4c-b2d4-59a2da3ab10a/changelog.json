@@ -11028,5 +11028,18 @@
     "comment": "Merki eytt: SupWh",
     "id": "9d5f920e-9006-43fb-82ad-37ac57443652",
     "timestamp": "2026-04-26T13:23:48.801Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "ad427aac-1bb8-419b-98f5-223e87221472",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "F2540C07_SupVArh",
+    "new_value": null,
+    "comment": "Merki eytt: SupVArh",
+    "id": "a55568cd-48de-47cb-830b-17053b23c582",
+    "timestamp": "2026-04-26T13:23:51.006Z"
   }
 ]
