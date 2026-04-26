@@ -1045,5 +1045,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "cabc4a1e-94c2-48cb-87eb-9d5febaac43d",
+    "category": "apparatus",
+    "code": "BUS S",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
