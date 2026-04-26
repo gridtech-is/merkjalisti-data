@@ -11288,5 +11288,19 @@
     "comment": "iec61850_ied breytt",
     "id": "08185e25-768f-4be7-b55a-737c16408f4d",
     "timestamp": "2026-04-26T16:00:36.137Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "7d158b85-35c6-44e8-98ea-4058ea4ff7c0",
+    "target_type": "signal",
+    "target_parent_id": "a6e07596-62a3-4643-9dc1-90dfaa1dc16c",
+    "field": "group_label",
+    "old_value": "Skilrofi Q56",
+    "new_value": "Skilrofi Q55",
+    "comment": "group_label breytt",
+    "id": "483931de-565f-4406-baee-fda0a4700455",
+    "timestamp": "2026-04-26T16:06:32.655Z"
   }
 ]
