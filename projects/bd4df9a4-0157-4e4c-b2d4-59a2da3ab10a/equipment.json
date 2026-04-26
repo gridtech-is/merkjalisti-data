@@ -1057,5 +1057,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "d9e211a3-cb53-4d88-a1a5-ab5ab8ab5113",
+    "category": "apparatus",
+    "code": "BUS N",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
