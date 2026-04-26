@@ -1071,5 +1071,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "42c881d3-0326-470a-a242-9ca5e0fd0c21",
+    "category": "apparatus",
+    "code": "B236",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
