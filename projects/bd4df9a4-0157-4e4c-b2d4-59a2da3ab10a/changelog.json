@@ -11222,5 +11222,18 @@
     "comment": "equipment_code breytt",
     "id": "b5d7b24d-f280-43d2-98fe-c7345d749e94",
     "timestamp": "2026-04-26T15:40:18.941Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "fbc8a0a3-9319-434c-a60e-e09957375039",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "VT_FUST.VT",
+    "new_value": null,
+    "comment": "Merki eytt: FUST.VT",
+    "id": "2bbf2c5d-735c-438f-a10b-484e917a75e0",
+    "timestamp": "2026-04-26T15:40:36.044Z"
   }
 ]
