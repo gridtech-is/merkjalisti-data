@@ -11054,5 +11054,19 @@
     "comment": "Merki eytt (block): GAS.INSALM",
     "id": "74b7ddac-d8c2-40bd-8056-909558b629ef",
     "timestamp": "2026-04-26T15:32:44.575Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "9e903ae8-bc04-4596-a010-f7ff7b151cf8",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "equipment_code",
+    "old_value": "VT",
+    "new_value": "BUS N",
+    "comment": "equipment_code breytt",
+    "id": "d9ee137d-68b3-44f6-8121-f86a5b48c929",
+    "timestamp": "2026-04-26T15:35:15.943Z"
   }
 ]
