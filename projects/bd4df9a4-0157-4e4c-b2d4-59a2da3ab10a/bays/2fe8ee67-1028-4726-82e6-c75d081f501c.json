@@ -1820,7 +1820,7 @@
     },
     {
       "id": "9e903ae8-bc04-4596-a010-f7ff7b151cf8",
-      "equipment_code": "VT",
+      "equipment_code": "BUS N",
       "signal_name": "PPV.phsA",
       "name_is": "SPENNA U12",
       "name_en": "VOLTAGE U12",
@@ -1854,7 +1854,7 @@
     },
     {
       "id": "549b9ff9-1337-48f8-b6db-b3a8553f465a",
-      "equipment_code": "VT",
+      "equipment_code": "BUS N",
       "signal_name": "PPV.phsB",
       "name_is": "SPENNA U23",
       "name_en": "VOLTAGE U23",
@@ -1888,7 +1888,7 @@
     },
     {
       "id": "747e60a3-ed7a-4d4b-a1e3-a0f855fdb8aa",
-      "equipment_code": "VT",
+      "equipment_code": "BUS N",
       "signal_name": "PPV.phsC",
       "name_is": "SPENNA U31",
       "name_en": "VOLTAGE U31",
