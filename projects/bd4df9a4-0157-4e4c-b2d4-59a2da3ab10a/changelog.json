@@ -11194,5 +11194,19 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "35f98b3d-c685-47bb-9f05-2429dc43a30c",
     "timestamp": "2026-04-26T15:36:46.572Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "0a3e30d3-4a7d-48d2-8816-978c286de25f",
+    "target_type": "signal",
+    "target_parent_id": "2fe8ee67-1028-4726-82e6-c75d081f501c",
+    "field": "equipment_code",
+    "old_value": "VT_BUS1_D",
+    "new_value": "BUS N",
+    "comment": "equipment_code breytt",
+    "id": "6b101ca1-1a26-4016-96d8-a87202743eae",
+    "timestamp": "2026-04-26T15:40:06.680Z"
   }
 ]
