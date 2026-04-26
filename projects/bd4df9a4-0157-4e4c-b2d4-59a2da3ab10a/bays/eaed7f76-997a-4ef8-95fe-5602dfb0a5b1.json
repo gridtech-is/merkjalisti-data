@@ -508,7 +508,19 @@
       "iec61850_da": "stVal",
       "iec61850_ln_inst": "2",
       "iec61850_rcb": "rEv",
-      "iec61850_dataset_entry": null
+      "iec61850_dataset_entry": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "ae2cf1e4-dc28-400d-8004-084b0d966c25",
@@ -653,7 +665,19 @@
       "iec61850_ln_inst": "3",
       "iec61850_da": "stVal",
       "iec61850_rcb": "rEv",
-      "iec61850_dataset_entry": null
+      "iec61850_dataset_entry": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "ea0c9bdf-d251-4e20-be26-967b6583a882",
@@ -799,7 +823,19 @@
       "iec61850_ln_inst": "5",
       "iec61850_da": "stVal",
       "iec61850_rcb": "rEv",
-      "iec61850_dataset_entry": null
+      "iec61850_dataset_entry": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "bde1e340-1874-406e-850e-02915c05923f",
@@ -945,7 +981,19 @@
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
       "iec61850_rcb": "rEv",
-      "iec61850_dataset_entry": null
+      "iec61850_dataset_entry": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "82b72fd0-2755-4b98-a5bc-1db8178aa29a",
@@ -1091,7 +1139,19 @@
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
       "iec61850_rcb": "rEv",
-      "iec61850_dataset_entry": null
+      "iec61850_dataset_entry": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "54744a45-08ec-496c-9abf-942429dbe980",
