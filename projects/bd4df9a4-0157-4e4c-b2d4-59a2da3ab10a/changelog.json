@@ -11701,5 +11701,18 @@
     "comment": "Merki eytt: GAS.INSALM2",
     "id": "9a32076c-bc01-4a20-b954-16d954f9b878",
     "timestamp": "2026-04-27T13:26:52.715Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "7e65d561-04b3-4c65-8ed9-bd7147f911ba",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "RECTIFIER_Rmt.Tr",
+    "comment": "Merki bætt við: Rmt.Tr í 40C11",
+    "id": "698082f7-24a3-4131-9ce3-d1c2061f5320",
+    "timestamp": "2026-04-27T13:32:18.318Z"
   }
 ]
