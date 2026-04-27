@@ -11662,5 +11662,18 @@
     "comment": "iec61850_ied breytt",
     "id": "560661a0-39bd-420f-b927-6c09fbc35739",
     "timestamp": "2026-04-27T13:25:00.078Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "32d3c47c-9c4e-45b5-99b4-02659f57589e",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "F2540A01_CAPACITORBANK.TR",
+    "new_value": null,
+    "comment": "Merki eytt: CAPACITORBANK.TR",
+    "id": "07799b2c-2b59-40f7-a180-53b239e5045d",
+    "timestamp": "2026-04-27T13:25:47.784Z"
   }
 ]
