@@ -11688,5 +11688,18 @@
     "comment": "Merki eytt: EF.TR2",
     "id": "fd53db29-e2b6-4038-a0ea-57d212edb3cc",
     "timestamp": "2026-04-27T13:25:49.858Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "9a3b2a86-2ab5-4e2c-ab7c-ec9d5ee595a8",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B207_GAS.INSALM2",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSALM2",
+    "id": "9a32076c-bc01-4a20-b954-16d954f9b878",
+    "timestamp": "2026-04-27T13:26:52.715Z"
   }
 ]
