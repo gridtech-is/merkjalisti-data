@@ -11714,5 +11714,19 @@
     "comment": "Merki bætt við: Rmt.Tr í 40C11",
     "id": "698082f7-24a3-4131-9ce3-d1c2061f5320",
     "timestamp": "2026-04-27T13:32:18.318Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "7e65d561-04b3-4c65-8ed9-bd7147f911ba",
+    "target_type": "signal",
+    "target_parent_id": "bb9f4553-58bd-4664-9408-ae8e96f38fc8",
+    "field": "iec61850_dataset",
+    "old_value": "Ev",
+    "new_value": "Prot",
+    "comment": "iec61850_dataset breytt",
+    "id": "d5cdbdf0-008a-4446-9bbe-e1492a0cf9fc",
+    "timestamp": "2026-04-27T13:33:13.231Z"
   }
 ]
