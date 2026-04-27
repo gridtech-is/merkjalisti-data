@@ -11783,5 +11783,18 @@
     "comment": "equipment_code breytt",
     "id": "588ccced-5114-49de-b0ec-b7f22791f4ed",
     "timestamp": "2026-04-27T14:01:37.597Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "238e93a9-e373-448e-9275-05d33a94ce9d",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B238_GAS.INSALM",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSALM",
+    "id": "b09ddf64-928e-42fa-a48b-c10f8b2add69",
+    "timestamp": "2026-04-27T14:01:41.410Z"
   }
 ]
