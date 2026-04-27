@@ -11959,5 +11959,18 @@
     "comment": "Merki eytt: GAS.INSALM",
     "id": "c979b8c8-5aa9-4843-b5d6-81a4165d9534",
     "timestamp": "2026-04-27T15:12:08.404Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "f3eb20f3-b544-48b2-9e4c-e9ce88772e8c",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "VT_FUST.VT",
+    "new_value": null,
+    "comment": "Merki eytt: FUST.VT",
+    "id": "6fc467cf-4186-4b15-8f33-d466d47660f8",
+    "timestamp": "2026-04-27T15:12:40.376Z"
   }
 ]
