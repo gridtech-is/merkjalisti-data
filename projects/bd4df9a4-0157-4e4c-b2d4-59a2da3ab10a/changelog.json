@@ -12000,5 +12000,18 @@
     "comment": "signal_name breytt",
     "id": "517079e4-a0cf-4fc3-92aa-04adadde89df",
     "timestamp": "2026-04-28T10:56:21.796Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "d3df8941-c40e-4704-81e2-8dc64a617eeb",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q8_Pos.DP",
+    "new_value": null,
+    "comment": "Merki eytt (block): Pos.DP",
+    "id": "f6b8cbcf-c6a2-4df9-b0ea-bb6bba8747c7",
+    "timestamp": "2026-04-28T13:01:19.692Z"
   }
 ]
