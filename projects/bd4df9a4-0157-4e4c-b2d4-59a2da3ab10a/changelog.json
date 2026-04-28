@@ -11972,5 +11972,19 @@
     "comment": "Merki eytt: FUST.VT",
     "id": "6fc467cf-4186-4b15-8f33-d466d47660f8",
     "timestamp": "2026-04-27T15:12:40.376Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a2161958-5472-41b7-a9ff-ee81df1cbbe8",
+    "target_type": "signal",
+    "target_parent_id": "122f296b-5afe-4ff3-9a6c-8c55b66c2fe7",
+    "field": "iec61850_ied",
+    "old_value": "F2540C10",
+    "new_value": "F2540C13",
+    "comment": "iec61850_ied breytt",
+    "id": "e1dcee1c-c58f-4618-925b-938ba145146d",
+    "timestamp": "2026-04-28T09:24:57.700Z"
   }
 ]
