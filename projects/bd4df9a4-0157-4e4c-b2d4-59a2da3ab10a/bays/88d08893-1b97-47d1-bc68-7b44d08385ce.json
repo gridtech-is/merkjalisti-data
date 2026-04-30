@@ -31,7 +31,7 @@
       "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "phase_added": "DESIGN",
-      "review_flagged": true,
+      "review_flagged": false,
       "review_comment": null,
       "state_alarm_map": {
         "11": {
