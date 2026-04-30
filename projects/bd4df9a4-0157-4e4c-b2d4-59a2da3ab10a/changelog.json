@@ -12013,5 +12013,19 @@
     "comment": "Merki eytt (block): Pos.DP",
     "id": "f6b8cbcf-c6a2-4df9-b0ea-bb6bba8747c7",
     "timestamp": "2026-04-28T13:01:19.692Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "e1e34bf4-00c1-4e6d-9c05-928b129e67e7",
+    "target_type": "signal",
+    "target_parent_id": "88d08893-1b97-47d1-bc68-7b44d08385ce",
+    "field": "review_flagged",
+    "old_value": "false",
+    "new_value": "true",
+    "comment": "review_flagged breytt",
+    "id": "ee7b19da-dcd0-4fee-aa03-013c676ea518",
+    "timestamp": "2026-04-30T14:49:45.299Z"
   }
 ]
