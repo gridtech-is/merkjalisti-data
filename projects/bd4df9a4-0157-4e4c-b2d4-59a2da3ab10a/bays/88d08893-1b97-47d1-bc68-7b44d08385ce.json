@@ -31,7 +31,7 @@
       "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "phase_added": "DESIGN",
-      "review_flagged": false,
+      "review_flagged": true,
       "review_comment": null,
       "state_alarm_map": {
         "11": {
@@ -50,7 +50,15 @@
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
       "iec61850_cdc": "DPC",
-      "iec61850_dataset": "Ev"
+      "iec61850_dataset": "Ev",
+      "review_comments": [
+        {
+          "id": "6ba0c122-b164-4430-8ee0-890127145acd",
+          "author": "gridtech-is",
+          "text": "Vel gert kútur",
+          "created_at": "2026-04-30T14:49:06.847Z"
+        }
+      ]
     },
     {
       "id": "6b775310-d31a-4b65-93cf-5f8dd97d950d",
