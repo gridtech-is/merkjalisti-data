@@ -12782,5 +12782,19 @@
     "comment": "equipment_code breytt",
     "id": "439acad6-2b40-4135-ac98-b9e2558e69db",
     "timestamp": "2026-05-05T14:07:50.257Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "a2161958-5472-41b7-a9ff-ee81df1cbbe8",
+    "target_type": "signal",
+    "target_parent_id": "122f296b-5afe-4ff3-9a6c-8c55b66c2fe7",
+    "field": "group_label",
+    "old_value": "Afrofi Q0",
+    "new_value": "CIRCUIT BREAKER",
+    "comment": "group_label breytt",
+    "id": "b377540c-64f9-4f6a-828a-cc7384290b54",
+    "timestamp": "2026-05-05T16:53:15.417Z"
   }
 ]
