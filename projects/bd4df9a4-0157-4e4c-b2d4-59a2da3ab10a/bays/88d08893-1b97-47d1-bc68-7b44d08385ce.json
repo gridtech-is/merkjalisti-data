@@ -1533,7 +1533,7 @@
     },
     {
       "id": "bd0d925f-a741-4f7b-bdf7-4f3eca01a119",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "BRFP.IA",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION INACTIVE",
