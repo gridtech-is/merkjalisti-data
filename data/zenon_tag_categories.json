@@ -1,0 +1,9 @@
+[
+  { "id": "cat-protection",     "key": "PROTECTION",     "name_is": "Vörn" },
+  { "id": "cat-measurement",    "key": "MEASUREMENT",    "name_is": "Mæligildi" },
+  { "id": "cat-circuit-breaker","key": "CIRCUIT BREAKER","name_is": "Aflrofi" },
+  { "id": "cat-disconnector",   "key": "DISCONNECTOR",   "name_is": "Skilrofi" },
+  { "id": "cat-earthing-switch","key": "EARTHING SWITCH","name_is": "Jarðrofi" },
+  { "id": "cat-local-remote",   "key": "LOCAL/REMOTE",   "name_is": "Staðbundið/Fjartengt" },
+  { "id": "cat-network",        "key": "NETWORK",        "name_is": "Net" }
+]
