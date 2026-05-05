@@ -1003,6 +1003,11 @@
       "iec61850_da": "stVal",
       "iec61850_rcb": "rEv",
       "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
         "00": {
           "is_alarm": true,
           "is_event": false,
@@ -1031,7 +1036,18 @@
       "iec61850_dataset": "N/A",
       "is_alarm": false,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -1151,7 +1167,19 @@
       "iec61850_ln_inst": "6",
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "b05e3564-0844-430f-a65c-e770c791323b",
@@ -1174,7 +1202,18 @@
       "iec61850_dataset": "N/A",
       "is_alarm": false,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -1518,7 +1557,14 @@
       "group_label": null,
       "fat_result": null,
       "sat_result": null,
-      "library_id": "05269756-33ba-49b5-aacc-29b93e6ee1dc"
+      "library_id": "05269756-33ba-49b5-aacc-29b93e6ee1dc",
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "2bc75464-c7a8-42bb-aef5-0dc437346997",
