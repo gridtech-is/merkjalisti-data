@@ -793,7 +793,7 @@
     },
     {
       "id": "687591fb-a3c3-45c9-9f63-1a9d52aad57e",
-      "equipment_code": "Q2",
+      "equipment_code": "Q8",
       "signal_name": "REM.CMD",
       "library_id": "9e8f868f-4bba-4579-8eaa-dc92143e9ec8",
       "name_is": "STÝRING",
@@ -936,7 +936,7 @@
     },
     {
       "id": "0e2e4696-1980-4872-8278-40f98c2c35e1",
-      "equipment_code": "Q2",
+      "equipment_code": "Q51",
       "signal_name": "REM.CMD",
       "library_id": "9e8f868f-4bba-4579-8eaa-dc92143e9ec8",
       "name_is": "STÝRING",
@@ -1079,7 +1079,7 @@
     },
     {
       "id": "b05e3564-0844-430f-a65c-e770c791323b",
-      "equipment_code": "Q2",
+      "equipment_code": "Q52",
       "signal_name": "REM.CMD",
       "library_id": "9e8f868f-4bba-4579-8eaa-dc92143e9ec8",
       "name_is": "STÝRING",
