@@ -504,7 +504,19 @@
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
       "iec61850_ln_inst": "2",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "c1ab305e-8eef-4c4a-87cc-9a727f888d41",
@@ -1187,7 +1199,7 @@
     },
     {
       "id": "b4ccb9db-7027-4770-ae9e-4908acc49364",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "GenTrip3Ph",
       "name_is": "VÖRN",
       "name_en": "PROTECTION",
@@ -1228,7 +1240,7 @@
     },
     {
       "id": "d757c7d8-a0f8-476d-bdc8-15ca955c9d67",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "OC1.St",
       "name_is": "YFIRSTRAUMUR I>",
       "name_en": "OVERCURRENT I>",
@@ -1262,7 +1274,7 @@
     },
     {
       "id": "bfc10fc3-8cf6-453e-b2f0-33acb786db75",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "OC1.Tr",
       "name_is": "YFIRSTRAUMUR I>",
       "name_en": "OVERCURRENT I>",
@@ -1303,7 +1315,7 @@
     },
     {
       "id": "99104219-174c-403e-8abb-d85138e08d3a",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "OC2.St",
       "name_is": "YFIRSTRAUMUR I>>",
       "name_en": "OVERCURRENT I>>",
@@ -1336,7 +1348,7 @@
     },
     {
       "id": "e7d1cda8-e70d-4916-a180-2c69bea3287c",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "OC2.Tr",
       "name_is": "YFIRSTRAUMUR I>>",
       "name_en": "OVERCURRENT I>>",
@@ -1376,7 +1388,7 @@
     },
     {
       "id": "dd834b2d-3426-46ad-a0d7-18963dbe8782",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "OC3.St",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
@@ -1409,7 +1421,7 @@
     },
     {
       "id": "ad015d66-1819-4d29-8022-e77e169b5673",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "OC3.Tr",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
@@ -1446,7 +1458,7 @@
     },
     {
       "id": "2bc75464-c7a8-42bb-aef5-0dc437346997",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "EF.ST1",
       "name_is": "JARÐSTR.VÖRN IN >",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1490,7 +1502,7 @@
     },
     {
       "id": "36f81a2f-8509-40a7-80a8-19c093c30359",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "EF.TR1",
       "name_is": "JARÐSTR.VÖRN IN >",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1531,7 +1543,7 @@
     },
     {
       "id": "82dc7643-4e58-4624-b37f-c109a10fb987",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "EF.ST2",
       "name_is": "JARÐSTR.VÖRN IN >>",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1575,7 +1587,7 @@
     },
     {
       "id": "ac50c571-7cfc-470a-a63f-41908e64ea60",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "EF.TR2",
       "name_is": "JARÐSTR.VÖRN IN >>",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1619,7 +1631,7 @@
     },
     {
       "id": "5b3098ee-6d2a-4b57-98f6-b1b97b937a83",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "CAPACITORBANK.ST",
       "name_is": "Þéttavörn",
       "name_en": "Capacitor bank protection",
@@ -1663,7 +1675,7 @@
     },
     {
       "id": "baff362e-110e-4979-888e-10b9e5e5da8d",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "CAPACITORBANK.TR",
       "name_is": "Þettavörn",
       "name_en": "Capacitor bank protection",
@@ -1707,7 +1719,7 @@
     },
     {
       "id": "5d5caaa4-ad87-47d9-9e99-d44674a7a6bd",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C02",
       "signal_name": "BRFP.Tr",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION",
@@ -1749,7 +1761,7 @@
     },
     {
       "id": "d3413a56-a739-4064-922b-87136060bd4e",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "BRFP.LOC",
       "name_is": "AFLROFAVÖRN",
       "name_en": "BREAKER FAILURE PROT LOCKOUT",
@@ -1790,7 +1802,7 @@
     },
     {
       "id": "16ba4c65-1c2c-49f8-896b-138fe3d5533c",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "BRFP.IA",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION INACTIVE",
@@ -1824,7 +1836,7 @@
     },
     {
       "id": "5dcbaa86-b691-4742-a18f-35cb7c21e708",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "Health",
       "name_is": "VÖKTUN BÚNAÐAR",
       "name_en": "EQUIPMENT INTERNAL WARNING, LLN0 HEALTH",
@@ -1870,7 +1882,7 @@
     },
     {
       "id": "e6de8909-9644-425a-bd5b-7d707d890a20",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -1910,7 +1922,7 @@
     },
     {
       "id": "04f0ba08-42df-4267-9024-4a5a6e47e482",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "PPV.phsA",
       "name_is": "SPENNA U12",
       "name_en": "VOLTAGE U12",
@@ -1944,7 +1956,7 @@
     },
     {
       "id": "28210ab7-3375-4c56-a610-b17ba24b67e4",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "PPV.phsB",
       "name_is": "SPENNA U23",
       "name_en": "VOLTAGE U23",
@@ -1978,7 +1990,7 @@
     },
     {
       "id": "122f6793-efb4-4af2-99f3-73b37c31ea78",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "PPV.phsC",
       "name_is": "SPENNA U31",
       "name_en": "VOLTAGE U31",
@@ -2011,7 +2023,7 @@
     },
     {
       "id": "9e1e7505-67b5-4f6a-8e35-9f3fae83e4a5",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "A.phsA",
       "name_is": "STRAUMUR L1",
       "name_en": "CURRENT MEASUREMENT L1",
@@ -2044,7 +2056,7 @@
     },
     {
       "id": "f2e4c0cb-2b0c-4e9b-ac52-54dd68579f5a",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "A.phsB",
       "name_is": "STRAUMUR L2",
       "name_en": "CURRENT MEASUREMENT L2",
@@ -2077,7 +2089,7 @@
     },
     {
       "id": "0cc7847e-e1b9-4c54-84bc-27f69ab762cf",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "A.phsC",
       "name_is": "STRAUMUR L3",
       "name_en": "CURRENT MEASUREMENT L3",
@@ -2110,7 +2122,7 @@
     },
     {
       "id": "b70fffb1-93d7-49a2-a521-d711f0016b4b",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "Watt",
       "name_is": "RAUNAFL",
       "name_en": "ACTIVE POWER",
@@ -2143,7 +2155,7 @@
     },
     {
       "id": "a82e7af8-b2d0-4c8f-91b2-60490f4344f4",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "VolAmpr",
       "name_is": "LAUNAFL",
       "name_en": "REACTIVE POWER",
@@ -2176,7 +2188,7 @@
     },
     {
       "id": "46700c4b-a71a-470a-94a1-990e1399a412",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "VolAmp",
       "name_is": "SÝNDARAFL",
       "name_en": "APPARENT POWER",
@@ -2209,7 +2221,7 @@
     },
     {
       "id": "122460e7-49ae-4268-9bcc-f6f64b2e4340",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "Hz",
       "name_is": "TÍÐNI",
       "name_en": "FREQUENCY",
@@ -2242,7 +2254,7 @@
     },
     {
       "id": "439c96c8-50bd-404f-8f49-ae265c7d4b01",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "SupWh",
       "name_is": "RAUNORKA INN",
       "name_en": "REAL ENERGY SUPPLY",
@@ -2275,7 +2287,7 @@
     },
     {
       "id": "cc7859cd-efbd-44a7-8778-e2073cc87bf2",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "DmdWh",
       "name_is": "RAUNORKA ÚT",
       "name_en": "REAL ENERGY DEMAND",
@@ -2308,7 +2320,7 @@
     },
     {
       "id": "86ac786b-b14b-4c18-806e-f1f2687efb2d",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "SupVArh",
       "name_is": "LAUNORKA INN",
       "name_en": "REACTIVE ENERGY SUPPLY",
@@ -2341,7 +2353,7 @@
     },
     {
       "id": "a076685b-2148-4db7-acb7-1b4edbdbe80a",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "DmdVArh",
       "name_is": "LAUNORKA ÚT",
       "name_en": "REACTIVE ENERGY DEMAND",
@@ -2946,7 +2958,7 @@
     },
     {
       "id": "193f0058-cf7c-4a8b-9c30-ece381effe93",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C02",
       "signal_name": "TestSock.Ins",
       "name_is": "PRÓFUNARGREIÐA",
       "name_en": "TEST SOCKET INSERTED",
@@ -2995,7 +3007,7 @@
       "name_is": "BÚNAÐUR IRF",
       "name_en": "EQUIPMENT IRF",
       "state_id": "OkFailure",
-      "iec61850_ied": "F2540C02",
+      "iec61850_ied": "F2540C03",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "4",
       "iec61850_rcb": "rStat",
@@ -3034,7 +3046,7 @@
     },
     {
       "id": "dd8d5f05-4e1f-4b58-8e43-3167ca78fc2f",
-      "equipment_code": "+R",
+      "equipment_code": "F2540C02",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
