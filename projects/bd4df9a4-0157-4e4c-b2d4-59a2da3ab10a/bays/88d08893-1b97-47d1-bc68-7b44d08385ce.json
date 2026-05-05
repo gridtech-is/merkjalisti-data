@@ -1653,7 +1653,7 @@
     },
     {
       "id": "9214c7fa-9978-4f5c-b261-d69d9a298dab",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "PPV.phsA",
       "name_is": "SPENNA U12",
       "name_en": "VOLTAGE U12",
@@ -1687,7 +1687,7 @@
     },
     {
       "id": "0c6b9a3a-ab86-4a61-a71f-ad990c4b6d4f",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "PPV.phsB",
       "name_is": "SPENNA U23",
       "name_en": "VOLTAGE U23",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "3bb1e50a-ed80-4036-afb6-513b10994182",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "PPV.phsC",
       "name_is": "SPENNA U31",
       "name_en": "VOLTAGE U31",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "3d539103-136c-402a-911f-6fa665b2c7f0",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "A.phsA",
       "name_is": "STRAUMUR L1",
       "name_en": "CURRENT MEASUREMENT L1",
@@ -1787,7 +1787,7 @@
     },
     {
       "id": "bd1ca5c4-ddba-4d15-8aa3-a2e460f58dc8",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "A.phsB",
       "name_is": "STRAUMUR L2",
       "name_en": "CURRENT MEASUREMENT L2",
@@ -1820,7 +1820,7 @@
     },
     {
       "id": "d47a48a1-f32b-47e8-9466-3dcad3bb1d2c",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "A.phsC",
       "name_is": "STRAUMUR L3",
       "name_en": "CURRENT MEASUREMENT L3",
@@ -1853,7 +1853,7 @@
     },
     {
       "id": "990a97f9-0ba1-495c-b3fc-76aff07b57c9",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "Watt",
       "name_is": "RAUNAFL",
       "name_en": "ACTIVE POWER",
@@ -1886,7 +1886,7 @@
     },
     {
       "id": "6865cbfc-4756-4834-814b-ad690fca8df4",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "VolAmpr",
       "name_is": "LAUNAFL",
       "name_en": "REACTIVE POWER",
@@ -1919,7 +1919,7 @@
     },
     {
       "id": "02f7889b-8550-40ba-aceb-1b90d2c6092f",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "VolAmp",
       "name_is": "SÝNDARAFL",
       "name_en": "APPARENT POWER",
@@ -1952,7 +1952,7 @@
     },
     {
       "id": "3ee9843a-bf3b-401e-aaef-7ea60cb9705e",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "Hz",
       "name_is": "TÍÐNI",
       "name_en": "FREQUENCY",
@@ -1985,7 +1985,7 @@
     },
     {
       "id": "15299052-fd76-4470-be67-f703c294da32",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "SupWh",
       "name_is": "RAUNORKA INN",
       "name_en": "REAL ENERGY SUPPLY",
@@ -2018,7 +2018,7 @@
     },
     {
       "id": "35416a3c-06a5-4447-a380-a9fb0350004c",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "DmdWh",
       "name_is": "RAUNORKA ÚT",
       "name_en": "REAL ENERGY DEMAND",
@@ -2052,7 +2052,7 @@
     },
     {
       "id": "0548bf24-d6c5-46fe-bb05-05196c6e8ce4",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "SupVArh",
       "name_is": "LAUNORKA INN",
       "name_en": "REACTIVE ENERGY SUPPLY",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "c7da5e64-fd15-4c0e-8436-4c6118a19316",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "DmdVArh",
       "name_is": "LAUNORKA ÚT",
       "name_en": "REACTIVE ENERGY DEMAND",
