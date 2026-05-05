@@ -1229,7 +1229,7 @@
     },
     {
       "id": "6b4f4e33-d5d9-49dd-8c7a-215367557c40",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC1.St",
       "name_is": "YFIRSTRAUMUR I>",
       "name_en": "OVERCURRENT I>",
@@ -1304,7 +1304,7 @@
     },
     {
       "id": "4b0a7d46-0b9c-4317-aa37-4139750be15d",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC2.St",
       "name_is": "YFIRSTRAUMUR I>>",
       "name_en": "OVERCURRENT I>>",
@@ -1337,7 +1337,7 @@
     },
     {
       "id": "bbc6fb38-03c1-4978-9145-eb44cd1496f6",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC2.Tr",
       "name_is": "YFIRSTRAUMUR I>>",
       "name_en": "OVERCURRENT I>>",
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "c8cf8af3-1069-4bc2-be7a-b9acebef5734",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC3.St",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "24d33711-8ab0-4ced-acd5-c54c09a3fe5d",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC3.Tr",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
