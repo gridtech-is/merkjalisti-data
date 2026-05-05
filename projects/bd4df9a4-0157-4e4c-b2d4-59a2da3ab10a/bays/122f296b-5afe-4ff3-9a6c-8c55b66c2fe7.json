@@ -46,7 +46,7 @@
           "alarm_class": 1
         }
       },
-      "group_label": "Afrofi Q0",
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Pos",
       "iec61850_da": "stVal",
@@ -87,7 +87,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Pos",
       "iec61850_da": "Oper.ctlVal"
     },
@@ -116,7 +116,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_ln_inst": "1",
       "iec61850_ln_prefix": "S",
       "iec61850_do": "EnaOpn",
@@ -157,7 +157,8 @@
       "iec61850_da": "stVal",
       "iec61850_ln_inst": "1",
       "iec61850_do": "EnaCls",
-      "iec61850_rcb": "rEv"
+      "iec61850_rcb": "rEv",
+      "group_label": "CIRCUIT BREAKER"
     },
     {
       "id": "2bb04171-3fc6-4403-bd00-56fe0e04627b",
@@ -199,7 +200,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -248,7 +249,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -292,7 +293,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -336,7 +337,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -380,7 +381,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -424,7 +425,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -468,7 +469,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "CIRCUIT BREAKER",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
