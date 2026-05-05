@@ -1943,7 +1943,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "PROTECTION",
+      "group_label": "MEASUREMENT",
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsAB",
@@ -1977,7 +1977,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "PROTECTION",
+      "group_label": "MEASUREMENT",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
       "iec61850_ln_prefix": "V",
@@ -2018,7 +2018,7 @@
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsCA",
       "iec61850_cdc": "CMV",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "435a1849-43a1-4a44-ac93-8c2b9d3ce8d3",
@@ -2052,7 +2052,7 @@
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
       "iec61850_cdc": "CMV",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "0bc4356a-5e7b-4783-a76d-f4321f9ee42f",
@@ -2086,7 +2086,7 @@
       "iec61850_ln_inst": "1",
       "iec61850_cdc": "CMV",
       "iec61850_do": "A.phsB",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "f5db4c87-deed-4c7e-8778-d7b6f8ffc3f4",
@@ -2120,7 +2120,7 @@
       "iec61850_ln_prefix": "C",
       "iec61850_do": "A.phsC",
       "iec61850_cdc": "CMV",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "e2eb4d59-8808-4b17-97a9-5816a6b36e9e",
@@ -2154,7 +2154,7 @@
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
       "iec61850_ln_inst": "1",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "56aa7b10-70dc-4848-aac0-c4a894027ae9",
@@ -2188,7 +2188,7 @@
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
       "iec61850_cdc": "MV",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "57e6333d-5077-4316-80c2-801696db315c",
@@ -2222,7 +2222,7 @@
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
       "iec61850_ln_inst": "1",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "ccefbc34-2296-45cf-8054-45b631f9257d",
@@ -2256,7 +2256,7 @@
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
       "iec61850_ln_inst": "1",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "2aa56c66-d360-4cb1-b8bb-184d5058d028",
@@ -2290,7 +2290,7 @@
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
       "iec61850_ln_inst": "1",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "c15f7f83-def6-47f3-a092-fcf2e79770f8",
@@ -2324,7 +2324,7 @@
       "iec61850_do": "WsAccRev",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "5d218e68-9b4a-432d-b8d2-de3fbbddcc5d",
@@ -2358,7 +2358,7 @@
       "iec61850_do": "VArsAccFwd",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "3acc5c8f-be00-4177-8209-e33bb2dc502d",
@@ -2392,7 +2392,7 @@
       "iec61850_ln_inst": "1",
       "iec61850_do": "VArsAccRev",
       "iec61850_cdc": "MV",
-      "group_label": "PROTECTION"
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "669d1205-61ad-4b0d-aa48-2d7c14f08303",
