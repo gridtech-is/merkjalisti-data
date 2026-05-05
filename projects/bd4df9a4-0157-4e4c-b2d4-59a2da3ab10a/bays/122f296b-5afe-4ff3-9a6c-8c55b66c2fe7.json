@@ -2968,7 +2968,7 @@
     },
     {
       "id": "6925bb64-48a9-4dbd-ad04-3804822faff2",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C13",
       "signal_name": "TestSock.Ins",
       "name_is": "PRÓFUNARGREIÐA",
       "name_en": "TEST SOCKET INSERTED",
@@ -3006,7 +3006,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "önnurmerki",
+      "group_label": "PROTECTION",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
