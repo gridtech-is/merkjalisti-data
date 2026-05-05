@@ -12796,5 +12796,19 @@
     "comment": "group_label breytt",
     "id": "b377540c-64f9-4f6a-828a-cc7384290b54",
     "timestamp": "2026-05-05T16:53:15.417Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "788d2e80-8b1c-4067-9fe2-1408b5823b8d",
+    "target_type": "signal",
+    "target_parent_id": "122f296b-5afe-4ff3-9a6c-8c55b66c2fe7",
+    "field": "group_label",
+    "old_value": null,
+    "new_value": "CIRCUIT BREAKER",
+    "comment": "group_label breytt",
+    "id": "b7253d63-fa78-4fca-a7ad-b7242f38ccb1",
+    "timestamp": "2026-05-05T16:53:28.213Z"
   }
 ]
