@@ -1942,7 +1942,14 @@
       "iec61850_ln_inst": "1",
       "iec61850_da": "stVal",
       "iec61850_do": "Beh",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      }
     },
     {
       "id": "5dcbaa86-b691-4742-a18f-35cb7c21e708",
