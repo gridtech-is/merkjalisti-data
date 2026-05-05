@@ -1450,7 +1450,7 @@
     },
     {
       "id": "df0a8941-7446-4a0e-aa9f-3e191f28bf47",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "BRFP.Tr",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION",
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "b2b99b00-02ba-4557-a85f-083769239439",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "BRFP.LOC",
       "name_is": "AFLROFAVÖRN",
       "name_en": "BREAKER FAILURE PROT LOCKOUT",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": "932d7913-4510-4e04-8c0b-3e8eb3bdb470",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "Health",
       "name_is": "VÖKTUN BÚNAÐAR",
       "name_en": "EQUIPMENT INTERNAL WARNING, LLN0 HEALTH",
@@ -1613,7 +1613,7 @@
     },
     {
       "id": "c0129cd3-9d60-4261-9597-94b6d1e32991",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
