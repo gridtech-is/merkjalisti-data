@@ -1190,7 +1190,7 @@
     },
     {
       "id": "40845368-8198-42cd-a627-3230aa96a0e4",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "GenTrip3Ph",
       "name_is": "VÖRN",
       "name_en": "PROTECTION",
@@ -1213,7 +1213,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Vörn Trip",
+      "group_label": "PROTECTION",
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -1231,7 +1231,7 @@
     },
     {
       "id": "f6568649-b36e-44ad-bcb9-418a44c651e1",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC1.St",
       "name_is": "YFIRSTRAUMUR I>",
       "name_en": "OVERCURRENT I>",
@@ -1254,7 +1254,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Yfirstraumur",
+      "group_label": "PROTECTION",
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Str",
@@ -1265,7 +1265,7 @@
     },
     {
       "id": "24f4184c-08eb-440d-9033-53ed9fec05f5",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC1.Tr",
       "name_is": "YFIRSTRAUMUR I>",
       "name_en": "OVERCURRENT I>",
@@ -1288,7 +1288,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "710ad078-f482-41c9-9756-2badb03c9de9",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC2.St",
       "name_is": "YFIRSTRAUMUR I>>",
       "name_en": "OVERCURRENT I>>",
@@ -1335,11 +1335,12 @@
       "iec61850_da": "general",
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "41ba0b53-bda7-4b08-9104-61d67e9b6fdc",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC2.Tr",
       "name_is": "YFIRSTRAUMUR I>>",
       "name_en": "OVERCURRENT I>>",
@@ -1375,11 +1376,12 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "iec61850_do": "Op"
+      "iec61850_do": "Op",
+      "group_label": "PROTECTION"
     },
     {
       "id": "f2012507-fe8e-498b-955d-7b93e40cb2bc",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC3.St",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
@@ -1408,11 +1410,12 @@
       "iec61850_da": "general",
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "cd540278-9c4b-42ac-8554-1f39eaf2c1a2",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "OC3.Tr",
       "name_is": "YFIRSTRAUMUR I>>>",
       "name_en": "OVERCURRENT I>>>",
@@ -1442,14 +1445,14 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "group_label": null,
+      "group_label": "PROTECTION",
       "fat_result": null,
       "sat_result": null,
       "library_id": "05269756-33ba-49b5-aacc-29b93e6ee1dc"
     },
     {
       "id": "e0104d2e-96aa-4cc2-af06-9a58c0002452",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "EF.ST1",
       "name_is": "JARÐSTR.VÖRN IN >",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1486,14 +1489,14 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "group_label": null,
+      "group_label": "PROTECTION",
       "fat_result": null,
       "sat_result": null,
       "library_id": "60e4d1da-f174-4975-aa87-f2094f19e649"
     },
     {
       "id": "4112962c-887c-4206-8d44-3d51ee3e3cfe",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "EF.TR1",
       "name_is": "JARÐSTR.VÖRN IN >",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1530,11 +1533,12 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "library_id": "a54d5e78-1b1a-4cbd-88ba-4023730ad6bf"
+      "library_id": "a54d5e78-1b1a-4cbd-88ba-4023730ad6bf",
+      "group_label": "PROTECTION"
     },
     {
       "id": "d21eafea-f36a-42a3-ad05-31cb49e148c2",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "EF.ST2",
       "name_is": "JARÐSTR.VÖRN IN >>",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1571,14 +1575,14 @@
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "group_label": null,
+      "group_label": "PROTECTION",
       "fat_result": null,
       "sat_result": null,
       "library_id": "867f305b-974b-4704-9612-d475e4b013f4"
     },
     {
       "id": "187acfbd-f07b-4208-bb4d-0993c9661e13",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "EF.TR2",
       "name_is": "JARÐSTR.VÖRN IN >>",
       "name_en": "EARTH FAULT PROTECTION",
@@ -1615,14 +1619,14 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "group_label": null,
+      "group_label": "PROTECTION",
       "fat_result": null,
       "sat_result": null,
       "library_id": "51d33821-507f-4e7f-a348-90a349fd8989"
     },
     {
       "id": "b9a0caef-8e99-4ce8-9914-8c058c88f575",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "CAPACITORBANK.ST",
       "name_is": "Þéttavörn",
       "name_en": "Capacitor bank protection",
@@ -1659,14 +1663,14 @@
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "group_label": null,
+      "group_label": "PROTECTION",
       "fat_result": null,
       "sat_result": null,
       "library_id": "6efc5ccf-7bb5-473f-b184-2df40cea1489"
     },
     {
       "id": "12d950a8-cabf-45df-bf35-7d51731076ba",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "CAPACITORBANK.TR",
       "name_is": "Þettavörn",
       "name_en": "Capacitor bank protection",
@@ -1703,14 +1707,14 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "group_label": null,
+      "group_label": "PROTECTION",
       "fat_result": null,
       "sat_result": null,
       "library_id": "37ebb3ea-74d3-4a45-a3aa-c918a89085b3"
     },
     {
       "id": "f8c9349a-f097-4051-8cf0-395a4bde79ce",
-      "equipment_code": "F2540A01",
+      "equipment_code": "F2540C01",
       "signal_name": "BRFP.Tr",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION",
@@ -1733,7 +1737,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Brker Failure",
+      "group_label": "PROTECTION",
       "library_id": "2549483d-eedd-4dc8-bcdf-87f4ab6242fe",
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
@@ -1752,7 +1756,7 @@
     },
     {
       "id": "594a2c80-b196-42f5-85fd-9ceec27dd367",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "BRFP.LOC",
       "name_is": "AFLROFAVÖRN",
       "name_en": "BREAKER FAILURE PROT LOCKOUT",
@@ -1789,11 +1793,12 @@
       "iec61850_ln_inst": "1",
       "iec61850_da": "stVal",
       "iec61850_do": "ClsLO",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "8e107cd5-5941-40c6-955f-31c81b02d0c3",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "BRFP.IA",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION INACTIVE",
@@ -1823,11 +1828,12 @@
       "iec61850_ln_inst": "1",
       "iec61850_da": "stVal",
       "iec61850_do": "Beh",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "ca5569cd-f044-4b1f-a8a5-7f39d3d0fc50",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "Health",
       "name_is": "VÖKTUN BÚNAÐAR",
       "name_en": "EQUIPMENT INTERNAL WARNING, LLN0 HEALTH",
@@ -1850,7 +1856,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Vörn",
+      "group_label": "PROTECTION",
       "state_alarm_map": {
         "10": {
           "is_alarm": true,
@@ -1873,7 +1879,7 @@
     },
     {
       "id": "84e70075-46b6-4bf0-b293-2ad0a2a7e210",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540C01",
       "signal_name": "BAY.LocKey",
       "name_is": "REITARSTÝRING",
       "name_en": "LCC LOCAL/REMOTE",
@@ -1909,7 +1915,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Ev",
       "iec61850_rcb": "rEv",
-      "iec61850_cdc": "SPS"
+      "iec61850_cdc": "SPS",
+      "group_label": "PROTECTION"
     },
     {
       "id": "f6b161e4-5f97-4b59-8810-228f68c9d92d",
@@ -1918,7 +1925,7 @@
       "name_is": "SPENNA U12",
       "name_en": "VOLTAGE U12",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
@@ -1936,7 +1943,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Mælingar",
+      "group_label": "PROTECTION",
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsAB",
@@ -1952,7 +1959,7 @@
       "name_is": "SPENNA U23",
       "name_en": "VOLTAGE U23",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
@@ -1970,7 +1977,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
       "iec61850_ln_prefix": "V",
@@ -1986,7 +1993,7 @@
       "name_is": "SPENNA U31",
       "name_en": "VOLTAGE U31",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
@@ -2010,7 +2017,8 @@
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsCA",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "group_label": "PROTECTION"
     },
     {
       "id": "435a1849-43a1-4a44-ac93-8c2b9d3ce8d3",
@@ -2019,7 +2027,7 @@
       "name_is": "STRAUMUR L1",
       "name_en": "CURRENT MEASUREMENT L1",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
@@ -2043,7 +2051,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "group_label": "PROTECTION"
     },
     {
       "id": "0bc4356a-5e7b-4783-a76d-f4321f9ee42f",
@@ -2052,7 +2061,7 @@
       "name_is": "STRAUMUR L2",
       "name_en": "CURRENT MEASUREMENT L2",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
@@ -2076,7 +2085,8 @@
       "iec61850_ln_prefix": "C",
       "iec61850_ln_inst": "1",
       "iec61850_cdc": "CMV",
-      "iec61850_do": "A.phsB"
+      "iec61850_do": "A.phsB",
+      "group_label": "PROTECTION"
     },
     {
       "id": "f5db4c87-deed-4c7e-8778-d7b6f8ffc3f4",
@@ -2085,7 +2095,7 @@
       "name_is": "STRAUMUR L3",
       "name_en": "CURRENT MEASUREMENT L3",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXU",
       "iec61850_do_da": null,
@@ -2109,7 +2119,8 @@
       "iec61850_da": "cVal.mag.f",
       "iec61850_ln_prefix": "C",
       "iec61850_do": "A.phsC",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "group_label": "PROTECTION"
     },
     {
       "id": "e2eb4d59-8808-4b17-97a9-5816a6b36e9e",
@@ -2118,7 +2129,7 @@
       "name_is": "RAUNAFL",
       "name_en": "ACTIVE POWER",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
@@ -2142,7 +2153,8 @@
       "iec61850_do": "Watt",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "PROTECTION"
     },
     {
       "id": "56aa7b10-70dc-4848-aac0-c4a894027ae9",
@@ -2151,7 +2163,7 @@
       "name_is": "LAUNAFL",
       "name_en": "REACTIVE POWER",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
@@ -2175,7 +2187,8 @@
       "iec61850_da": "mag.f",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_cdc": "MV"
+      "iec61850_cdc": "MV",
+      "group_label": "PROTECTION"
     },
     {
       "id": "57e6333d-5077-4316-80c2-801696db315c",
@@ -2184,7 +2197,7 @@
       "name_is": "SÝNDARAFL",
       "name_en": "APPARENT POWER",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
@@ -2208,7 +2221,8 @@
       "iec61850_do": "VolAmpr",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "PROTECTION"
     },
     {
       "id": "ccefbc34-2296-45cf-8054-45b631f9257d",
@@ -2217,7 +2231,7 @@
       "name_is": "TÍÐNI",
       "name_en": "FREQUENCY",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMXN",
       "iec61850_do_da": null,
@@ -2241,7 +2255,8 @@
       "iec61850_do": "Hz",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "PROTECTION"
     },
     {
       "id": "2aa56c66-d360-4cb1-b8bb-184d5058d028",
@@ -2250,7 +2265,7 @@
       "name_is": "RAUNORKA INN",
       "name_en": "REAL ENERGY SUPPLY",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMTR",
       "iec61850_do_da": null,
@@ -2274,7 +2289,8 @@
       "iec61850_do": "WsAccFwd",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "PROTECTION"
     },
     {
       "id": "c15f7f83-def6-47f3-a092-fcf2e79770f8",
@@ -2283,7 +2299,7 @@
       "name_is": "RAUNORKA ÚT",
       "name_en": "REAL ENERGY DEMAND",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMTR",
       "iec61850_do_da": null,
@@ -2307,7 +2323,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_do": "WsAccRev",
       "iec61850_cdc": "MV",
-      "iec61850_da": "mag.f"
+      "iec61850_da": "mag.f",
+      "group_label": "PROTECTION"
     },
     {
       "id": "5d218e68-9b4a-432d-b8d2-de3fbbddcc5d",
@@ -2316,7 +2333,7 @@
       "name_is": "LAUNORKA INN",
       "name_en": "REACTIVE ENERGY SUPPLY",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMTR",
       "iec61850_do_da": null,
@@ -2340,7 +2357,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_do": "VArsAccFwd",
       "iec61850_cdc": "MV",
-      "iec61850_da": "mag.f"
+      "iec61850_da": "mag.f",
+      "group_label": "PROTECTION"
     },
     {
       "id": "3acc5c8f-be00-4177-8209-e33bb2dc502d",
@@ -2349,7 +2367,7 @@
       "name_is": "LAUNORKA ÚT",
       "name_en": "REACTIVE ENERGY DEMAND",
       "state_id": "MEAS",
-      "iec61850_ied": "F2540C13",
+      "iec61850_ied": "F2540C01",
       "iec61850_ld": "LD0",
       "iec61850_ln": "MMTR",
       "iec61850_do_da": null,
@@ -2373,7 +2391,8 @@
       "iec61850_ln_prefix": "ETP",
       "iec61850_ln_inst": "1",
       "iec61850_do": "VArsAccRev",
-      "iec61850_cdc": "MV"
+      "iec61850_cdc": "MV",
+      "group_label": "PROTECTION"
     },
     {
       "id": "669d1205-61ad-4b0d-aa48-2d7c14f08303",
