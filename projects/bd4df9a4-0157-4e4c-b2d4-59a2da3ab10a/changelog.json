@@ -12824,5 +12824,19 @@
     "comment": "group_label breytt",
     "id": "fb74a96d-6d08-4986-a51c-f92c746c0a33",
     "timestamp": "2026-05-05T16:53:50.423Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "7e42c742-e179-4a34-888c-6ec3213f11d0",
+    "target_type": "signal",
+    "target_parent_id": "122f296b-5afe-4ff3-9a6c-8c55b66c2fe7",
+    "field": "group_label",
+    "old_value": "Skilrofi Q2",
+    "new_value": "DISCONNECTOR",
+    "comment": "group_label breytt",
+    "id": "a264a4cd-4c62-480d-9f4c-2a5ac32721cc",
+    "timestamp": "2026-05-05T17:07:28.902Z"
   }
 ]
