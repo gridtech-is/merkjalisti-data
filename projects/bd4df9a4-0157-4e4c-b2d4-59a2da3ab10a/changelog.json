@@ -12152,5 +12152,19 @@
     "comment": "Merki eytt (block): GAS.INSALM2",
     "id": "9c92270c-4510-4c97-9b4c-7b44fe776c3d",
     "timestamp": "2026-05-05T11:57:07.583Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "932d7913-4510-4e04-8c0b-3e8eb3bdb470",
+    "target_type": "signal",
+    "target_parent_id": "88d08893-1b97-47d1-bc68-7b44d08385ce",
+    "field": "equipment_code",
+    "old_value": "F240C01",
+    "new_value": "F2540C01",
+    "comment": "equipment_code breytt",
+    "id": "75701018-3ed9-45bb-b084-2b116a6ad044",
+    "timestamp": "2026-05-05T12:00:34.962Z"
   }
 ]
