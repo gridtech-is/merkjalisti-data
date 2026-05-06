@@ -13104,5 +13104,19 @@
     "comment": "group_label breytt",
     "id": "6cd155b9-c795-4804-8a96-edce3bc9f13f",
     "timestamp": "2026-05-06T13:08:01.104Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "3393dd41-9425-4f5a-9520-f5b274c465c2",
+    "target_type": "signal",
+    "target_parent_id": "490ac131-0a6c-4672-ae57-a9464f706fee",
+    "field": "group_label",
+    "old_value": "Jarðrofi Q8",
+    "new_value": "EARTHING SWITCH",
+    "comment": "group_label breytt",
+    "id": "e02eeb75-cfe0-46a9-8a40-016da118c6e6",
+    "timestamp": "2026-05-06T13:08:24.109Z"
   }
 ]
