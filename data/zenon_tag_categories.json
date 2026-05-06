@@ -52,5 +52,11 @@
     "key": "MCB",
     "name_is": "VAR",
     "name_en": "MCB"
+  },
+  {
+    "id": "c55ba590-1db1-4060-85a8-da85cf780325",
+    "key": "SWITCHSYNC",
+    "name_is": "INNSETNINGARLIÐI",
+    "name_en": "SWITCHSYNC"
   }
 ]
