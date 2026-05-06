@@ -46,5 +46,11 @@
     "key": "@SF6 GAS",
     "name_is": "SF6 GAS",
     "name_en": "SF6 GAS"
+  },
+  {
+    "id": "73fda54b-e34d-475c-a96c-0f6813f736cd",
+    "key": "@MCB",
+    "name_is": "VAR",
+    "name_en": "MCB"
   }
 ]
