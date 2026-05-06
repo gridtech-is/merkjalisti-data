@@ -1,9 +1,9 @@
 [
-  { "id": "cat-protection",     "key": "PROTECTION",     "name_is": "Vörn" },
-  { "id": "cat-measurement",    "key": "MEASUREMENT",    "name_is": "Mæligildi" },
-  { "id": "cat-circuit-breaker","key": "CIRCUIT BREAKER","name_is": "Aflrofi" },
-  { "id": "cat-disconnector",   "key": "DISCONNECTOR",   "name_is": "Skilrofi" },
-  { "id": "cat-earthing-switch","key": "EARTHING SWITCH","name_is": "Jarðrofi" },
-  { "id": "cat-local-remote",   "key": "LOCAL/REMOTE",   "name_is": "Staðbundið/Fjartengt" },
-  { "id": "cat-network",        "key": "NETWORK",        "name_is": "Net" }
+  { "id": "cat-protection",     "key": "PROTECTION",     "name_is": "Vörn",                     "name_en": "Protection" },
+  { "id": "cat-measurement",    "key": "MEASUREMENT",    "name_is": "Mæligildi",                "name_en": "Measurement" },
+  { "id": "cat-circuit-breaker","key": "CIRCUIT BREAKER","name_is": "Aflrofi",                  "name_en": "Circuit Breaker" },
+  { "id": "cat-disconnector",   "key": "DISCONNECTOR",   "name_is": "Skilrofi",                 "name_en": "Disconnector" },
+  { "id": "cat-earthing-switch","key": "EARTHING SWITCH","name_is": "Jarðrofi",                 "name_en": "Earthing Switch" },
+  { "id": "cat-local-remote",   "key": "LOCAL/REMOTE",   "name_is": "Staðbundið/Fjartengt",    "name_en": "Local/Remote" },
+  { "id": "cat-network",        "key": "NETWORK",        "name_is": "Net",                      "name_en": "Network" }
 ]
