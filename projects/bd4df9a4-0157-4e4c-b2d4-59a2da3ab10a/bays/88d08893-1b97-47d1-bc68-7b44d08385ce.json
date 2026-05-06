@@ -2528,7 +2528,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "MBC",
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2572,7 +2572,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2616,7 +2616,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2660,7 +2660,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2704,7 +2704,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "önnurmerki",
+      "group_label": "PROTECTION",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2748,7 +2748,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2792,7 +2792,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2836,7 +2836,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "SWITCHSYNC"
     },
     {
       "id": "6d7b4bc4-ca5c-4da7-812a-fe9898109148",
@@ -2860,7 +2861,13 @@
       "library_id": "512d54ab-01b4-415d-b6a5-03666927f7b6",
       "is_alarm": false,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2872,7 +2879,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     },
     {
       "id": "7ecc6f23-1d99-472b-b023-4e9a945b2479",
@@ -2896,7 +2904,18 @@
       "library_id": "4af87d86-3ebc-4756-ba1e-10cf219ac250",
       "is_alarm": true,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "00": {
+          "is_alarm": false,
+          "is_event": false,
+          "alarm_class": null
+        },
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2908,7 +2927,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     }
   ],
   "status": "DRAFT",
