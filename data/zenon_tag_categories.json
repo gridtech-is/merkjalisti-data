@@ -58,5 +58,11 @@
     "key": "SWITCHSYNC",
     "name_is": "INNSETNINGARLIÐI",
     "name_en": "SWITCHSYNC"
+  },
+  {
+    "id": "4a332889-b8c4-4ad4-912a-37052ba08e70",
+    "key": "MCCB",
+    "name_is": "MCCB",
+    "name_en": "MCCB"
   }
 ]
