@@ -13118,5 +13118,19 @@
     "comment": "group_label breytt",
     "id": "e02eeb75-cfe0-46a9-8a40-016da118c6e6",
     "timestamp": "2026-05-06T13:08:24.109Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "b4ccb9db-7027-4770-ae9e-4908acc49364",
+    "target_type": "signal",
+    "target_parent_id": "490ac131-0a6c-4672-ae57-a9464f706fee",
+    "field": "group_label",
+    "old_value": "Vörn Trip",
+    "new_value": "PROTECTION",
+    "comment": "group_label breytt",
+    "id": "884f43f8-ff91-45a8-af88-2adb00dc129b",
+    "timestamp": "2026-05-06T13:08:35.754Z"
   }
 ]
