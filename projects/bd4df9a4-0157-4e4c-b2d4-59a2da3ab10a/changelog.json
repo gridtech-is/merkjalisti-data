@@ -14432,5 +14432,19 @@
     "comment": "Merki eytt: dis",
     "id": "e6e4428e-378d-4376-8928-1b58b7e2e2c0",
     "timestamp": "2026-05-07T15:52:17.514Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "209e46c7-0df7-4455-a23e-af93ea5f52d0",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "equipment_code",
+    "old_value": "VT BUS 2",
+    "new_value": "F3040A01",
+    "comment": "equipment_code breytt",
+    "id": "62bfe066-8fe7-4b65-978a-5d085c61a0d7",
+    "timestamp": "2026-05-07T15:52:27.184Z"
   }
 ]
