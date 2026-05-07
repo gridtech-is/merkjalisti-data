@@ -1127,5 +1127,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "a3ad482c-9c76-4b4c-9fe3-7bf8f7959ddd",
+    "category": "apparatus",
+    "code": "VT BUS 2",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
