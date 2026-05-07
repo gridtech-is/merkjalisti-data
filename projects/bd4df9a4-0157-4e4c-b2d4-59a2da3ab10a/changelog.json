@@ -14021,5 +14021,18 @@
     "comment": "Merki bætt við: Rmt.Tr.Out í 40A43",
     "id": "33484691-30d6-4ad0-9865-69870dd1e6a8",
     "timestamp": "2026-05-07T14:40:57.016Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "b7865d21-6e4f-4e5d-8f1e-c64ac03436ab",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "Q0_OILTMP.HiAlm",
+    "comment": "Merki bætt við: OILTMP.HiAlm í 40A43",
+    "id": "b1f449e2-32be-4a13-bd0f-3ba56ce104f1",
+    "timestamp": "2026-05-07T15:08:19.861Z"
   }
 ]
