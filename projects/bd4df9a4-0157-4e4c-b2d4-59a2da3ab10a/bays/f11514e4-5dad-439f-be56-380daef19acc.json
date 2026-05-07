@@ -784,7 +784,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Vörn Trip",
+      "group_label": "PROTECTION",
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -825,7 +825,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Yfirstraumur",
+      "group_label": "PROTECTION",
       "iec61850_ln_prefix": "OC4",
       "iec61850_ln_inst": "1",
       "iec61850_do": "Str",
@@ -859,7 +859,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -906,7 +906,8 @@
       "iec61850_da": "general",
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "7aab28dc-8493-4204-9e9e-4bc0ec287735",
@@ -946,7 +947,8 @@
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
       "iec61850_rcb": "rProt",
-      "iec61850_do": "Op"
+      "iec61850_do": "Op",
+      "group_label": "PROTECTION"
     },
     {
       "id": "9e25ed91-9e8b-47a8-9964-da838c67c233",
@@ -979,7 +981,8 @@
       "iec61850_da": "general",
       "iec61850_cdc": "ACD",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "45a3c16a-d444-49ac-b544-434c49f2e409",
@@ -1019,7 +1022,8 @@
       "iec61850_da": "general",
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "b9989933-71f0-42ae-9a31-4b2537f12751",
@@ -1046,7 +1050,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Brker Failure",
+      "group_label": "PROTECTION",
       "library_id": "2549483d-eedd-4dc8-bcdf-87f4ab6242fe",
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Prot",
@@ -1102,7 +1106,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_da": "stVal",
       "iec61850_do": "ClsLO",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "0f33b238-5ce5-4a87-b180-8d501dfa18d1",
@@ -1136,7 +1141,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_da": "stVal",
       "iec61850_do": "Beh",
-      "iec61850_rcb": "rProt"
+      "iec61850_rcb": "rProt",
+      "group_label": "PROTECTION"
     },
     {
       "id": "7198f551-15a8-4efc-afef-aa1221c2e1c9",
@@ -1163,7 +1169,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Vörn",
+      "group_label": "PROTECTION",
       "state_alarm_map": {
         "10": {
           "is_alarm": true,
@@ -1222,7 +1228,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Ev",
       "iec61850_rcb": "rEv",
-      "iec61850_cdc": "SPS"
+      "iec61850_cdc": "SPS",
+      "group_label": "PROTECTION"
     },
     {
       "id": "d3e5217e-f238-4303-b7a4-3b80901aa053",
@@ -1249,7 +1256,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "Mælingar",
+      "group_label": "MEASUREMENT",
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsAB",
@@ -1283,7 +1290,7 @@
       "phase_added": "DESIGN",
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MEASUREMENT",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
       "iec61850_ln_prefix": "V",
@@ -1323,7 +1330,8 @@
       "iec61850_ln_prefix": "V",
       "iec61850_ln_inst": "1",
       "iec61850_do": "PPV.phsCA",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "a81fe11a-7c4e-4759-845b-f3a58679a65f",
@@ -1356,7 +1364,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "6f5f9c8a-f793-42cb-b1f5-7dcc8dbffd6a",
@@ -1389,7 +1398,8 @@
       "iec61850_ln_prefix": "C",
       "iec61850_ln_inst": "1",
       "iec61850_cdc": "CMV",
-      "iec61850_do": "A.phsB"
+      "iec61850_do": "A.phsB",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "e96ef904-3cf6-46f9-b98a-b27b5eab6474",
@@ -1422,7 +1432,8 @@
       "iec61850_da": "cVal.mag.f",
       "iec61850_ln_prefix": "C",
       "iec61850_do": "A.phsC",
-      "iec61850_cdc": "CMV"
+      "iec61850_cdc": "CMV",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "fe7d8d28-f85e-4868-b4bf-7492229fdd81",
@@ -1455,7 +1466,8 @@
       "iec61850_do": "Watt",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "58c29689-b178-4e98-9a0f-a3fe924d9282",
@@ -1488,7 +1500,8 @@
       "iec61850_da": "mag.f",
       "iec61850_dataset": "Meas",
       "iec61850_rcb": "rMeas",
-      "iec61850_cdc": "MV"
+      "iec61850_cdc": "MV",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "235d719e-225f-4e0b-b405-73c684bf7bf3",
@@ -1521,7 +1534,8 @@
       "iec61850_do": "VolAmpr",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "4c034550-e735-4f5f-a08c-7b490e25632c",
@@ -1554,7 +1568,8 @@
       "iec61850_do": "Hz",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "e5eaf379-1af5-431a-b830-b808ec5da0b4",
@@ -1587,7 +1602,8 @@
       "iec61850_do": "WsAccFwd",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "iec61850_ln_inst": "1"
+      "iec61850_ln_inst": "1",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "c5f6960b-b571-42e6-b6b2-0fe16199263b",
@@ -1621,7 +1637,7 @@
       "iec61850_do": "WsAccRev",
       "iec61850_cdc": "MV",
       "iec61850_da": "mag.f",
-      "group_label": null
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "1b44128a-b9b8-4cab-8228-abebd9fec436",
@@ -1654,7 +1670,8 @@
       "iec61850_ln_inst": "1",
       "iec61850_do": "VArsAccFwd",
       "iec61850_cdc": "MV",
-      "iec61850_da": "mag.f"
+      "iec61850_da": "mag.f",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "0e160f5d-08bf-43ae-9480-1caf5851ec53",
@@ -1687,7 +1704,8 @@
       "iec61850_ln_prefix": "ETP",
       "iec61850_ln_inst": "1",
       "iec61850_do": "VArsAccRev",
-      "iec61850_cdc": "MV"
+      "iec61850_cdc": "MV",
+      "group_label": "MEASUREMENT"
     },
     {
       "id": "77d8ec64-ddcc-44b8-8b33-b358515cbe92",
