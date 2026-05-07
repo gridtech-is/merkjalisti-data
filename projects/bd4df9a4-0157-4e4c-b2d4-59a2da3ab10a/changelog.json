@@ -13355,5 +13355,18 @@
     "comment": "group_label breytt",
     "id": "e6564910-5fe3-4881-a2a9-3119332e73ed",
     "timestamp": "2026-05-07T13:38:30.643Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "732a9979-8070-4009-ba64-4fea63139e73",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "Q0_DST.ST",
+    "comment": "Merki bætt við: DST.ST í 40A43",
+    "id": "0aef4cca-c3df-4e1e-99f1-202dc5a89269",
+    "timestamp": "2026-05-07T13:47:04.573Z"
   }
 ]
