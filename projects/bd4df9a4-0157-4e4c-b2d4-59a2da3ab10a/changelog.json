@@ -13368,5 +13368,19 @@
     "comment": "Merki bætt við: DST.ST í 40A43",
     "id": "0aef4cca-c3df-4e1e-99f1-202dc5a89269",
     "timestamp": "2026-05-07T13:47:04.573Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "fab71348-dd4f-4fd3-a6fc-3a6a1cca7d26",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "iec61850_ied",
+    "old_value": "F2540C01",
+    "new_value": "F2540A01",
+    "comment": "iec61850_ied breytt",
+    "id": "f162c932-b398-4066-a026-43f2043be021",
+    "timestamp": "2026-05-07T14:01:04.638Z"
   }
 ]
