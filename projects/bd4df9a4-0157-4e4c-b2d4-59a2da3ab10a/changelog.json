@@ -14060,5 +14060,18 @@
     "comment": "Merki eytt: OILTMP.HiAlm",
     "id": "f734ebf2-c81b-459d-b230-56c50880bcd7",
     "timestamp": "2026-05-07T15:32:03.903Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "65844dc4-a576-4b19-a3a8-f759893d51ce",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "40B01_BCHZ.Alm",
+    "comment": "Merki bætt við: BCHZ.Alm í 40A43",
+    "id": "422ffe8f-8781-4008-8216-40ba62853d45",
+    "timestamp": "2026-05-07T15:33:16.478Z"
   }
 ]
