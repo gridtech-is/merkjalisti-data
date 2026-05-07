@@ -14239,5 +14239,18 @@
     "comment": "group_label breytt",
     "id": "b909939c-9f8d-431a-9669-0d0c512d180c",
     "timestamp": "2026-05-07T15:41:42.108Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "9e6107ba-8334-4dd3-a3f0-4e7344cd0ce0",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "F3040A01_TestSock.Ins",
+    "comment": "Merki bætt við: TestSock.Ins í 40A43",
+    "id": "48581faa-ae70-4551-ae41-0015b1e5ecd4",
+    "timestamp": "2026-05-07T15:42:18.887Z"
   }
 ]
