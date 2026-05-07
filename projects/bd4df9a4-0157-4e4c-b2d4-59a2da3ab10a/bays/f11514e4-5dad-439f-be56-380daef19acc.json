@@ -1069,7 +1069,7 @@
     },
     {
       "id": "e595cac3-185c-45b6-bda8-414f7f05cd23",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540A01",
       "signal_name": "BRFP.LOC",
       "name_is": "AFLROFAVÖRN",
       "name_en": "BREAKER FAILURE PROT LOCKOUT",
@@ -1111,7 +1111,7 @@
     },
     {
       "id": "0f33b238-5ce5-4a87-b180-8d501dfa18d1",
-      "equipment_code": "F240C01",
+      "equipment_code": "F2540A01",
       "signal_name": "BRFP.IA",
       "name_is": "AFLROFAVÖRN",
       "name_en": "CIRCUIT BREAKER FAILURE PROTECTION INACTIVE",
