@@ -1091,5 +1091,17 @@
     "config_version": null,
     "template_id": null,
     "description": ""
+  },
+  {
+    "id": "99cb0219-9dd4-46b0-83eb-dd08ab4e379a",
+    "category": "apparatus",
+    "code": "40B01",
+    "type": "Spennir",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": "220/60 kV spennir"
   }
 ]
