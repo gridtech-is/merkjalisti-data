@@ -2929,7 +2929,18 @@
       "unit_id": null,
       "is_alarm": true,
       "alarm_class": 2,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "00": {
+          "is_alarm": false,
+          "is_event": false,
+          "alarm_class": null
+        },
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 2
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
@@ -2967,7 +2978,57 @@
       "unit_id": null,
       "is_alarm": true,
       "alarm_class": 2,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 2
+        }
+      },
+      "source_type": "IED",
+      "phase_added": "DESIGN",
+      "fat_tested": false,
+      "fat_tested_by": null,
+      "fat_tested_at": null,
+      "fat_result": null,
+      "sat_tested": false,
+      "sat_tested_by": null,
+      "sat_tested_at": null,
+      "sat_result": null,
+      "review_flagged": false,
+      "review_comment": null,
+      "group_label": "PROTECTION"
+    },
+    {
+      "id": "9e6107ba-8334-4dd3-a3f0-4e7344cd0ce0",
+      "equipment_code": "F3040A01",
+      "signal_name": "TestSock.Ins",
+      "name_is": "PRÓFUNARGREIÐA",
+      "name_en": "TEST SOCKET INSERTED",
+      "state_id": "Testmode",
+      "iec61850_ied": "F3040A01",
+      "iec61850_ln_prefix": null,
+      "iec61850_ln_inst": null,
+      "iec61850_rcb": null,
+      "iec61850_dataset_entry": null,
+      "iec61850_ld": null,
+      "iec61850_ln": null,
+      "iec61850_do": null,
+      "iec61850_da": null,
+      "iec61850_fc": null,
+      "iec61850_cdc": null,
+      "iec61850_dataset": null,
+      "library_id": "07996e70-928a-4045-8b42-90c3123ed871",
+      "unit_id": null,
+      "is_alarm": false,
+      "alarm_class": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
