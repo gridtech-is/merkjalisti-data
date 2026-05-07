@@ -790,9 +790,10 @@
     "type": null,
     "ied_name": "RET670",
     "manufacturer": "ABB",
-    "model": null,
+    "model": "IED670",
     "template_id": null,
-    "description": ""
+    "description": "",
+    "config_version": "RET670ver1.2.3.0"
   },
   {
     "id": "1eae68f3-d79e-4c05-aae6-a7ee7e3bb244",
