@@ -9789,5 +9789,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "003565c4-5608-4378-98f2-1ba3b35edf26",
+    "code": "OILLVLMAX.ALM",
+    "name_is": "OLÍUHÆÐ Há",
+    "name_en": "OIL LEVEL MAX",
+    "description_is": "Olíuhæð viðvörun",
+    "state_id": "Alarm",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 2
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C8",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 2,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": null,
+    "iec61850_cdc": null,
+    "iec61850_dataset": null,
+    "comments": null
   }
 ]
