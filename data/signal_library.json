@@ -9645,5 +9645,29 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "fa29d766-80b2-4cf6-9f28-a7630b7a56de",
+    "code": "REF.ST",
+    "name_is": "RESIDUAL JARÐSTR.VÖRN IN >",
+    "name_en": " RESIDUAL EARTH FAULT PROTECTION",
+    "description_is": "Jarðstraumur IN > start",
+    "state_id": "StepSta1",
+    "state_alarm_map": null,
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": null,
+    "hmi_event": true,
+    "is_alarm": false,
+    "alarm_class": null,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": "Str",
+    "iec61850_da": "general",
+    "iec61850_fc": "ST",
+    "iec61850_cdc": "ACT",
+    "iec61850_dataset": "Prot",
+    "comments": null
   }
 ]
