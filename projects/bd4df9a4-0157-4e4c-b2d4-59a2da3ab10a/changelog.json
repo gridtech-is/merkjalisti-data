@@ -13313,5 +13313,19 @@
     "comment": "group_label breytt",
     "id": "0a836460-b715-4f2e-94e0-bce09b67dbec",
     "timestamp": "2026-05-07T13:38:13.319Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "dbe012ae-1543-4dd7-9052-a67d93f44ef8",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "group_label",
+    "old_value": null,
+    "new_value": "PROTECTION",
+    "comment": "group_label breytt",
+    "id": "9a31d343-c77f-489d-8c13-cee4f4de2cb4",
+    "timestamp": "2026-05-07T13:38:16.322Z"
   }
 ]
