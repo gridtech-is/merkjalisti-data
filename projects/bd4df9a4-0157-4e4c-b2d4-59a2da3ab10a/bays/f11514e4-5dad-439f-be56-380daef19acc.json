@@ -2752,7 +2752,13 @@
       "unit_id": null,
       "is_alarm": true,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "01": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 3
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
