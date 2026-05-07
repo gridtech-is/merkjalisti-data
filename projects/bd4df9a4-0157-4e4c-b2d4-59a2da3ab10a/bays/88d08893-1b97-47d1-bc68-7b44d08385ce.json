@@ -744,7 +744,7 @@
       "review_comment": null,
       "group_label": "DISCONNECTOR",
       "iec61850_do": "Pos",
-      "iec61850_da": "Cancel.ctlVal"
+      "iec61850_da": "Oper.ctlVal"
     },
     {
       "id": "129c241d-8283-4752-ad99-cecd40831199",
