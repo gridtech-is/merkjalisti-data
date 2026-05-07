@@ -9762,9 +9762,9 @@
   },
   {
     "id": "9cdae73f-716f-4a7c-95b0-c7371020214a",
-    "code": "OILLVLMAX.ALM",
-    "name_is": "OLÍUHÆÐ Há",
-    "name_en": "OIL LEVEL MAX",
+    "code": "OILLVLMIN.ALM",
+    "name_is": "OLÍUHÆÐ LÁ",
+    "name_en": "OIL LEVEL MIN",
     "description_is": "Olíuhæð viðvörun",
     "state_id": "Alarm",
     "state_alarm_map": {
