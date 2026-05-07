@@ -9669,5 +9669,35 @@
     "iec61850_cdc": "ACT",
     "iec61850_dataset": "Prot",
     "comments": null
+  },
+  {
+    "id": "11ff5651-24b8-458c-82fa-c4d822687763",
+    "code": "REF.TR",
+    "name_is": "RESIDUAL JARÐSTR.VÖRN IN >",
+    "name_en": " RESIDUAL EARTH FAULT PROTECTION",
+    "description_is": "Jarðstraumur IN > start",
+    "state_id": "Trip",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": null,
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": null,
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": "ST",
+    "iec61850_cdc": null,
+    "iec61850_dataset": "Prot",
+    "comments": null
   }
 ]
