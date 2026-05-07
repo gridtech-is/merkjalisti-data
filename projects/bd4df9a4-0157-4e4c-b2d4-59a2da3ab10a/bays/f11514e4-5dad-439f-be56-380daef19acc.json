@@ -2356,7 +2356,7 @@
       "state_id": "Tripnormal",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
-      "iec61850_ln_inst": "5",
+      "iec61850_ln_inst": "2",
       "iec61850_rcb": "rEv",
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
