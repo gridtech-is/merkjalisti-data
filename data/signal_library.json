@@ -9729,5 +9729,35 @@
     "iec61850_cdc": "SPS",
     "iec61850_dataset": "MON",
     "comments": null
+  },
+  {
+    "id": "1c52ad26-dbfe-4582-bf6f-ad3877f75a68",
+    "code": "WTMPSEC.ALM",
+    "name_is": "VAFHITI EFTIRVAFS",
+    "name_en": "WINDING TEMP SECONDARY",
+    "description_is": "Vafhiti viðvörun",
+    "state_id": "Alarm",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 1
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C8",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 1,
+    "to_control_room": true,
+    "source_type": "IED",
+    "iec61850_ln": "GGIO",
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": "ST",
+    "iec61850_cdc": "SPS",
+    "iec61850_dataset": "MON",
+    "comments": null
   }
 ]
