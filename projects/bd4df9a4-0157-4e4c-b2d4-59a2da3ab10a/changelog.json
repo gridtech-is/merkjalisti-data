@@ -14252,5 +14252,19 @@
     "comment": "Merki bætt við: TestSock.Ins í 40A43",
     "id": "48581faa-ae70-4551-ae41-0015b1e5ecd4",
     "timestamp": "2026-05-07T15:42:18.887Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "9e6107ba-8334-4dd3-a3f0-4e7344cd0ce0",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "group_label",
+    "old_value": null,
+    "new_value": "PROTECTION",
+    "comment": "group_label breytt",
+    "id": "637df66d-c82b-4ee0-944c-9fa00dff8c83",
+    "timestamp": "2026-05-07T15:42:24.302Z"
   }
 ]
