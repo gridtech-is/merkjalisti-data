@@ -14086,5 +14086,19 @@
     "comment": "Merki bætt við: OILLVLMIN.ALM í 40A43",
     "id": "08844f4c-7228-40cf-93d5-4c4e92d556e9",
     "timestamp": "2026-05-07T15:35:36.246Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "c43d2bcb-2e58-430f-b4c0-f6be54cee02c",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "iec61850_ied",
+    "old_value": "F2540A01",
+    "new_value": "F3040A01",
+    "comment": "iec61850_ied breytt",
+    "id": "4df9bac6-8701-4b89-a099-1a9fa4da13a6",
+    "timestamp": "2026-05-07T15:35:49.192Z"
   }
 ]
