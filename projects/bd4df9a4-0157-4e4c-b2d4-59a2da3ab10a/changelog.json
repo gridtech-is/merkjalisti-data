@@ -14488,5 +14488,18 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "c05ec85e-9120-4d66-ac84-aac71e490f5e",
     "timestamp": "2026-05-07T15:59:54.107Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "dbe012ae-1543-4dd7-9052-a67d93f44ef8",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "RECTIFIER_Rmt.Tr",
+    "new_value": null,
+    "comment": "Merki eytt (block): Rmt.Tr",
+    "id": "d8d65a0a-dd78-4f27-ba5f-41da2867196e",
+    "timestamp": "2026-05-07T16:00:05.875Z"
   }
 ]
