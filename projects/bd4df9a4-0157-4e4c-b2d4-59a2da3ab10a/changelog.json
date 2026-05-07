@@ -14008,5 +14008,18 @@
     "comment": "iec61850_cdc breytt",
     "id": "31cd6b08-7b91-427c-83fe-023bdffcae8c",
     "timestamp": "2026-05-07T14:38:25.682Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "85470b73-d31f-43fd-856d-2d7b28eb96c9",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "F3040A01_Rmt.Tr.Out",
+    "comment": "Merki bætt við: Rmt.Tr.Out í 40A43",
+    "id": "33484691-30d6-4ad0-9865-69870dd1e6a8",
+    "timestamp": "2026-05-07T14:40:57.016Z"
   }
 ]
