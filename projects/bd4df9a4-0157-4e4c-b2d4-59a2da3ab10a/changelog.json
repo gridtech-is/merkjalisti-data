@@ -13871,5 +13871,18 @@
     "comment": "iec61850_ld breytt",
     "id": "0ddbb9c1-25af-4f3e-b87f-b755b7feec67",
     "timestamp": "2026-05-07T14:27:07.549Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "7bf54606-f76f-40d0-99a9-808b4c356c72",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "Q0_REF.ST",
+    "comment": "Merki bætt við: REF.ST í 40A43",
+    "id": "fc1299ed-3983-430a-8dc0-0d49528f0e32",
+    "timestamp": "2026-05-07T14:34:47.366Z"
   }
 ]
