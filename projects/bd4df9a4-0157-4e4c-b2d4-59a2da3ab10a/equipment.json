@@ -1115,5 +1115,17 @@
     "config_version": null,
     "template_id": null,
     "description": "220/66 kv spennir"
+  },
+  {
+    "id": "acda8b28-bab8-4169-ad03-95163585358e",
+    "category": "apparatus",
+    "code": "VT BUS 1",
+    "type": "Annað",
+    "ied_name": null,
+    "manufacturer": null,
+    "model": null,
+    "config_version": null,
+    "template_id": null,
+    "description": ""
   }
 ]
