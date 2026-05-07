@@ -3056,7 +3056,7 @@
       "iec61850_rcb": null,
       "iec61850_dataset_entry": null,
       "iec61850_ld": "LD0",
-      "iec61850_ln": "GAPC",
+      "iec61850_ln": "GGIO",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal",
       "iec61850_fc": "ST",
