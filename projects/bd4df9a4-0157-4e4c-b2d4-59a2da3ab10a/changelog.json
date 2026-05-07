@@ -14335,5 +14335,19 @@
     "comment": "equipment_code breytt",
     "id": "b1772625-6f2a-4075-b60f-bd5072cd91c7",
     "timestamp": "2026-05-07T15:47:39.684Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "afe709e2-8235-4fdd-a194-a26fe0b6cc09",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "iec61850_ln",
+    "old_value": "GAPC",
+    "new_value": "GGIO",
+    "comment": "iec61850_ln breytt",
+    "id": "d1bf611d-df1d-4065-a48c-3879b26f9eea",
+    "timestamp": "2026-05-07T15:48:33.310Z"
   }
 ]
