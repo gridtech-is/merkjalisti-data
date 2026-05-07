@@ -14294,5 +14294,18 @@
     "comment": "iec61850_da breytt",
     "id": "12d36a65-ee43-4572-b07e-e472691696aa",
     "timestamp": "2026-05-07T15:45:57.295Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "afe709e2-8235-4fdd-a194-a26fe0b6cc09",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "Q0_IRF",
+    "comment": "Merki bætt við: IRF í 40A43",
+    "id": "e574abbb-5f68-45ec-add4-3c2c87f66e0b",
+    "timestamp": "2026-05-07T15:47:12.231Z"
   }
 ]
