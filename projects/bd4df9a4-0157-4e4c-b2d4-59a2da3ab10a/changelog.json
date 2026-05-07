@@ -14034,5 +14034,18 @@
     "comment": "Merki bætt við: OILTMP.HiAlm í 40A43",
     "id": "b1f449e2-32be-4a13-bd0f-3ba56ce104f1",
     "timestamp": "2026-05-07T15:08:19.861Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_ADDED",
+    "target_id": "2b38316e-4f8d-4e2b-8548-3bb6d52f576e",
+    "target_type": "signal",
+    "field": null,
+    "old_value": null,
+    "new_value": "40B01_OILTMP.HiAlm",
+    "comment": "Merki bætt við: OILTMP.HiAlm í 40A43",
+    "id": "730e0513-a7e3-4ef9-b168-b62883fb10f2",
+    "timestamp": "2026-05-07T15:20:54.076Z"
   }
 ]
