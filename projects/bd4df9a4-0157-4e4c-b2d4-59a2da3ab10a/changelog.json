@@ -13884,5 +13884,19 @@
     "comment": "Merki bætt við: REF.ST í 40A43",
     "id": "fc1299ed-3983-430a-8dc0-0d49528f0e32",
     "timestamp": "2026-05-07T14:34:47.366Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "7bf54606-f76f-40d0-99a9-808b4c356c72",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "equipment_code",
+    "old_value": "Q0",
+    "new_value": "F3040A01",
+    "comment": "equipment_code breytt",
+    "id": "f2052568-5772-4ae4-b9da-4d9fa88d875c",
+    "timestamp": "2026-05-07T14:34:57.232Z"
   }
 ]
