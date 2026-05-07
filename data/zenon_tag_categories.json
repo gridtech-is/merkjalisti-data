@@ -64,5 +64,11 @@
     "key": "MCCB",
     "name_is": "MCCB",
     "name_en": "MCCB"
+  },
+  {
+    "id": "84f62020-18c4-400f-8d2a-81ef45879e81",
+    "key": "TRANSFORMER",
+    "name_is": "Spennir",
+    "name_en": "Transformer"
   }
 ]
