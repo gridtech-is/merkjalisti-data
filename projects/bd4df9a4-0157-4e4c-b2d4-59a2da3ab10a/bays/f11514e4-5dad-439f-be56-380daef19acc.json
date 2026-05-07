@@ -1791,7 +1791,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -1835,7 +1835,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -1879,7 +1879,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -1923,7 +1923,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -1967,7 +1967,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2011,7 +2011,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2055,7 +2055,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2099,7 +2099,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "SF6 GAS",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2143,7 +2143,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": "MBC",
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2187,7 +2187,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2231,7 +2231,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2275,7 +2275,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "MCB",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2363,7 +2363,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
@@ -2407,7 +2407,7 @@
       "sat_result": null,
       "review_flagged": false,
       "review_comment": null,
-      "group_label": null,
+      "group_label": "PROTECTION",
       "iec61850_do": "Ind",
       "iec61850_da": "stVal"
     },
