@@ -13815,5 +13815,19 @@
     "comment": "equipment_code breytt",
     "id": "e64424ab-e045-47db-8079-a60f77998cf9",
     "timestamp": "2026-05-07T14:23:42.030Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "d604ff52-7a4d-4261-a6de-b6120082e28f",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "iec61850_ln",
+    "old_value": "PTOC",
+    "new_value": "PTRC",
+    "comment": "iec61850_ln breytt",
+    "id": "a9d994d9-9317-411b-bb67-9f6299bc9afe",
+    "timestamp": "2026-05-07T14:25:47.305Z"
   }
 ]
