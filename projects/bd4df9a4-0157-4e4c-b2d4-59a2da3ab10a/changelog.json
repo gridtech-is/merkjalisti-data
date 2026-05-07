@@ -13229,5 +13229,19 @@
     "comment": "iec61850_da breytt",
     "id": "a37d9fd2-39ff-49d6-aca8-a4d8f3759301",
     "timestamp": "2026-05-07T13:32:15.867Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "fab71348-dd4f-4fd3-a6fc-3a6a1cca7d26",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "group_label",
+    "old_value": "Afrofi Q0",
+    "new_value": "CIRCUIT BREAKER",
+    "comment": "group_label breytt",
+    "id": "3e7a1861-2729-49af-a255-e1a5f9388149",
+    "timestamp": "2026-05-07T13:36:17.498Z"
   }
 ]
