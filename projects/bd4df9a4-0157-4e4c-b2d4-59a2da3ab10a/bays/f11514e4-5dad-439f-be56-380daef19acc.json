@@ -2727,7 +2727,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     },
     {
       "id": "9bb4b3f7-c52a-49e2-88c7-0ba586da08bc",
@@ -2770,7 +2771,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     },
     {
       "id": "7bf54606-f76f-40d0-99a9-808b4c356c72",
@@ -2813,7 +2815,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     },
     {
       "id": "b3380988-e42c-4831-9822-9006d6f043f4",
@@ -2856,7 +2859,8 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     },
     {
       "id": "85470b73-d31f-43fd-856d-2d7b28eb96c9",
@@ -2899,11 +2903,50 @@
       "sat_tested_at": null,
       "sat_result": null,
       "review_flagged": false,
-      "review_comment": null
+      "review_comment": null,
+      "group_label": "PROTECTION"
     },
     {
       "id": "7d72063b-a2c6-4d54-9c4e-b379161122e2",
       "equipment_code": "VT BUS 1",
+      "signal_name": "FUTR.VT",
+      "name_is": "VT SJÁLFVAR",
+      "name_en": "MCB FOR VT PROTECTION",
+      "state_id": "Tripnormal",
+      "iec61850_ied": null,
+      "iec61850_ln_prefix": null,
+      "iec61850_ln_inst": null,
+      "iec61850_rcb": null,
+      "iec61850_dataset_entry": null,
+      "iec61850_ld": null,
+      "iec61850_ln": null,
+      "iec61850_do": null,
+      "iec61850_da": null,
+      "iec61850_fc": null,
+      "iec61850_cdc": null,
+      "iec61850_dataset": null,
+      "library_id": "db4d025e-1c27-4ee1-8dbb-9ad9ee0308f5",
+      "unit_id": null,
+      "is_alarm": true,
+      "alarm_class": 2,
+      "state_alarm_map": null,
+      "source_type": "IED",
+      "phase_added": "DESIGN",
+      "fat_tested": false,
+      "fat_tested_by": null,
+      "fat_tested_at": null,
+      "fat_result": null,
+      "sat_tested": false,
+      "sat_tested_by": null,
+      "sat_tested_at": null,
+      "sat_result": null,
+      "review_flagged": false,
+      "review_comment": null,
+      "group_label": "PROTECTION"
+    },
+    {
+      "id": "209e46c7-0df7-4455-a23e-af93ea5f52d0",
+      "equipment_code": "VT BUS 2",
       "signal_name": "FUTR.VT",
       "name_is": "VT SJÁLFVAR",
       "name_en": "MCB FOR VT PROTECTION",
@@ -3166,44 +3209,6 @@
       "review_flagged": false,
       "review_comment": null,
       "group_label": "TRANSFORMER"
-    },
-    {
-      "id": "209e46c7-0df7-4455-a23e-af93ea5f52d0",
-      "equipment_code": "VT BUS 2",
-      "signal_name": "FUTR.VT",
-      "name_is": "VT SJÁLFVAR",
-      "name_en": "MCB FOR VT PROTECTION",
-      "state_id": "Tripnormal",
-      "iec61850_ied": null,
-      "iec61850_ln_prefix": null,
-      "iec61850_ln_inst": null,
-      "iec61850_rcb": null,
-      "iec61850_dataset_entry": null,
-      "iec61850_ld": null,
-      "iec61850_ln": null,
-      "iec61850_do": null,
-      "iec61850_da": null,
-      "iec61850_fc": null,
-      "iec61850_cdc": null,
-      "iec61850_dataset": null,
-      "library_id": "db4d025e-1c27-4ee1-8dbb-9ad9ee0308f5",
-      "unit_id": null,
-      "is_alarm": true,
-      "alarm_class": 2,
-      "state_alarm_map": null,
-      "source_type": "IED",
-      "phase_added": "DESIGN",
-      "fat_tested": false,
-      "fat_tested_by": null,
-      "fat_tested_at": null,
-      "fat_result": null,
-      "sat_tested": false,
-      "sat_tested_by": null,
-      "sat_tested_at": null,
-      "sat_result": null,
-      "review_flagged": false,
-      "review_comment": null,
-      "group_label": "PROTECTION"
     }
   ],
   "status": "DRAFT",
