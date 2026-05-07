@@ -2909,7 +2909,7 @@
     {
       "id": "7d72063b-a2c6-4d54-9c4e-b379161122e2",
       "equipment_code": "VT BUS 1",
-      "signal_name": "FUTR.VT",
+      "signal_name": "dis",
       "name_is": "VT SJÁLFVAR",
       "name_en": "MCB FOR VT PROTECTION",
       "state_id": "Tripnormal",
