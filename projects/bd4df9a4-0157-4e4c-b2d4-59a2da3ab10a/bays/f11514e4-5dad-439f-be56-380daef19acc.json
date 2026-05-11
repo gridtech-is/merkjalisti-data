@@ -344,9 +344,9 @@
     {
       "id": "49e3eb0e-b180-4f94-8b04-b2c41fb09e33",
       "equipment_code": "Q0",
-      "signal_name": "SprCha.Alm",
-      "name_is": "GORMUR",
-      "name_en": "CIRCUIT BREAKER SPRING NOT CHARGED",
+      "signal_name": "SPRCHAL1.ALM",
+      "name_is": "GORMUR L1",
+      "name_en": "CIRCUIT BREAKER L1",
       "state_id": "NotCharge",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
@@ -359,9 +359,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "111dd1a8-667c-462e-9f8e-ad9282f25e08",
+      "library_id": "9cb580ee-d987-4010-98a6-bbdea2c24fec",
       "is_alarm": true,
-      "alarm_class": null,
+      "alarm_class": 3,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -369,7 +369,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
