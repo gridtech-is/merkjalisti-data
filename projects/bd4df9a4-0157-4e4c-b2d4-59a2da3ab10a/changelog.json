@@ -14653,5 +14653,19 @@
     "comment": "signal_name breytt",
     "id": "b45fbe10-0435-4052-85f6-3904e41322fd",
     "timestamp": "2026-05-11T10:57:22.559Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "4dc2a9b3-2791-441b-aa9d-d94e0a2fdd11",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "signal_name",
+    "old_value": "PoleDisc.Alm",
+    "new_value": "SPRCHAL3.ALM",
+    "comment": "signal_name breytt",
+    "id": "bc3c1bb8-31cf-4d69-b307-7f4316c13f58",
+    "timestamp": "2026-05-11T10:57:49.711Z"
   }
 ]
