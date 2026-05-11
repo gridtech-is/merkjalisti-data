@@ -2198,11 +2198,11 @@
     },
     {
       "id": "414f53f0-e7e4-4bc7-9fe8-db79b868e73c",
-      "equipment_code": "+R",
-      "signal_name": "FUTR.DC",
-      "name_is": "DC SJÁLFVAR",
-      "name_en": "DC MCB OPEN",
-      "state_id": "Tripnormal",
+      "equipment_code": "Q0",
+      "signal_name": "Motor.FuFail",
+      "name_is": "SJÁLFVAR MÓTOR",
+      "name_en": "MCB FOR MOTOR",
+      "state_id": "Opeen",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "10",
@@ -2214,9 +2214,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "ee7ee0ae-7f12-4721-ab7c-7f19e6df2df1",
+      "library_id": "7d4c98de-23c9-47cb-a63f-a0c4d16cc1c1",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": null,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
