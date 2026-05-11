@@ -14598,5 +14598,18 @@
     "comment": "iec61850_ln_inst breytt",
     "id": "1b8b64c5-6586-4496-8cc2-3c9013fe375a",
     "timestamp": "2026-05-11T10:51:40.587Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "413023a2-d677-465b-9499-aafbc219228a",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "Q0_GAS.INSBLK",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSBLK",
+    "id": "ebf94d10-a56c-4544-9769-e7e804557176",
+    "timestamp": "2026-05-11T10:51:54.527Z"
   }
 ]
