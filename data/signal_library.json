@@ -9819,5 +9819,35 @@
     "iec61850_cdc": null,
     "iec61850_dataset": null,
     "comments": null
+  },
+  {
+    "id": "9cb580ee-d987-4010-98a6-bbdea2c24fec",
+    "code": "SPRCHAL1.ALM",
+    "name_is": "GORMUR L1",
+    "name_en": "CIRCUIT BREAKER L1",
+    "description_is": "Gormur ekki spenntur",
+    "state_id": "NotCharge",
+    "state_alarm_map": {
+      "01": {
+        "is_alarm": true,
+        "is_event": false,
+        "alarm_class": 3
+      }
+    },
+    "signal_type": "SP",
+    "unit_id": null,
+    "severity_code": "C8",
+    "hmi_event": true,
+    "is_alarm": true,
+    "alarm_class": 3,
+    "to_control_room": true,
+    "source_type": "HARDWIRED",
+    "iec61850_ln": "SCBR",
+    "iec61850_do": null,
+    "iec61850_da": null,
+    "iec61850_fc": "ST",
+    "iec61850_cdc": "SPS",
+    "iec61850_dataset": "Ev",
+    "comments": null
   }
 ]
