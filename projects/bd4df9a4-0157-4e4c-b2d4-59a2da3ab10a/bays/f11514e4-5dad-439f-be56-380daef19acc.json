@@ -1238,11 +1238,11 @@
     },
     {
       "id": "3c012787-a9f7-4a2f-bbbc-cf727f5f8b6e",
-      "equipment_code": "F240C02",
-      "signal_name": "IRF",
-      "name_is": "BÚNAÐUR IRF",
-      "name_en": "EQUIPMENT IRF",
-      "state_id": "OkFailure",
+      "equipment_code": "Q0",
+      "signal_name": "PoleDisc.Alm",
+      "name_is": "MISMUNASTAÐA PÓLA",
+      "name_en": "CIRCUIT BREAKER  POLE DISCREPANCY",
+      "state_id": "Alarm",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "4",
@@ -1254,7 +1254,7 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Stat",
-      "library_id": "2cdb7b6e-b505-498b-87a9-b213a3bdb8ce",
+      "library_id": "e2a246d4-6efb-438f-8334-e4379ce5f951",
       "is_alarm": true,
       "alarm_class": null,
       "state_alarm_map": {
@@ -1264,7 +1264,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
