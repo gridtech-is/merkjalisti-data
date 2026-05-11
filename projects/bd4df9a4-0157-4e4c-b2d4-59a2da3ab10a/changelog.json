@@ -14681,5 +14681,19 @@
     "comment": "equipment_code breytt",
     "id": "d64fbe99-fef5-46b5-848f-68a9c519bc8f",
     "timestamp": "2026-05-11T10:58:19.933Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "414f53f0-e7e4-4bc7-9fe8-db79b868e73c",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "signal_name",
+    "old_value": "FUTR.DC",
+    "new_value": "Motor.FuFail",
+    "comment": "signal_name breytt",
+    "id": "770c975f-6cd0-4065-b2bd-1dc9c5999882",
+    "timestamp": "2026-05-11T10:58:38.578Z"
   }
 ]
