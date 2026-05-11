@@ -14611,5 +14611,19 @@
     "comment": "Merki eytt: GAS.INSBLK",
     "id": "ebf94d10-a56c-4544-9769-e7e804557176",
     "timestamp": "2026-05-11T10:51:54.527Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "49e3eb0e-b180-4f94-8b04-b2c41fb09e33",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "signal_name",
+    "old_value": "HYRDPUMP.FAULT",
+    "new_value": "SprCha.Alm",
+    "comment": "signal_name breytt",
+    "id": "4d79f406-e8f5-4d24-bfcb-ac13cbe47bca",
+    "timestamp": "2026-05-11T10:52:29.721Z"
   }
 ]
