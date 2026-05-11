@@ -256,10 +256,10 @@
     {
       "id": "3b4e2196-48c6-4006-b08e-9b3d9fffe0d0",
       "equipment_code": "Q0",
-      "signal_name": "XCBR.BlkOpn",
-      "name_is": "STÝRING OPNA",
-      "name_en": "CIRCUIT BREAKER  OPERATION OPEN ALLOWED",
-      "state_id": "AllowBloc",
+      "signal_name": "SPRCHAL2.ALM",
+      "name_is": "GORMUR L2",
+      "name_en": "CIRCUIT BREAKER L2",
+      "state_id": "NotCharge",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "8",
@@ -271,9 +271,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPC",
       "iec61850_dataset": "Ev",
-      "library_id": "bd0a6b54-853c-4f8d-9023-9ef14e307805",
+      "library_id": "5842e143-d6ed-46c7-80a8-4e48805fc603",
       "is_alarm": true,
-      "alarm_class": null,
+      "alarm_class": 3,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -281,7 +281,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
@@ -300,10 +300,10 @@
     {
       "id": "4dc2a9b3-2791-441b-aa9d-d94e0a2fdd11",
       "equipment_code": "Q0",
-      "signal_name": "PoleDisc.Alm",
-      "name_is": "MISMUNASTAÐA PÓLA",
-      "name_en": "CIRCUIT BREAKER  POLE DISCREPANCY",
-      "state_id": "Alarm",
+      "signal_name": "SPRCHAL3.ALM",
+      "name_is": "GORMUR L3",
+      "name_en": "CIRCUIT BREAKER L3",
+      "state_id": "NotCharge",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "9",
@@ -315,9 +315,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "ACT",
       "iec61850_dataset": "Ev",
-      "library_id": "e2a246d4-6efb-438f-8334-e4379ce5f951",
+      "library_id": "ed79a30b-2b3d-4485-8ba2-da13cd566a4a",
       "is_alarm": true,
-      "alarm_class": null,
+      "alarm_class": 3,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -325,7 +325,7 @@
           "alarm_class": 1
         }
       },
-      "source_type": "IED",
+      "source_type": "HARDWIRED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
