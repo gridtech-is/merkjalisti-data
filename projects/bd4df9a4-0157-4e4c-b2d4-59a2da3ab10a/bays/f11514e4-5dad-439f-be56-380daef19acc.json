@@ -2242,11 +2242,11 @@
     },
     {
       "id": "b6dd935b-1098-449e-bb6b-c57bc4c2639e",
-      "equipment_code": "+R",
-      "signal_name": "FUTR.AC",
-      "name_is": "AC SJÁLFVAR",
-      "name_en": "AC MCB OPEN",
-      "state_id": "Tripnormal",
+      "equipment_code": "Q1",
+      "signal_name": "DS.MotDrv.Alm",
+      "name_is": "SJÁLFVAR DRIF SKILROFA",
+      "name_en": "MCB DISCONNECTOR SWITCH SUPPLY",
+      "state_id": "Opeen",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "11",
@@ -2258,9 +2258,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "77ed4d25-4d83-4f09-935e-45f9d2dfa6fb",
+      "library_id": "f643ae12-426d-4eec-b79a-4c43489e92d5",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": null,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
