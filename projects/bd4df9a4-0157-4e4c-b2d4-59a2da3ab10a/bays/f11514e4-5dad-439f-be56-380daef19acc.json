@@ -1890,11 +1890,11 @@
     },
     {
       "id": "f4d52522-c317-44ea-9bfa-c1c52e93f452",
-      "equipment_code": "B203",
-      "signal_name": "GAS.INSALM2",
-      "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "equipment_code": "Q0",
+      "signal_name": "Heat.Alm",
+      "name_is": "HITAKERFI",
+      "name_en": "HEATING SYSTEM ALARM",
+      "state_id": "Alarm",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "16",
@@ -1906,9 +1906,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
+      "library_id": "575766e6-c49e-453e-8357-145a36528590",
       "is_alarm": true,
-      "alarm_class": 3,
+      "alarm_class": null,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -1916,7 +1916,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
