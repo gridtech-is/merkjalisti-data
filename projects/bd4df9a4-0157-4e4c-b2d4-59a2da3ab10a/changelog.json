@@ -14821,5 +14821,18 @@
     "comment": "signal_name breytt",
     "id": "a22a28a0-bf56-4982-956c-097b75e3f9c5",
     "timestamp": "2026-05-12T18:04:55.313Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "SIGNAL_REMOVED",
+    "target_id": "f348b5e9-360d-432d-b326-6a04a84ba413",
+    "target_type": "signal",
+    "field": null,
+    "old_value": "B232_GAS.INSALM2",
+    "new_value": null,
+    "comment": "Merki eytt: GAS.INSALM2",
+    "id": "c2b37d53-f248-4e61-9ece-27c883c1a88a",
+    "timestamp": "2026-05-12T18:05:45.918Z"
   }
 ]
