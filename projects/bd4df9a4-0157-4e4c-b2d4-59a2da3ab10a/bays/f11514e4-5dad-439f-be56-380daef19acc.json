@@ -211,11 +211,11 @@
     },
     {
       "id": "0b5a8b51-94b7-4efe-80b7-fc833abda7ff",
-      "equipment_code": "Q0",
-      "signal_name": "TCS1.Alm",
-      "name_is": "VÖKTUN ÚTLEYSIRÁS 1",
-      "name_en": "TRIP CIRCUIT 1 SUPERVISON",
-      "state_id": "Alarm",
+      "equipment_code": "+S",
+      "signal_name": "FUST.DC",
+      "name_is": "DC SJÁLFVAR",
+      "name_en": "DC MCB OPEN",
+      "state_id": "Opeen",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "13",
@@ -227,8 +227,8 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "560bca5d-497c-4581-87a1-c28ac06fd52e",
-      "is_alarm": true,
+      "library_id": "591d1f11-83cc-410e-9a8e-a4a339833f40",
+      "is_alarm": false,
       "alarm_class": null,
       "state_alarm_map": {
         "01": {
