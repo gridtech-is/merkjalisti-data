@@ -14904,5 +14904,19 @@
     "comment": "equipment_code breytt",
     "id": "ccec3adb-7a1f-4093-a158-7540394a6c25",
     "timestamp": "2026-05-12T18:07:39.463Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "f4d52522-c317-44ea-9bfa-c1c52e93f452",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "signal_name",
+    "old_value": "GAS.INSALM2",
+    "new_value": "Heat.Alm",
+    "comment": "signal_name breytt",
+    "id": "46ffffaf-14b3-41f7-9246-f380a880f906",
+    "timestamp": "2026-05-12T18:07:58.665Z"
   }
 ]
