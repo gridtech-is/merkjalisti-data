@@ -14876,5 +14876,19 @@
     "comment": "signal_name breytt",
     "id": "1f7deabc-5b89-4765-bb38-9980f15c09e6",
     "timestamp": "2026-05-12T18:07:04.308Z"
+  },
+  {
+    "user": "gridtech-is",
+    "phase": "DESIGN",
+    "type": "FIELD_CHANGED",
+    "target_id": "f348b5e9-360d-432d-b326-6a04a84ba413",
+    "target_type": "signal",
+    "target_parent_id": "f11514e4-5dad-439f-be56-380daef19acc",
+    "field": "signal_name",
+    "old_value": "GAS.INSALM2",
+    "new_value": "FUTR.AC",
+    "comment": "signal_name breytt",
+    "id": "73bd4d16-dc71-4264-868f-3844f3acaadc",
+    "timestamp": "2026-05-12T18:07:15.827Z"
   }
 ]
