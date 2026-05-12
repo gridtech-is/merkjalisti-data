@@ -73,7 +73,18 @@
       "iec61850_dataset": "N/A",
       "is_alarm": false,
       "alarm_class": null,
-      "state_alarm_map": null,
+      "state_alarm_map": {
+        "11": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        },
+        "00": {
+          "is_alarm": true,
+          "is_event": false,
+          "alarm_class": 1
+        }
+      },
       "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
