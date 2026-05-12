@@ -1758,11 +1758,11 @@
     },
     {
       "id": "ef774cfd-e275-4337-9687-ed271805e65b",
-      "equipment_code": "B212",
-      "signal_name": "GAS.INSALM2",
-      "name_is": "GAS ÞRÝSTINGUR",
-      "name_en": "GAS LOW PRESSURE/LEAKAGE ALARM (STAGE 2)",
-      "state_id": "GasStage2",
+      "equipment_code": "+S",
+      "signal_name": "FUST.AC",
+      "name_is": "AC SJÁLFVAR",
+      "name_en": "AC MCB OPEN",
+      "state_id": "Opeen",
       "iec61850_ied": "F2540A01",
       "iec61850_ln_prefix": "SP",
       "iec61850_ln_inst": "14",
@@ -1774,9 +1774,9 @@
       "iec61850_fc": "ST",
       "iec61850_cdc": "SPS",
       "iec61850_dataset": "Ev",
-      "library_id": "f06f0204-e5fe-4891-abf4-bf0673442dac",
-      "is_alarm": true,
-      "alarm_class": 3,
+      "library_id": "e168a1df-5849-4e04-95a8-56d02eae1ada",
+      "is_alarm": false,
+      "alarm_class": null,
       "state_alarm_map": {
         "01": {
           "is_alarm": true,
@@ -1784,7 +1784,7 @@
           "alarm_class": 3
         }
       },
-      "source_type": "HARDWIRED",
+      "source_type": "IED",
       "phase_added": "DESIGN",
       "fat_tested": false,
       "fat_tested_by": null,
